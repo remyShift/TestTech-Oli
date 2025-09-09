@@ -2,4 +2,15 @@
 
 @theme {
   --color-primary: #F7F6E6;
+  --font-abc-diatype: "ABC Diatype";
+}
+
+@font-face {
+  font-family: "ABC Diatype";
+  src: url("https://db.onlinewebfonts.com/t/4c4a87973ef80fc72049e01b9085fadc.eot");
+  src: url("https://db.onlinewebfonts.com/t/4c4a87973ef80fc72049e01b9085fadc.eot?#iefix")format("embedded-opentype"),
+  url("https://db.onlinewebfonts.com/t/4c4a87973ef80fc72049e01b9085fadc.woff2")format("woff2"),
+  url("https://db.onlinewebfonts.com/t/4c4a87973ef80fc72049e01b9085fadc.woff")format("woff"),
+  url("https://db.onlinewebfonts.com/t/4c4a87973ef80fc72049e01b9085fadc.ttf")format("truetype"),
+  url("https://db.onlinewebfonts.com/t/4c4a87973ef80fc72049e01b9085fadc.svg#ABC Diatype")format("svg");
 }
