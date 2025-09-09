@@ -1,6 +1,6 @@
 import logo from '../../assets/images/oli-logo.png'
 import NavLink from './NavLink'
-import ItemCounter from '../ItemCounter'
+import ItemCounter from './ItemCounter'
 
 export default function Navbar() {
     return (
@@ -12,7 +12,7 @@ export default function Navbar() {
 
             <div className='flex items-center gap-6'>  
                 <NavLink href='/' text='PROFILE' />
-                <div className='flex items-center gap-2'>
+                <div className='flex items-center gap-3'>
                     <NavLink href='/' text='BAG' />
                     <ItemCounter />
                 </div>
