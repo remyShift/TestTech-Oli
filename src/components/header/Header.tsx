@@ -2,7 +2,7 @@ import logo from '../../assets/images/oli-logo.png'
 import NavLink from './NavLink'
 import ItemCounter from './ItemCounter'
 
-export default function Navbar() {
+export default function Header() {
     return (
         <div className='w-full h-10 pt-2 flex justify-between'>
             <div className='flex items-center gap-4'>
