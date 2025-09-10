@@ -2,20 +2,28 @@
 
 @theme {
   --color-primary: #F7F6E6;
+  --color-secondary:#7E7063;
+  --color-tertiary: #EBE6D5;
   --font-abc-diatype: "ABC Diatype";
   --font-space-grotesk: "Space Grotesk";
+  --text-2xs: 0.56rem;
 }
 
 @font-face {
   font-family: "ABC Diatype";
-  src: url("https://db.onlinewebfonts.com/t/4c4a87973ef80fc72049e01b9085fadc.eot");
-  src: url("https://db.onlinewebfonts.com/t/4c4a87973ef80fc72049e01b9085fadc.eot?#iefix")format("embedded-opentype"),
-  url("https://db.onlinewebfonts.com/t/4c4a87973ef80fc72049e01b9085fadc.woff2")format("woff2"),
-  url("https://db.onlinewebfonts.com/t/4c4a87973ef80fc72049e01b9085fadc.woff")format("woff"),
-  url("https://db.onlinewebfonts.com/t/4c4a87973ef80fc72049e01b9085fadc.ttf")format("truetype"),
-  url("https://db.onlinewebfonts.com/t/4c4a87973ef80fc72049e01b9085fadc.svg#ABC Diatype")format("svg");
+  src: local("ABC Diatype"), url("./assets/fonts/ABC-Diatype/abc-diatype-regular.otf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
 }
 
+@font-face {
+  font-family: "ABC Diatype";
+  src: local("ABC Diatype"), url("./assets/fonts/ABC-Diatype/abc-diatype-bold.otf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
 
 @font-face {
   font-family: "Space Grotesk";

@@ -1,0 +1,15 @@
+import { MdAdd, MdArrowOutward } from "react-icons/md"
+
+type IconType = 'arrow-up' | 'plus'
+
+export default function InteractionButton({ icon, text }: { icon: IconType, text: string }) {
+    return (
+        <div className="flex bg-tertiary rounded-full py-2 px-3 items-center gap-1 w-fit">
+            {icon === 'arrow-up' ? 
+                <MdArrowOutward className="text-2xs" /> : 
+                <MdAdd className="text-2xs" />
+            }
+            <span className="font-abc-diatype text-2xs">{text}</span>
+        </div>
+    )
+}
