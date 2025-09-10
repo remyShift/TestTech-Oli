@@ -25,17 +25,17 @@ export default function ProductAccordion({
     }
 
     return (
-        <>
+        <div className="flex flex-col">
             {items.map((item) => (
                 <AccordionItem
-                key={item.id}
-                title={item.title}
-                isOpen={openItems.includes(item.id)}
-                onToggle={() => handleToggle(item.id)}
+                    key={item.id}
+                    title={item.title}
+                    isOpen={openItems.includes(item.id)}
+                    onToggle={() => handleToggle(item.id)}
                 >
-                {item.content}
+                    {item.content}
                 </AccordionItem>
             ))}
-        </>
+        </div>
     );
 }
