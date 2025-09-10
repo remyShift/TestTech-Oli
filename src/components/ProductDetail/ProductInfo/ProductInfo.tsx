@@ -4,6 +4,7 @@ import Spacer from "../Spacer"
 import ProductRating from "./ProductRating"
 import ProductAccordion from "../ProductAccordion/ProductAccordion"
 import { productAccordionData } from "../ProductAccordion/ProductAccordionData"
+import AddToBagButton from "../AddToBagButton"
 
 export default function ProductInfo() {
     return (
@@ -23,6 +24,8 @@ export default function ProductInfo() {
             <ProductAccordion 
                 items={productAccordionData}
             />
+            <Spacer />
+            <AddToBagButton isFixed={false} />
         </div>
     )
 }
