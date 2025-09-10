@@ -1,5 +1,9 @@
 import ProductSizePrice from "./ProductSizePrice"
 import ProductDescription from "./ProductDescription"
+import Spacer from "../Spacer"
+import ProductRating from "./ProductRating"
+import ProductAccordion from "../ProductAccordion/ProductAccordion"
+import { productAccordionData } from "../ProductAccordion/ProductAccordionData"
 
 export default function ProductInfo() {
     return (
@@ -13,6 +17,12 @@ export default function ProductInfo() {
             <h1 className="font-space-grotesk text-2xl">Glow Serum Propolis + Niacinamide Facial Serum</h1>
             <ProductSizePrice />
             <ProductDescription />
+            <Spacer />
+            <ProductRating />
+            <Spacer />
+            <ProductAccordion 
+                items={productAccordionData}
+            />
         </div>
     )
 }
