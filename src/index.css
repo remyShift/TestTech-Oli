@@ -3,6 +3,7 @@
 @theme {
   --color-primary: #F7F6E6;
   --font-abc-diatype: "ABC Diatype";
+  --font-space-grotesk: "Space Grotesk";
 }
 
 @font-face {
@@ -13,4 +14,45 @@
   url("https://db.onlinewebfonts.com/t/4c4a87973ef80fc72049e01b9085fadc.woff")format("woff"),
   url("https://db.onlinewebfonts.com/t/4c4a87973ef80fc72049e01b9085fadc.ttf")format("truetype"),
   url("https://db.onlinewebfonts.com/t/4c4a87973ef80fc72049e01b9085fadc.svg#ABC Diatype")format("svg");
+}
+
+
+@font-face {
+  font-family: "Space Grotesk";
+  src: local("Space Grotesk"), url("./assets/fonts/SpaceGrotesk/SpaceGrotesk-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Space Grotesk";
+  src: local("Space Grotesk"), url("./assets/fonts/SpaceGrotesk/SpaceGrotesk-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Space Grotesk";
+  src: local("Space Grotesk"), url("./assets/fonts/SpaceGrotesk/SpaceGrotesk-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Space Grotesk";
+  src: local("Space Grotesk"), url("./assets/fonts/SpaceGrotesk/SpaceGrotesk-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Space Grotesk";
+  src: local("Space Grotesk"), url("./assets/fonts/SpaceGrotesk/SpaceGrotesk-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
 }
