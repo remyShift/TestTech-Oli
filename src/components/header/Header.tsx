@@ -6,7 +6,7 @@ export default function Header() {
     return (
         <div className='w-full h-10 pt-2 flex justify-between'>
             <div className='flex items-center gap-4'>
-                <img src={logo} alt='logo' className='h-8 w-auto object-contain' />
+                <img src={logo} alt='logo' className='h-6 w-auto object-contain' />
                 <NavLink href='/' text='MENU' />
             </div>
 

@@ -4,7 +4,7 @@ type IconType = 'arrow-up' | 'plus'
 
 export default function InteractionButton({ icon, text }: { icon: IconType, text: string }) {
     return (
-        <div className="flex bg-tertiary rounded-full py-2 px-3 items-center gap-1 w-fit">
+        <div className="flex bg-tertiary rounded-full py-1.5 px-3 items-center gap-1 w-fit">
             {icon === 'arrow-up' ? 
                 <MdArrowOutward className="text-2xs" /> : 
                 <MdAdd className="text-2xs" />
