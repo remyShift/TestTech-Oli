@@ -14,4 +14,6 @@ export interface FooterCTAProps {
     ctaHref: string;
 }
 
+export type Language = "en" | "fr";
+
 
