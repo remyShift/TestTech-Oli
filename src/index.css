@@ -95,4 +95,12 @@
     position: relative;
     z-index: 1;
   }
+
+  .logo-primary {
+    background-color: var(--color-primary);
+    -webkit-mask: url("./assets/images/oli-logo.png") no-repeat center;
+    mask: url("./assets/images/oli-logo.png") no-repeat center;
+    -webkit-mask-size: contain;
+    mask-size: contain;
+  }
 }
