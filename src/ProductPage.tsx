@@ -1,6 +1,7 @@
-import Header from "./components/header/Header"
+import Header from "./components/Header/Header"
 import ProductDetail from "./components/ProductDetail/ProductDetail"
 import AddToBagButton from "./components/ProductDetail/AddToBagButton"
+import Footer from "./components/Footer/Footer"
 
 export default function ProductPage() {
   return (
@@ -10,6 +11,8 @@ export default function ProductPage() {
         <ProductDetail />
         <AddToBagButton isFixed={true} />
       </div>
+
+      <Footer />
     </>
   )
 }

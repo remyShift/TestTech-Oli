@@ -8,7 +8,8 @@
   --color-point: #CCB9A7;
   --font-abc-diatype: "ABC Diatype";
   --font-space-grotesk: "Space Grotesk";
-  --text-2xs: 0.5rem;
+  --text-2xs: 0.625rem;
+  --text-3xs: 0.5rem;
 }
 
 @font-face {
@@ -65,4 +66,32 @@
   font-weight: 700;
   font-style: normal;
   font-display: swap;
+}
+
+@layer utilities {
+  .footer-bg {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .footer-bg::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image: linear-gradient(rgba(129, 109, 91, 0.8), rgba(129, 109, 91, 0.8)), url("./assets/images/footer-bg.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: color-burn;
+    filter: blur(12px);
+    transform: rotate(-180deg) scale(1.2);
+    transform-origin: center;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .footer-bg > * {
+    position: relative;
+    z-index: 1;
+  }
 }

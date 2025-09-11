@@ -9,7 +9,7 @@ export default function InteractionButton({ icon, text }: { icon: IconType, text
                 <MdArrowOutward className="text-2xs" /> : 
                 <MdAdd className="text-2xs" />
             }
-            <span className="font-abc-diatype text-2xs">{text}</span>
+            <span className="font-abc-diatype text-3xs">{text}</span>
         </div>
     )
 }
