@@ -10,28 +10,28 @@ export default function AddToBagButton({
     const handleAddToBag = () => {
         setIsLoading(true);
         setTimeout(() => {
-        setIsLoading(false);
-        console.log('Produit ajouté au panier');
+            setIsLoading(false);
+            console.log('Produit ajouté au panier');
         }, 1000);
     };
 
     const baseClasses = `
         bg-black text-white font-abc-diatype font-bold 
-        py-3 px-6 rounded-full transition-all duration-200 
+        py-3 rounded-full transition-all duration-200 
         hover:bg-gray-800 active:scale-95
         disabled:bg-[#808080] disabled:cursor-not-allowed
         flex items-center justify-center gap-2
     `;
 
     const fixedClasses = isFixed 
-        ? "fixed bottom-4 left-4 right-4 z-50 md:hidden shadow-lg" 
+        ? "fixed bottom-4 left-1/2 w-[95%] -translate-x-1/2 z-50 md:hidden" 
         : "md:block hidden";
 
     return (
         <button
-        onClick={handleAddToBag}
-        disabled={isLoading}
-        className={`${baseClasses} ${fixedClasses}`}
+            onClick={handleAddToBag}
+            disabled={isLoading}
+            className={`${baseClasses} ${fixedClasses}`}
         >
         {isLoading ? (
             <>

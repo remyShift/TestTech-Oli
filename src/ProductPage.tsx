@@ -4,10 +4,12 @@ import AddToBagButton from "./components/ProductDetail/AddToBagButton"
 
 export default function ProductPage() {
   return (
-    <div className='w-[100vw] bg-primary px-3 flex flex-col gap-6'>
-      <Header />
-      <ProductDetail />
-      <AddToBagButton isFixed={true} />
-    </div>
+    <>
+      <div className='bg-primary px-3 flex flex-col gap-6'>
+        <Header />
+        <ProductDetail />
+        <AddToBagButton isFixed={true} />
+      </div>
+    </>
   )
 }
