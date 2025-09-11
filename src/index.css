@@ -12,6 +12,7 @@
   --color-clay: #7F6F64;
   --color-interaction: #EBE6D5;
   --color-point: #CCB9A7;
+  --color-card: #F1EDDD;
   --font-abc-diatype: "ABC Diatype";
   --font-space-grotesk: "Space Grotesk";
   --text-2xs: 0.625rem;
@@ -108,5 +109,41 @@
     mask: url("./assets/images/oli-logo.png") no-repeat center;
     -webkit-mask-size: contain;
     mask-size: contain;
+  }
+
+  .product-card-sm {
+    width: 195px;
+    height: 300px;
+  }
+
+  .product-card-md {
+    width: 283px;
+    height: 420px;
+  }
+
+  .product-card-lg {
+    width: 378px;
+    height: 544px;
+  }
+
+  @media (max-width: 640px) {
+    .product-card-responsive {
+      width: 195px;
+      height: 300px;
+    }
+  }
+
+  @media (min-width: 641px) and (max-width: 1024px) {
+    .product-card-responsive {
+      width: 283px;
+      height: 420px;
+    }
+  }
+
+  @media (min-width: 1025px) {
+    .product-card-responsive {
+      width: 378px;
+      height: 544px;
+    }
   }
 }
