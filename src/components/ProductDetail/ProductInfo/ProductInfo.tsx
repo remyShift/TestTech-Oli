@@ -24,8 +24,7 @@ export default function ProductInfo() {
             <ProductAccordion 
                 items={productAccordionData}
             />
-            <Spacer />
-            <AddToBagButton isFixed={false} />
+            <AddToBagButton />
         </div>
     )
 }

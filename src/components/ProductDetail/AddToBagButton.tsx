@@ -1,10 +1,6 @@
 import { useState } from 'react';
 
-export default function AddToBagButton({ 
-    isFixed
-}: {
-    isFixed: boolean;
-}) {
+export default function AddToBagButton() {
     const [isLoading, setIsLoading] = useState(false);
 
     const handleAddToBag = () => {
@@ -23,9 +19,7 @@ export default function AddToBagButton({
         flex items-center justify-center gap-2
     `;
 
-    const fixedClasses = isFixed 
-        ? "fixed bottom-4 left-1/2 w-[95%] -translate-x-1/2 z-50 md:hidden" 
-        : "md:block hidden";
+    const fixedClasses = "sticky bottom-6 mb-3 md:static md:block md:w-auto md:translate-x-0 md:bottom-auto md:mt-0 w-full md:w-auto md:hidden";
 
     return (
         <button
