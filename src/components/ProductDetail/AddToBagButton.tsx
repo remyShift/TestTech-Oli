@@ -1,13 +1,18 @@
 import { useState } from 'react';
+import type { Product } from "@/types/product"
 
-export default function AddToBagButton() {
+interface AddToBagButtonProps {
+    product: Product;
+}
+
+export default function AddToBagButton({ product }: AddToBagButtonProps) {
     const [isLoading, setIsLoading] = useState(false);
 
     const handleAddToBag = () => {
         setIsLoading(true);
         setTimeout(() => {
             setIsLoading(false);
-            console.log('Produit ajouté au panier');
+            console.log('Produit ajouté au panier:', product.name);
         }, 1000);
     };
 

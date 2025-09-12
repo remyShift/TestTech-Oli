@@ -1,10 +1,13 @@
-import productImage from '@/assets/images/main-product.png'
+import type { Product } from '@/types/product'
 
+interface ProductImageProps {
+    product: Product;
+}
 
-export default function ProductImage() {
+export default function ProductImage({ product }: ProductImageProps) {
     return (
         <div className="w-full h-full flex justify-center items-center">
-            <img src={productImage} alt="Product Image" className="object-contain" />
+            <img src={product.imageUrl} alt={product.name} className="object-contain" />
         </div>
     )
 }

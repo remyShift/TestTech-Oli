@@ -1,13 +1,18 @@
 import ProductInteractions from "./ProductInteractions"
 import ProductImage from "./ProductImage"
 import ProductInfo from "./ProductInfo/ProductInfo"
+import type { Product } from "@/types/product"
 
-export default function ProductDetail() {
+interface ProductDetailProps {
+    product: Product;
+}
+
+export default function ProductDetail({ product }: ProductDetailProps) {
     return (
         <div className="flex flex-col gap-4">
             <ProductInteractions />
-            <ProductImage />
-            <ProductInfo />
+            <ProductImage product={product} />
+            <ProductInfo product={product} />
         </div>
     )
 }

@@ -1,9 +1,17 @@
-export default function ProductRating() {
+import type { Product } from "@/types/product"
+
+interface ProductRatingProps {
+    product: Product;
+}
+
+export default function ProductRating({ product }: ProductRatingProps) {
+    const formattedRating = product.oliRating.toString().padStart(3, '0')
+    
     return (
         <div className="flex items-center justify-between">
-            <p className="font-abc-diatype text-lg font-bold tracking-tight">OLI’S LAB RATING</p>
+            <p className="font-abc-diatype text-lg font-bold tracking-tight">OLI'S LAB RATING</p>
             <div className="flex flex-col items-end">
-                <p className="font-abc-diatype text-lg font-bold tracking-tight">097/100</p>
+                <p className="font-abc-diatype text-lg font-bold tracking-tight">{formattedRating}/100</p>
                 <a href="#" className="font-space-grotesk text-xs text-ceramics underline">what does it mean?</a>
             </div>
         </div>

@@ -27,7 +27,7 @@ export default function ProductCard({ product }: ProductCardProps) {
                 <p className="font-space-grotesk text-sm">
                     {product.name}
                 </p>
-                <ProductSizePrice />
+                <ProductSizePrice product={product} />
             </div>
 
             <button

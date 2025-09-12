@@ -3,9 +3,9 @@ export interface Product {
     brand: string;
     name: string;
     category: string;
+    subcategory: string;
     price: number;
     volume: string;
-    
     oliRating: number;
     skinType: string;
     

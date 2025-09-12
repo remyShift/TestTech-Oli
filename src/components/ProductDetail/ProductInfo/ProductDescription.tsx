@@ -1,7 +1,13 @@
-export default function ProductDescription() {
+import type { Product } from "@/types/product"
+
+interface ProductDescriptionProps {
+    product: Product;
+}
+
+export default function ProductDescription({ product }: ProductDescriptionProps) {
     return (
         <p className="font-abc-diatype text-ceramics leading-5">
-            Torriden DIVE-IN Cleansing Foam is a gentle, hydrating foam cleanser that removes dirt, oil, and makeup while maintaining the skin’s moisture balance. This cleanser provides a deep yet soft cleanse, leaving the skin refreshed, clean, and hydrated without any tightness or dryness.
+            {product.description}
         </p>
     )
 }

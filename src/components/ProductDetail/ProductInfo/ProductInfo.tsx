@@ -3,28 +3,34 @@ import ProductDescription from "./ProductDescription"
 import Spacer from "@/components/ProductDetail/Spacer"
 import ProductRating from "./ProductRating"
 import ProductAccordion from "@/components/ProductDetail/ProductAccordion/ProductAccordion"
-import { productAccordionData } from "@/components/ProductDetail/ProductAccordion/ProductAccordionData"
+import { createProductAccordionData } from "@/components/ProductDetail/ProductAccordion/ProductAccordionDataFactory"
 import AddToBagButton from "@/components/ProductDetail/AddToBagButton"
+import type { Product } from "@/types/product"
 
-export default function ProductInfo() {
+interface ProductInfoProps {
+    product: Product;
+}
+
+export default function ProductInfo({ product }: ProductInfoProps) {
     return (
         <div className="flex flex-col gap-3">
             <div className="flex items-center gap-2">
-                <p className="font-space-grotesk text-sm text-clay tracking-tighter">skincare</p>
+                <p className="font-space-grotesk text-sm text-clay tracking-tighter">{product.category}</p>
                 <div className="w-1 h-1 bg-point rounded-full" />
-                <p className="font-space-grotesk text-sm text-clay tracking-tighter">bundles</p>
+                <p className="font-space-grotesk text-sm text-clay tracking-tighter">{product.subcategory}</p>
             </div>
-            <h3 className="font-abc-diatype text-sm font-bold">WOODS COPENHAGEN</h3>
-            <h1 className="font-space-grotesk text-2xl">Glow Serum Propolis + Niacinamide Facial Serum</h1>
-            <ProductSizePrice />
-            <ProductDescription />
+            <h3 className="font-abc-diatype text-sm font-bold">{product.brand}</h3>
+            <h1 className="font-space-grotesk text-2xl">{product.name}</h1>
+            <ProductSizePrice product={product} />
+            <ProductDescription product={product} />
             <Spacer />
-            <ProductRating />
+            <ProductRating product={product} />
             <Spacer />
             <ProductAccordion 
-                items={productAccordionData}
+                items={createProductAccordionData(product)}
+                product={product}
             />
-            <AddToBagButton />
+            <AddToBagButton product={product} />
         </div>
     )
 }
