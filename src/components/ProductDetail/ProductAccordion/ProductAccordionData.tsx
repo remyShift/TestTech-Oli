@@ -23,16 +23,8 @@ export const productAccordionData = [
         title: 'HOW TO USE',
         content: (
         <div className="font-space-grotesk text-sm text-ceramics leading-relaxed">
-            <ol className="list-decimal list-inside space-y-2">
-            <li>Nettoyez votre visage avec un nettoyant doux</li>
-            <li>Appliquez 2-3 gouttes du sérum sur votre visage et votre cou</li>
-            <li>Massez délicatement en mouvements circulaires</li>
-            <li>Laissez pénétrer pendant 2-3 minutes</li>
-            <li>Appliquez votre crème hydratante habituelle</li>
-            </ol>
-            <br />
-            <p className="font-medium">
-            Utilisez matin et soir pour des résultats optimaux.
+            <p className="text-abc-diatype">
+                Torriden DIVE-IN Cleansing Foam is a gentle, hydrating foam cleanser that removes dirt, oil, and makeup while maintaining the skin’s moisture balance. This cleanser provides a deep yet soft cleanse, leaving the skin refreshed, clean, and hydrated without any tightness or dryness.
             </p>
         </div>
         )
@@ -53,7 +45,7 @@ export const productAccordionData = [
             <p>
                 Eau purifiée, glycérine végétale, extrait d'aloe vera, 
                 conservateurs naturels (phénoxyéthanol, éthylhexylglycérine).
-                </p>
+            </p>
         </div>
         )
     },

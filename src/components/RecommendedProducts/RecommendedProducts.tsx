@@ -1,4 +1,4 @@
-import ProductCard from "../ui/card/ProductCard";
+import ProductCard from "../shared/card/ProductCard";
 
 export default function RecommendedProducts() {
     return (
