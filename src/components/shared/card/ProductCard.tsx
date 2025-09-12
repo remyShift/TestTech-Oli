@@ -1,26 +1,31 @@
 import ProductSizePrice from "../../ProductDetail/ProductInfo/ProductSizePrice";
+import type { Product } from "../../../types/product";
 
-export default function ProductCard() {
+interface ProductCardProps {
+    product: Product;
+}
+
+export default function ProductCard({ product }: ProductCardProps) {
     return (
         <div className="flex flex-col bg-card rounded-xl overflow-hidden product-card-responsive relative">
             <div className="flex justify-end p-3 pb-0">
-                <span className="font-abc-diatype font-bold text-xs">097/100</span>
+                <span className="font-abc-diatype font-bold text-xs">{String(product.oliRating).padStart(3, '0')}/100</span>
             </div>
 
             <div className="flex-1 px-3">
                 <img 
-                    src={'/src/assets/images/product.png'} 
-                    alt="Product Image"
+                    src={product.imageUrl} 
+                    alt={product.name}
                     className="object-contain w-full h-full"
                 />
             </div>
 
             <div className="px-2 py-2">
                 <p className="font-abc-diatype uppercase font-bold text-sm">
-                    SKIN REGIMEN
+                    {product.brand}
                 </p>
                 <p className="font-space-grotesk text-sm">
-                    Ginger Cleansing Oil
+                    {product.name}
                 </p>
                 <ProductSizePrice />
             </div>
