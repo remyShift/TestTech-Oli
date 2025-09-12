@@ -1,4 +1,4 @@
-import productImage from '../../assets/images/main-product.png'
+import productImage from '@/assets/images/main-product.png'
 
 
 export default function ProductImage() {

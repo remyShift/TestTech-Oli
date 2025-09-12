@@ -1,5 +1,5 @@
-import type { Product } from '../types/product';
-import ProductCard from '../components/shared/card/ProductCard';
+import type { Product } from '@/types/product';
+import ProductCard from '@/components/shared/card/ProductCard';
 
 export function createCarouselContent(items: Product[]): React.ReactElement[] {
     const content: React.ReactElement[] = [];

@@ -1,10 +1,10 @@
 import { useState, useEffect } from "react";
-import type { Product } from "../../types/product";
-import { useInfiniteCarousel } from "../../hooks/useInfiniteCarousel";
-import recommendedProductIds from "../../data/recommendedProducts.json";
-import productsData from "../../data/products.json";
-import "../../styles/scrollbar.css";
-import { createCarouselContent } from "../../utils/carouselUtils";
+import type { Product } from "@/types/product";
+import { useInfiniteCarousel } from "@/hooks/useInfiniteCarousel";
+import recommendedProductIds from "@/data/recommendedProducts.json";
+import productsData from "@/data/products.json";
+import "@/styles/scrollbar.css";
+import { createCarouselContent } from "@/utils/carouselUtils";
 
 export default function RecommendedProducts() {
     const [recommendedProducts, setRecommendedProducts] = useState<Product[]>([]);

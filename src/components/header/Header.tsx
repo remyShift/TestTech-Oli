@@ -1,4 +1,4 @@
-import logo from '../../assets/images/oli-logo.png'
+import logo from '@/assets/images/oli-logo.png'
 import NavLink from './NavLink'
 import ItemCounter from './ItemCounter'
 

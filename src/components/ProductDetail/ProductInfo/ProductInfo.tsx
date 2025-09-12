@@ -1,10 +1,10 @@
 import ProductSizePrice from "./ProductSizePrice"
 import ProductDescription from "./ProductDescription"
-import Spacer from "../Spacer"
+import Spacer from "@/components/ProductDetail/Spacer"
 import ProductRating from "./ProductRating"
-import ProductAccordion from "../ProductAccordion/ProductAccordion"
-import { productAccordionData } from "../ProductAccordion/ProductAccordionData"
-import AddToBagButton from "../AddToBagButton"
+import ProductAccordion from "@/components/ProductDetail/ProductAccordion/ProductAccordion"
+import { productAccordionData } from "@/components/ProductDetail/ProductAccordion/ProductAccordionData"
+import AddToBagButton from "@/components/ProductDetail/AddToBagButton"
 
 export default function ProductInfo() {
     return (

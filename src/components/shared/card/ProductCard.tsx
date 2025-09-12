@@ -1,5 +1,5 @@
-import ProductSizePrice from "../../ProductDetail/ProductInfo/ProductSizePrice";
-import type { Product } from "../../../types/product";
+import ProductSizePrice from "@/components/ProductDetail/ProductInfo/ProductSizePrice";
+import type { Product } from "@/types/product";
 
 interface ProductCardProps {
     product: Product;
