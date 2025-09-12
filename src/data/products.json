@@ -3,7 +3,7 @@
         {
         "id": "1",
         "brand": "COSRX",
-        "name": "Low pH Good Morning Gel Cleanser",
+        "name": "Low pH Gel",
         "category": "Cleanser",
         "price": 12.99,
         "volume": "150ml",
@@ -60,7 +60,7 @@
         {
         "id": "4",
         "brand": "Paula's Choice",
-        "name": "2% BHA Liquid Exfoliant",
+        "name": "Liquid Exfoliant",
         "category": "Exfoliant",
         "price": 32.00,
         "volume": "118ml",
@@ -79,7 +79,7 @@
         {
         "id": "5",
         "brand": "La Roche-Posay",
-        "name": "Anthelios Ultra Light Fluid SPF 60",
+        "name": "Anthelios Ultra Light",
         "category": "Sunscreen",
         "price": 22.99,
         "volume": "50ml",
