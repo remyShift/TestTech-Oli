@@ -3,10 +3,9 @@ import type { Product } from "@/types/product";
 
 interface ProductCardProps {
     product: Product;
-    showAddToBag?: boolean;
 }
 
-export default function ProductCard({ product, showAddToBag = true }: ProductCardProps) {
+export default function ProductCard({ product }: ProductCardProps) {
     return (
         <div className="flex flex-col bg-card rounded-xl overflow-hidden product-card-responsive relative">
             <div className="flex justify-end p-3 pb-0">
@@ -31,14 +30,12 @@ export default function ProductCard({ product, showAddToBag = true }: ProductCar
                 <ProductSizePrice product={product} />
             </div>
 
-            {showAddToBag && (
-                <button
-                    onClick={() => {}}
-                    className="w-full bg-black text-white text-xs font-abc-diatype font-bold rounded-b-xl hover:bg-gray-800 transition-colors py-2"
-                >
-                    ADD TO BAG
-                </button>
-            )}
+            <button
+                onClick={() => {}}
+                className="w-full bg-black text-white text-xs font-abc-diatype font-bold rounded-b-xl hover:bg-gray-800 transition-colors py-2"
+            >
+                ADD TO BAG
+            </button>
         </div>
     );
 }

@@ -44,7 +44,6 @@ export default function AllProducts() {
                     <div key={product.id} className="w-full max-w-[195px]">
                         <ProductCard 
                             product={product}
-                            showAddToBag={true}
                         />
                     </div>
                 ))}
