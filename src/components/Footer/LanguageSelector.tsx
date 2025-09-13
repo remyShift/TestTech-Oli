@@ -25,7 +25,7 @@ export default function LanguageSelector(props: LanguageSelectorProps) {
             </button>
 
             {isOpen && (
-                <div className='absolute mt-2 left-0 z-10 bg-primary border rounded-md shadow-md min-w-24'>
+                <div className='absolute mt-2 left-0 z-10 bg-primary border rounded-md min-w-24'>
                     <button onClick={() => handleSelect("en")} className='block w-full text-left px-3 py-2 hover:bg-gray-100 font-abc-diatype text-2xs'>EN</button>
                     <div className='h-px bg-ceramics' />
                     <button onClick={() => handleSelect("fr")} className='block w-full text-left px-3 py-2 hover:bg-gray-100 font-abc-diatype text-2xs'>FR</button>
