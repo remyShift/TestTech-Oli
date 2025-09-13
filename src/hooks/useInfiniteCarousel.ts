@@ -64,13 +64,14 @@ export function useInfiniteCarousel({
         const handleScroll = () => {
             const currentScrollLeft = container.scrollLeft;
             const scrollWidth = container.scrollWidth;
-            const singleSetWidth = scrollWidth / 3;
-
-            if (currentScrollLeft >= singleSetWidth * 2) {
-                container.scrollLeft = singleSetWidth;
+            
+            const singleGroupWidth = scrollWidth / 10;
+            
+            if (currentScrollLeft >= singleGroupWidth * 8) {
+                container.scrollLeft = singleGroupWidth;
             }
             else if (currentScrollLeft <= 0) {
-                container.scrollLeft = singleSetWidth;
+                container.scrollLeft = singleGroupWidth * 7;
             }
         };
 
@@ -118,7 +119,7 @@ export function useInfiniteCarousel({
         container.addEventListener('wheel', handleWheel, { passive: true });
 
         const initTimer = setTimeout(() => {
-            container.scrollLeft = container.scrollWidth / 3;
+            container.scrollLeft = container.scrollWidth / 10;
             startAutoScroll();
         }, 100);
 
