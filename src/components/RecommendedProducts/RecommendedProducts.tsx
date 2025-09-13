@@ -38,7 +38,7 @@ export default function RecommendedProducts() {
                     touchAction: 'pan-x'
                 }}
             >
-                <div className="flex gap-10 w-fit">
+                <div className="flex gap-3 w-fit">
                     {createCarouselContent(recommendedProducts)}
                 </div>
             </div>

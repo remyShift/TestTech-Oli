@@ -18,7 +18,7 @@ export function createCarouselContent(items: Product[]): React.ReactElement[] {
         
         if (i < numberOfDuplicates - 1) {
             content.push(
-                <div key={`spacer-${i}`} className="flex-shrink-0 w-8" />
+                <div key={`spacer-${i}`} className="flex-shrink-0 w-4" />
             );
         }
     }

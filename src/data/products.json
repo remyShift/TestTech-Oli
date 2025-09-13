@@ -49,7 +49,7 @@
         "price": 15.99,
         "volume": "355ml",
         "oliRating": 94,
-        "skinType": "Dry",
+        "skinType": "dry",
         "description": "A lightweight, oil-free moisturizer that helps hydrate the skin and restore its natural barrier with three essential ceramides.",
         "imageUrl": "/src/assets/images/product.png",
         "whyOliLovesIt": "This moisturizer is dermatologist-recommended and contains ceramides that help maintain the skin's natural barrier function.",
