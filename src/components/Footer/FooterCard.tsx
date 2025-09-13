@@ -2,8 +2,18 @@ import { useEffect, useState } from "react";
 import FooterCTA from "./FooterCTA";
 import FooterLinkList from "./FooterLinkList";
 import LanguageSelector from "./LanguageSelector";
-import type { FooterSection } from "./types";
-import type { Language } from "./types";
+
+export type Language = "en" | "fr";
+
+export interface FooterLinkItem {
+    label: string;
+    href: string;
+}
+
+export interface FooterSection {
+    title: string;
+    links: FooterLinkItem[];
+}
 
 const sections: FooterSection[] = [
     {

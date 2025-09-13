@@ -1,4 +1,8 @@
-import type { FooterCTAProps } from "./types";
+export interface FooterCTAProps {
+    heading: string;
+    ctaLabel: string;
+    ctaHref: string;
+}
 
 export default function FooterCTA(props: FooterCTAProps) {
     const { heading, ctaLabel, ctaHref } = props;
