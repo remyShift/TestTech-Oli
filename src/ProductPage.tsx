@@ -2,6 +2,7 @@ import Header from "./components/Header/Header"
 import ProductDetail from "./components/ProductDetail/ProductDetail"
 import Footer from "./components/Footer/Footer"
 import RecommendedProducts from "./components/RecommendedProducts/RecommendedProducts"
+import AllProducts from "./components/AllProducts/AllProducts"
 import productsData from "./data/products.json"
 
 export default function ProductPage() {
@@ -13,6 +14,7 @@ export default function ProductPage() {
         <Header />
         <ProductDetail product={firstProduct} />
         <RecommendedProducts />
+        <AllProducts />
       </div>
 
       <Footer />
