@@ -1,12 +1,41 @@
 import ProductSizePrice from '@/components/ProductDetail/ProductInfo/ProductSizePrice';
 import type { Product } from '@/types/product';
+import { useState, useEffect } from 'react';
 
 interface ProductCardProps {
 	product: Product;
 }
 
 export default function ProductCard({ product }: ProductCardProps) {
-	console.log(product.images[0]);
+	const [currentImageIndex, setCurrentImageIndex] = useState(0);
+	const [isHovered, setIsHovered] = useState(false);
+	const [imageOpacity, setImageOpacity] = useState(1);
+
+	useEffect(() => {
+		if (!isHovered || product.images.length <= 1) return;
+
+		const interval = setInterval(() => {
+			setImageOpacity(0);
+			setTimeout(() => {
+				setCurrentImageIndex((prev) =>
+					(prev + 1) % product.images.length
+				);
+				setImageOpacity(1);
+			}, 200);
+		}, 1000);
+
+		return () => clearInterval(interval);
+	}, [isHovered, product.images.length]);
+
+	useEffect(() => {
+		if (!isHovered) {
+			setImageOpacity(0);
+			setTimeout(() => {
+				setCurrentImageIndex(0);
+				setImageOpacity(1);
+			}, 200);
+		}
+	}, [isHovered]);
 
 	return (
 		<div className="flex flex-col bg-card rounded-xl overflow-hidden product-card-responsive relative">
@@ -16,11 +45,19 @@ export default function ProductCard({ product }: ProductCardProps) {
 				</span>
 			</div>
 
-			<div className="flex-1 px-3 overflow-hidden">
+			<div
+				className="flex-1 px-3 overflow-hidden"
+				onMouseEnter={() => setIsHovered(true)}
+				onMouseLeave={() => setIsHovered(false)}
+			>
 				<img
-					src={`https://${product.images[0]}`}
+					src={`https://${product.images[currentImageIndex]}`}
 					alt={product.name}
 					className="object-contain w-full h-full transform -translate-y-1"
+					style={{
+						opacity: imageOpacity,
+						transition: 'opacity 200ms ease-in-out'
+					}}
 				/>
 			</div>
 
