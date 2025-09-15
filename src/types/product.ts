@@ -11,5 +11,5 @@ export interface Product {
 }
 
 export interface ProductList {
-	products: Product[];
+	recommendedProducts: Product[];
 }

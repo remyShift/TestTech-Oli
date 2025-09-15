@@ -6,7 +6,7 @@ export const createProductAccordionData = (product: Product) => [
 		title: 'WHY OLI LOVES IT',
 		content: (
 			<div className="font-space-grotesk text-sm text-ceramics leading-relaxed">
-				<p>{product.whyOliLovesIt}</p>
+				<p>{"Thoughtfully formulated and editor-approved. We love its texture and finish."}</p>
 			</div>
 		),
 	},
@@ -15,7 +15,7 @@ export const createProductAccordionData = (product: Product) => [
 		title: 'HOW TO USE',
 		content: (
 			<div className="font-space-grotesk text-sm text-ceramics leading-relaxed">
-				<p>{product.howToUse}</p>
+				<p>{"Apply on clean skin. Use AM/PM as needed."}</p>
 			</div>
 		),
 	},
@@ -25,9 +25,12 @@ export const createProductAccordionData = (product: Product) => [
 		content: (
 			<div className="font-space-grotesk text-sm text-ceramics leading-relaxed">
 				<ul className="list-disc list-inside space-y-1">
-					{product.ingredientsList.map((ingredient, index) => (
-						<li key={index}>{ingredient}</li>
-					))}
+					{(product.ingredients ? product.ingredients.split(',') : [])
+						.map((s) => s.trim())
+						.filter(Boolean)
+						.map((ingredient, index) => (
+							<li key={index}>{ingredient}</li>
+						))}
 				</ul>
 			</div>
 		),
@@ -37,7 +40,7 @@ export const createProductAccordionData = (product: Product) => [
 		title: 'SKIN RECOMMENDATION',
 		content: (
 			<div className="font-space-grotesk text-sm text-ceramics leading-relaxed">
-				<p>{product.skinRecommendation}</p>
+				<p>{product.concerns}</p>
 			</div>
 		),
 	},
