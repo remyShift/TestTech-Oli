@@ -6,12 +6,17 @@
 			"ingredients": "Morinda citrifolia fruit extract, Glycerin, Methylpropanediol, Hydrogenated poly(c6-14 olefin), Methyl trimethicone, Neopentyl glycol diheptanoate, Butyrospermum parkii (shea) butter, Caprylic/capric triglyceride, Niacinamide, Trehalose, Polyglyceryl-3 methylglucose distearate, Cetyl alcohol, Dimethicone/vinyl dimethicone crosspolymer, Glyceryl stearate se, Morinda citrifolia seed oil, Eclipta prostrata leaf extract, Laminaria japonica extract, 1,2-hexanediol, Water, Behenyl alcohol, Centella asiatica extract, Ficus carica (fig) fruit extract, Hydrogenated lecithin, Cetearyl alcohol, Ethylhexylglycerin, Acmella oleracea extract, Polyglyceryl-10 myristate, Rosmarinus officinalis (rosemary) leaf oil, Melia azadirachta leaf extract, Adenosine, Butylene glycol, Fructooligosaccharides, Sodium stearoyl glutamate, Malt extract, Beta-glucan, Cholesterol, Melia azadirachta flower extract, Carbomer, Sodium hyaluronate, Tromethamine, Hydrolyzed hyaluronic acid, Ceramide np, Palmitic acid, Aloe barbadensis leaf extract, Althaea rosea flower extract, Stearic acid, Arginine, Myristic acid",
 			"images": [
 				"products.olislab.com/products/CELIMAX_8809686386185_01.avif",
-				"remyshift.dev/assets/img/kicksfolio.png"
+				"products.olislab.com/products/CELIMAX_8809686386185_02.avif"
 			],
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Dryness, Redness and Rosacea, Dullness, Enlarged Pores, Shiny Areas, Acne, spots, Texture, Wound healing/Scars, Anti-aging prevention"
+			"concerns": "Dryness, Redness and Rosacea, Dullness, Enlarged Pores, Shiny Areas, Acne, spots, Texture, Wound healing/Scars, Anti-aging prevention",
+			"rating": 97,
+			"price": "€24.00",
+			"whyOliLovesIt": "We love Celimax The Real Noni Energy Repair Cream for its rejuvenating benefits and deeply hydrating formula. At Olis Lab, we value products that work to restore the skin’s natural energy and improve its overall health. This cream delivers both immediate hydration and long-term radiance, making it a perfect fit for anyone looking to restore vitality to their skin.",
+			"description": "Celimax The Real Noni Energy Repair Cream is a nourishing cream that restores vitality to tired, dull skin. Enriched with noni extract, this cream helps to brighten and repair the skin, providing deep hydration while improving elasticity and texture for a smooth, radiant complexion.",
+			"howToUse": "Use as the final step in your skincare routine. Apply an even layer to your face and neck, gently massaging to lock in moisture and revitalise the skin."
 		},
 		{
 			"brand": "Celimax",
@@ -25,7 +30,12 @@
 			"category": "Skin Care",
 			"subcategory": "Cleansers",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Acne, spots, Texture, Anti-aging prevention, \nBarrier Protection"
+			"concerns": "Acne, spots, Texture, Anti-aging prevention, \nBarrier Protection",
+			"rating": 75,
+			"price": "€19.00",
+			"whyOliLovesIt": "At Olis Lab, we love products that work both efficiently and gently, and Celimax Derma Nature Fresh Blackhead Jojoba Cleansing Oil is the perfect example. The combination of jojoba oil and its targeted action on blackheads makes this cleansing oil a must-have for anyone looking for a clear, refreshed complexion. It deeply cleanses without stripping, providing a balanced, healthy glow.",
+			"description": "Celimax Derma Nature Fresh Blackhead Jojoba Cleansing Oil is a deeply cleansing oil that effectively removes makeup, dirt, and impurities while targeting blackheads. Infused with jojoba oil, it nourishes the skin while gently dissolving excess oil and debris, leaving your complexion clean, refreshed, and smooth.",
+			"howToUse": "Apply to dry skin, gently massaging in circular motions to dissolve makeup and impurities. Add a splash of water to emulsify, then rinse thoroughly with lukewarm water."
 		},
 		{
 			"brand": "Celimax",
@@ -37,7 +47,12 @@
 			"category": "Skin Care",
 			"subcategory": "Toners",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Dryness, Acne, spots, Redness and Rosacea, Shiny Areas, Enlarged Pores, Texture, Wound healing/Scars, Anti-aging prevention"
+			"concerns": "Dryness, Acne, spots, Redness and Rosacea, Shiny Areas, Enlarged Pores, Texture, Wound healing/Scars, Anti-aging prevention",
+			"rating": 75,
+			"price": "€21.00",
+			"whyOliLovesIt": "We’ve chosen Celimax Ji Woo Gae Cica BHA Blemish Toner Pads for their powerful yet soothing formula. At Olis Lab, we value products that deliver clear skin results without irritation, and these pads combine the best of both worlds—exfoliation and calming care. They’re perfect for anyone looking to reduce blemishes while keeping their skin smooth and calm.",
+			"description": "Celimax Ji Woo Gae Cica BHA Blemish Toner Pads combine the soothing benefits of cica with the exfoliating power of BHA to clear blemishes, refine skin texture, and reduce redness. These easy-to-use pads help balance oily skin, remove excess oil, and prevent new blemishes from forming, leaving the skin smooth and refreshed",
+			"howToUse": "After cleansing, use a pad to gently wipe over your face, avoiding the eye area. These pads help calm blemishes and exfoliate. Follow with your usual skincare routine"
 		},
 		{
 			"brand": "Celimax",
@@ -50,7 +65,12 @@
 			"category": "Skin Care",
 			"subcategory": "Toners",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Acne, spots, Shiny Areas, Texture, Anti-aging prevention"
+			"concerns": "Acne, spots, Shiny Areas, Texture, Anti-aging prevention",
+			"rating": 75,
+			"price": "€20.00",
+			"whyOliLovesIt": "Celimax Ji Woo Gae Heartleaf BHA Peeling Pads are a great addition to any skincare routine for those looking to balance exfoliation and calming care. At Olis Lab, we love products that give you glowing skin without irritation, and these pads do just that. They’re gentle yet effective, making them perfect for those with sensitive or acne-prone skin.",
+			"description": "Celimax Ji Woo Gae Heartleaf BHA Peeling Pads are exfoliating pads that gently remove dead skin cells while soothing and calming the skin with heartleaf extract. The BHA helps to unclog pores and refine skin texture, promoting a clearer, smoother complexion with each use.",
+			"howToUse": "After cleansing, gently swipe a pad across your face, avoiding the eye area. Focus on areas prone to blackheads and texture. Use 2-3 times a week and follow with sunscreen during the day."
 		},
 		{
 			"brand": "Celimax",
@@ -63,7 +83,12 @@
 			"category": "Skin Care",
 			"subcategory": "Toners",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Shiny Areas"
+			"concerns": "Shiny Areas",
+			"rating": 75,
+			"price": "€22.00",
+			"whyOliLovesIt": "It’s the missing step you didn’t know you needed. Instantly quenches, smooths, and preps skin for everything that follows.",
+			"description": "This hydrating essence combines pearl powder, rose, and hyaluronic acid to plump, brighten, and refine skin’s texture. A refreshing daily ritual.",
+			"howToUse": "After cleansing, pour a small amount onto a cotton pad or your palms. Gently pat onto your face and neck to balance moisture and prepare skin for the next steps"
 		},
 		{
 			"brand": "Celimax",
@@ -77,7 +102,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Acne, spots, Hyperpigmentation, Enlarged Pores"
+			"concerns": "Acne, spots, Hyperpigmentation, Enlarged Pores",
+			"rating": 75,
+			"price": "€22.00",
+			"whyOliLovesIt": "We’ve selected Celimax The Real Noni Ultimate Eye Cream for its ability to address multiple concerns around the eyes, from puffiness to dark circles. At Olis Lab, we seek products that deliver visible results and deeply nourish, and this eye cream does both. It’s the perfect solution for anyone looking to rejuvenate and brighten the eye area.",
+			"description": "Celimax The Real Noni Ultimate Eye Cream is a luxurious eye cream designed to hydrate, firm, and brighten the delicate skin around the eyes. Enriched with noni extract and other nourishing ingredients, this eye cream helps reduce the appearance of dark circles, puffiness, and fine lines, leaving the eye area looking fresh and revitalised.",
+			"howToUse": "Apply a pea-sized amount to your under-eye area and gently tap with your ring finger until fully absorbed. Use morning and evening to reduce fine lines and puffiness."
 		},
 		{
 			"brand": "COSRX",
@@ -90,7 +120,12 @@
 			"category": "Skin Care",
 			"subcategory": "Essences",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Redness and Rosacea, Dryness"
+			"concerns": "Redness and Rosacea, Dryness",
+			"rating": 97,
+			"price": "€23.00",
+			"whyOliLovesIt": "We’ve selected COSRX Advanced Snail 96 Mucin Power Essence because it’s the perfect product to boost hydration and repair the skin. The high concentration of snail mucin makes it an effective solution for improving skin texture, elasticity, and overall radiance. This essence fits seamlessly into any routine, offering visible results with every use.",
+			"description": "COSRX Advanced Snail 96 Mucin Power Essence is a lightweight yet potent essence that deeply hydrates and helps to repair damaged skin. Infused with 96% snail mucin, it helps to improve skin elasticity, reduce fine lines, and create a smooth, radiant complexion. It is ideal for soothing and rejuvenating tired, stressed skin.",
+			"howToUse": "After cleansing and toning, dispense a small amount and spread evenly over your face. Pat gently to enhance absorption for smooth and hydrated skin"
 		},
 		{
 			"brand": "Hyeja",
@@ -103,7 +138,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Hyperpigmentation, Dryness, Enlarged Pores, Acne, spots, Eyes Bags and/or dark circles, Wound healing/Scars, Anti-aging prevention, Early signs of aging"
+			"concerns": "Hyperpigmentation, Dryness, Enlarged Pores, Acne, spots, Eyes Bags and/or dark circles, Wound healing/Scars, Anti-aging prevention, Early signs of aging",
+			"rating": 75,
+			"price": "€42.00",
+			"whyOliLovesIt": "We selected Hyeja Yuja Vitamin C Brightening Serum because it’s a powerful product for anyone seeking to brighten their complexion. The yuja extract provides a natural, vibrant glow, while the vitamin C helps to improve skin clarity and tone. At Olis Lab, we love products that deliver both instant brightness and long-term skin health, and this serum does just that.",
+			"description": "Hyeja Yuja Vitamin C Brightening Serum is a potent serum that brightens the skin with yuja extract and vitamin C. This lightweight serum targets dark spots, uneven skin tone, and dullness, providing a radiant, glowing complexion. Packed with antioxidants, it helps to protect the skin from environmental stressors and improves skin clarity.",
+			"howToUse": "After toning, apply 2-3 drops to your face and neck. Massage gently to enhance radiance and reduce the appearance of dark spots."
 		},
 		{
 			"brand": "Hyeja",
@@ -116,7 +156,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Acne, spots, Redness and Rosacea, Dullness, Shiny Areas, Enlarged Pores, Texture, Wound healing/Scars, Anti-aging prevention"
+			"concerns": "Acne, spots, Redness and Rosacea, Dullness, Shiny Areas, Enlarged Pores, Texture, Wound healing/Scars, Anti-aging prevention",
+			"rating": 97,
+			"price": "€42.00",
+			"whyOliLovesIt": "We love Hyeja Niacinamide Heartleaf Calming Serum for its calming and brightening effects. At Olis Lab, we value products that address redness and sensitivity without irritation, and this serum is the perfect solution. Niacinamide and heartleaf extract work in harmony to soothe the skin while improving its overall tone and texture.",
+			"description": "Hyeja Niacinamide Heartleaf Calming Serum is a soothing serum that targets redness and irritation with niacinamide and heartleaf extract. This calming serum hydrates, brightens, and strengthens the skin’s barrier, leaving it feeling calm and balanced. Perfect for sensitive or inflamed skin, it reduces the appearance of pores and evens skin tone.",
+			"howToUse": "After cleansing and toning, apply 2-3 drops evenly over your face. Gently pat to absorb and calm irritated or sensitive skin."
 		},
 		{
 			"brand": "Hyeja",
@@ -129,7 +174,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Hyperpigmentation, Enlarged Pores, Shiny Areas, Redness and Rosacea, Acne, spots, Texture, Wound healing/Scars, Anti-aging prevention, \nBarrier Protection"
+			"concerns": "Hyperpigmentation, Enlarged Pores, Shiny Areas, Redness and Rosacea, Acne, spots, Texture, Wound healing/Scars, Anti-aging prevention, \nBarrier Protection",
+			"rating": 75,
+			"price": "€40.00",
+			"whyOliLovesIt": "Hyeja Rice Probiotics Gentle Ferment Cream is a standout in Olis Lab’s collection for its ability to restore balance to the skin. We love how it nourishes and hydrates without being heavy, thanks to the rice ferment and probiotics. This cream is perfect for anyone looking to enhance their skin’s texture and radiance while supporting skin health from within.",
+			"description": "Hyeja Rice Probiotics Gentle Ferment Cream is a nourishing cream that promotes skin balance with rice ferment and probiotics. It deeply hydrates, strengthens the skin's barrier, and enhances skin elasticity. This cream helps to improve skin texture, leaving it smooth, soft, and glowing while supporting a healthy microbiome.",
+			"howToUse": "Apply as the final step in your skincare routine. Massage a small amount into your face and neck to nourish, hydrate, and strengthen the skin barrier."
 		},
 		{
 			"brand": "Hyeja",
@@ -142,7 +192,12 @@
 			"category": "Skin Care",
 			"subcategory": "Mask",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Dryness, Hyperpigmentation, Dullness, Enlarged Pores, Acne, spots, Texture, Wound healing/Scars, Anti-aging prevention"
+			"concerns": "Dryness, Hyperpigmentation, Dullness, Enlarged Pores, Acne, spots, Texture, Wound healing/Scars, Anti-aging prevention",
+			"rating": 75,
+			"price": "€40.00",
+			"whyOliLovesIt": "At Olis Lab, we’re drawn to products that not only cleanse but also nourish the skin, and Hyeja Matcha Gentle Mud Cream Mask does just that. The matcha extract provides antioxidant protection while the mask works to refine and purify. It’s the perfect addition to any skincare routine for a clearer, more radiant complexion.",
+			"description": "Hyeja Matcha Gentle Mud Cream Mask is a purifying mask that detoxifies and revitalises the skin. Infused with matcha extract, it helps to absorb excess oil, unclog pores, and promote a clear complexion. This creamy mask nourishes the skin while delivering antioxidants and essential nutrients, leaving the skin feeling refreshed, balanced, and glowing.",
+			"howToUse": "Apply an even layer to clean, dry skin, avoiding the eye area. Leave on for 10-15 minutes, then rinse with lukewarm water for a detoxified and refreshed feel. Use 1-2 times a week"
 		},
 		{
 			"brand": "Hyeja",
@@ -155,7 +210,12 @@
 			"category": "Skin Care",
 			"subcategory": "Toners",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Acne, spots, Redness and Rosacea, Texture, Anti-aging prevention"
+			"concerns": "Acne, spots, Redness and Rosacea, Texture, Anti-aging prevention",
+			"rating": 75,
+			"price": "€42.00",
+			"whyOliLovesIt": "We love Hyeja Lotus Gentle PHA Purifying Mist for its dual action of gentle exfoliation and hydration. At Olis Lab, we value products that cleanse and refresh without being harsh on the skin, and this mist does exactly that. The lotus extract adds a soothing touch, making it perfect for those with sensitive skin or anyone looking to maintain smooth, glowing skin.",
+			"description": "Hyeja Lotus Gentle PHA Purifying Mist is a refreshing mist that gently exfoliates and purifies the skin using PHA (polyhydroxy acid). It helps to remove dead skin cells, unclog pores, and refine skin texture without irritation. Infused with lotus extract, it also hydrates and soothes the skin, leaving it feeling refreshed and rejuvenated.",
+			"howToUse": "After cleansing, spritz onto your face from 8-10 inches away. Pat gently to absorb or use as a refreshing mist throughout the day"
 		},
 		{
 			"brand": "Hyeja",
@@ -169,7 +229,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Wound healing/Scars, Eyes Bags and/or dark circles, Acne, spots, Dryness, Advanced anti-aging, Early signs of aging, Texture, \nBarrier Protection"
+			"concerns": "Wound healing/Scars, Eyes Bags and/or dark circles, Acne, spots, Dryness, Advanced anti-aging, Early signs of aging, Texture, \nBarrier Protection",
+			"rating": 97,
+			"price": "€50.00",
+			"whyOliLovesIt": "At Olis Lab, we appreciate products that combine the best of nature and science, and Hyeja Ginseng HPR Retinoid + Bakuchiol Nutrient Face Oil is a perfect example. The combination of ginseng, retinoid, and bakuchiol provides effective anti-ageing results while nourishing the skin. This oil is a must-have for anyone looking to address signs of ageing while keeping their skin hydrated and smooth.",
+			"description": "Hyeja Ginseng HPR Retinoid + Bakuchiol Nutrient Face Oil is a luxurious face oil that combines the power of ginseng, retinoid, and bakuchiol to rejuvenate the skin. This potent blend helps reduce the appearance of fine lines and wrinkles, boosts collagen production, and promotes an even skin tone. Ideal for those seeking anti-ageing benefits and deep nourishment, it leaves the skin feeling soft, smooth, and revitalised.",
+			"howToUse": "After moisturizing, apply 2-3 drops to your face and neck as the final step at night. Gently massage to nourish and support skin renewal."
 		},
 		{
 			"brand": "Equlib",
@@ -182,7 +247,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Sensitive",
-			"concerns": "Dryness, Acne, spots, Enlarged Pores, Shiny Areas, Texture, Wound healing/Scars, Anti-aging prevention"
+			"concerns": "Dryness, Acne, spots, Enlarged Pores, Shiny Areas, Texture, Wound healing/Scars, Anti-aging prevention",
+			"rating": 75,
+			"price": "€55.00",
+			"whyOliLovesIt": "Equilib Eau Briller Serum is a staple for anyone seeking hydration and radiance. We love its lightweight texture, which absorbs quickly into the skin, delivering instant moisture and glow. At Olis Lab, we appreciate products that leave the skin feeling refreshed and rejuvenated, and this serum does just that.",
+			"description": "Equilib Eau Briller Serum is a lightweight, hydrating serum that revitalises the skin and enhances its natural glow. Infused with a powerful blend of hydrating ingredients, it helps to plump the skin, smooth fine lines, and restore moisture balance for a refreshed and radiant appearance.",
+			"howToUse": "After cleansing and toning, apply 2-3 drops to your face and neck. Gently massage in for a smooth, hydrated complexion"
 		},
 		{
 			"brand": "Equlib",
@@ -195,7 +265,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Dryness, Enlarged Pores, Shiny Areas, Anti-aging prevention"
+			"concerns": "Dryness, Enlarged Pores, Shiny Areas, Anti-aging prevention",
+			"rating": 75,
+			"price": "€46.00",
+			"whyOliLovesIt": "At Olis Lab, we’re drawn to skincare products that deeply nourish the skin, and Equilib Eau Briller Cream does exactly that. It provides intense hydration without feeling heavy, making it perfect for dry or sensitive skin. We love how it leaves the skin feeling smooth, soft, and radiant, delivering long-lasting moisture",
+			"description": "Equilib Eau Briller Cream is a deeply hydrating, replenishing cream designed to nourish and protect the skin. Packed with natural ingredients, this cream helps to restore the skin's moisture barrier, reduce dryness, and provide long-lasting hydration for a smooth and radiant complexion.",
+			"howToUse": "Use as the final step of your skincare routine. Apply a generous amount to your face and neck, gently massaging to lock in moisture and enhance radiance"
 		},
 		{
 			"brand": "Equlib",
@@ -208,7 +283,12 @@
 			"category": "Skin Care",
 			"subcategory": "Essences",
 			"skintypes": "Combination, Normal, Oily",
-			"concerns": "Dryness, Hyperpigmentation, Enlarged Pores, Shiny Areas, Early signs of aging, Anti-aging prevention"
+			"concerns": "Dryness, Hyperpigmentation, Enlarged Pores, Shiny Areas, Early signs of aging, Anti-aging prevention",
+			"rating": 75,
+			"price": "€33.00",
+			"whyOliLovesIt": "Equilib Eau Briller Water Essence is an essential product for boosting hydration and glow. We love how it provides instant moisture while leaving the skin feeling fresh and revitalised. At Olis Lab, we value products that offer immediate benefits and long-term skin health, and this essence does both.",
+			"description": "Equilib Eau Briller Water Essence is a refreshing essence that provides deep hydration and revitalisation to the skin. Its lightweight formula replenishes moisture and enhances skin radiance, making it a perfect addition to any skincare routine for a healthy, glowing complexion.",
+			"howToUse": "After cleansing, apply a few drops to your face and neck. Gently pat to absorb, hydrating and prepping your skin for the next steps"
 		},
 		{
 			"brand": "Agent Nateur",
@@ -222,7 +302,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Redness and Rosacea, Dullness, Hyperpigmentation, Eyes Bags and/or dark circles, Wound healing/Scars, \nBarrier Protection, Early signs of aging, Anti-aging prevention"
+			"concerns": "Redness and Rosacea, Dullness, Hyperpigmentation, Eyes Bags and/or dark circles, Wound healing/Scars, \nBarrier Protection, Early signs of aging, Anti-aging prevention",
+			"rating": 100,
+			"price": "€127.00",
+			"whyOliLovesIt": "Agent Nateur Holi (oil) Refining Ageless Face Serum is a standout in our collection for its ability to combine natural, powerful ingredients with visibly transformative results. At Olis Lab, we seek products that refine the skin while providing lasting hydration, and this serum checks both boxes. Its delicate formulation ensures that it nourishes without feeling heavy, making it perfect for daily use.",
+			"description": "Agent Nateur Holi (oil) Refining Ageless Face Serum is a luxurious, multi-functional skincare elixir designed to refine, hydrate, and rejuvenate the skin. Infused with natural, nutrient-rich botanicals, this serum promotes a youthful glow while addressing fine lines and uneven texture. Its lightweight, non-toxic formula absorbs effortlessly, making it suitable for all skin types. Elevate your skincare routine with this sophisticated blend that combines science-backed results with clean beauty principles",
+			"howToUse": "Apply 2-3 drops to cleansed skin, massaging gently to refine texture and boost hydration for a smoother, more youthful complexion."
 		},
 		{
 			"brand": "Agent Nateur",
@@ -236,7 +321,12 @@
 			"category": "Skin Care",
 			"subcategory": "Essences",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Dryness, Redness and Rosacea, Enlarged Pores"
+			"concerns": "Dryness, Redness and Rosacea, Enlarged Pores",
+			"rating": 91,
+			"price": "€93.00",
+			"whyOliLovesIt": "At Olis Lab, we choose products that combine the best of nature and science, and Agent Nateur Holi (water) Pearl and Rose Hyaluronic Essence is a perfect example. This essence works to deeply hydrate, balance, and brighten, giving you that coveted, dewy finish. We love how it works seamlessly into any skincare routine to enhance overall skin health and glow.",
+			"description": "Revitalise and hydrate your skin with Agent Nateur Holi (water) Pearl and Rose Hyaluronic Essence. This luxurious essence is formulated with pearl extract and rose water to brighten and hydrate, while hyaluronic acid deeply moisturises and plumps the skin. It’s an essential step for anyone seeking to restore their skin’s natural glow and hydration.",
+			"howToUse": "After cleansing and toning, dispense a few drops into your palms and press gently into your skin. Use for added hydration and skin plumping."
 		},
 		{
 			"brand": "Agent Nateur",
@@ -249,7 +339,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Dryness, Acne, spots, Redness and Rosacea, Texture, Anti-aging prevention"
+			"concerns": "Dryness, Acne, spots, Redness and Rosacea, Texture, Anti-aging prevention",
+			"rating": 100,
+			"price": "€140.00",
+			"whyOliLovesIt": "Agent Nateur Holi (creme) Filter Face Creme is a standout in our offering because it combines rich hydration with skin-smoothing benefits. At Olis Lab, we select products that nourish, protect, and restore your skin’s natural radiance. This cream is a luxurious addition to any routine, providing both immediate hydration and long-term skin benefits.",
+			"description": "Achieve smooth, hydrated skin with Agent Nateur Holi (creme) Filter Face Creme. This ultra-hydrating cream is formulated with aloe vera, hyaluronic acid, and jojoba oil to plump the skin and improve texture. It provides long-lasting moisture and leaves the skin with a soft, dewy finish, perfect for both day and night use.",
+			"howToUse": "Use as the final step of your skincare routine. Apply a thin, even layer to your face and neck, gently massaging to lock in moisture."
 		},
 		{
 			"brand": "Agent Nateur",
@@ -263,7 +358,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Dryness, Enlarged Pores, Redness and Rosacea, Acne, spots, Texture, Eyes Bags and/or dark circles, Wound healing/Scars, Anti-aging prevention, Early signs of aging, Advanced anti-aging"
+			"concerns": "Dryness, Enlarged Pores, Redness and Rosacea, Acne, spots, Texture, Eyes Bags and/or dark circles, Wound healing/Scars, Anti-aging prevention, Early signs of aging, Advanced anti-aging",
+			"rating": 93,
+			"price": "€32.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Agent Nateur's  stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Description pour ",
+			"howToUse": "Instructions d'utilisation à définir"
 		},
 		{
 			"brand": "Agent Nateur",
@@ -277,7 +377,12 @@
 			"category": "Body Care",
 			"subcategory": "Deodorant",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": ""
+			"concerns": "",
+			"rating": 91,
+			"price": "€24.00",
+			"whyOliLovesIt": "We’ve selected Agent Nateur Holi (rose) N4 Deodorant for its ability to provide natural, effective protection while being gentle on the skin. At Olis Lab, we care about clean, eco-friendly products, and this deodorant is a perfect fit for our curated offering. The delicate rose fragrance and natural ingredients make it a luxurious yet practical addition to your daily routine.",
+			"description": "Agent Nateur Holi (rose) N4 Deodorant offers long-lasting freshness with a subtle, elegant rose scent. Made with natural, soothing ingredients, this deodorant neutralises odour while caring for your skin. It glides on effortlessly, leaving your underarms feeling soft, smooth, and dry without any harsh chemicals.",
+			"howToUse": "Apply to clean, dry underarms for a long-lasting, refreshing scent and effective odour protection."
 		},
 		{
 			"brand": "Agent Nateur",
@@ -291,7 +396,12 @@
 			"category": "Body Care",
 			"subcategory": "Deodorant",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": ""
+			"concerns": "",
+			"rating": 91,
+			"price": "€24.00",
+			"whyOliLovesIt": "Chosen for its balanced scent and natural formulation, Agent Nateur Uni (sex) N5 Deodorant is a perfect fit for Olis Lab’s curated collection. At Olis Lab, we embrace clean beauty products that suit everyone, and this deodorant does just that. The subtle, refreshing fragrance and gentle, effective formula make it a great addition to any skincare routine, delivering long-lasting freshness without compromise.",
+			"description": "Agent Nateur Uni (sex) N5 Deodorant is a unisex deodorant that provides fresh, all-day protection with a light, sophisticated scent. Its clean, natural formula is free of harsh chemicals and offers a smooth, non-irritating application. This deodorant keeps you feeling fresh and confident, whether you're at work or play.",
+			"howToUse": "Glide the deodorant onto clean, dry underarms. Provides all-day freshness and odour protection."
 		},
 		{
 			"brand": "Agent Nateur",
@@ -305,7 +415,12 @@
 			"category": "Skin Care",
 			"subcategory": "Cleansers",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Dryness, Acne, spots, Texture, Anti-aging prevention, \nBarrier Protection"
+			"concerns": "Dryness, Acne, spots, Texture, Anti-aging prevention, \nBarrier Protection",
+			"rating": 100,
+			"price": "€58.00",
+			"whyOliLovesIt": "We love Agent Nateur Holi (cleanse) Cleansing Face Oil for its ability to provide a deep cleanse while maintaining the skin's natural balance. At Olis Lab, we believe in the power of natural, nourishing products that offer both luxury and functionality. This cleansing oil is an essential part of our carefully curated collection, offering a premium experience with every use.",
+			"description": "Agent Nateur Holi (cleanse) Cleansing Face Oil is a luxurious way to cleanse the skin while nourishing it with natural ingredients. This gentle yet powerful oil removes dirt, makeup, and impurities without stripping the skin’s natural moisture. Rich in essential oils and antioxidants, it leaves the skin feeling hydrated and refreshed, making it an essential step in any skincare routine.",
+			"howToUse": "Apply to dry skin and massage gently to break down makeup and impurities. Add water to emulsify and rinse thoroughly with lukewarm water."
 		},
 		{
 			"brand": "Agent Nateur",
@@ -318,7 +433,12 @@
 			"category": "Skin Care",
 			"subcategory": "Sun Care",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Acne, spots, Texture, Anti-aging prevention, Early signs of aging, Advanced anti-aging"
+			"concerns": "Acne, spots, Texture, Anti-aging prevention, Early signs of aging, Advanced anti-aging",
+			"rating": 64,
+			"price": "€49.00",
+			"whyOliLovesIt": "Agent Nateur Holi (soleil) Ageless Firming & Plumping Facial Sunscreen SPF50 is a hero product in our collection, combining essential sun protection with anti-ageing benefits. At Olis Lab, we value multitasking products that deliver visible, lasting results. This sunscreen is perfect for anyone looking to protect their skin from UV damage while promoting a youthful, firm appearance.",
+			"description": "Protect and firm your skin with Agent Nateur Holi (soleil) Ageless Firming & Plumping Facial Sunscreen SPF50. This powerful sunscreen provides broad-spectrum protection against harmful UV rays while infusing your skin with firming and plumping ingredients. Lightweight and non-greasy, it works as a perfect base for makeup while keeping your skin shielded from the sun's ageing effects.",
+			"howToUse": "Apply as the final step of your morning skincare routine. Use a generous amount to cover your face and neck, 15 minutes before sun exposure."
 		},
 		{
 			"brand": "Agent Nateur",
@@ -331,7 +451,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Dullness, Redness and Rosacea, Acne, spots, Texture, Anti-aging prevention"
+			"concerns": "Dullness, Redness and Rosacea, Acne, spots, Texture, Anti-aging prevention",
+			"rating": 100,
+			"price": "€93.00",
+			"whyOliLovesIt": "The Agent Nateur Holi (glow) Ageless Eye Serum is a must-have for anyone looking to brighten and refresh their eye area. We’ve included it in our collection for its ability to target multiple concerns, from puffiness to fine lines, all while using clean, effective ingredients. It’s a great fit for anyone seeking an eye serum that delivers real, visible results.",
+			"description": "Brighten and firm the delicate skin around your eyes with Agent Nateur Holi (glow) Ageless Eye Serum. This lightweight formula is enriched with antioxidants and hydrating ingredients, helping to reduce puffiness, dark circles, and fine lines. With regular use, the eye area looks refreshed, lifted, and youthful",
+			"howToUse": "Gently tap a small amount around your eye area, morning and evening, to reduce puffiness and brighten dark circles."
 		},
 		{
 			"brand": "NuTexture",
@@ -344,7 +469,12 @@
 			"category": "Skin Care",
 			"subcategory": "Toners",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Acne, spots, Dullness, Enlarged Pores, Texture, Anti-aging prevention"
+			"concerns": "Acne, spots, Dullness, Enlarged Pores, Texture, Anti-aging prevention",
+			"rating": 75,
+			"price": "€29.00",
+			"whyOliLovesIt": "At Olis Lab, we love NuTexture Mild Exfoliating Toner for its gentle exfoliation and refreshing feel. It’s perfect for anyone looking to smooth their skin without harsh scrubbing. This toner effectively removes impurities and leaves the skin glowing, making it an essential step in any skincare routine.",
+			"description": "NuTexture Mild Exfoliating Toner is a gentle toner that exfoliates and refreshes the skin. Formulated with mild exfoliants, it removes dead skin cells and impurities while maintaining the skin’s natural moisture balance. This toner helps to refine the skin’s texture, leaving it smooth, fresh, and radiant.",
+			"howToUse": "After cleansing, apply to a cotton pad and gently swipe across your face, avoiding the eye area. Use 2-3 times a week to gently exfoliate and refine skin texture."
 		},
 		{
 			"brand": "NuTexture",
@@ -357,7 +487,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal, Sensitive",
-			"concerns": "Dryness, Redness and Rosacea, Eyes Bags and/or dark circles, Anti-aging prevention, Early signs of aging, Advanced anti-aging"
+			"concerns": "Dryness, Redness and Rosacea, Eyes Bags and/or dark circles, Anti-aging prevention, Early signs of aging, Advanced anti-aging",
+			"rating": 75,
+			"price": "€42.00",
+			"whyOliLovesIt": "We love NuTexture Comforting Cream for its calming and hydrating properties. At Olis Lab, we appreciate products that offer relief for sensitive or irritated skin, and this cream does exactly that. It’s perfect for anyone seeking comfort and hydration, especially after exposure to harsh elements or skincare treatments.",
+			"description": "NuTexture Comforting Cream is a soothing and hydrating cream designed to calm irritated skin. With its gentle formula, it helps to restore the skin’s natural balance, providing relief from redness and sensitivity. This comforting cream hydrates deeply, leaving the skin soft, smooth, and comfortable without feeling heavy.",
+			"howToUse": "Apply generously to your face and neck after cleansing and toning. Massage gently to soothe and hydrate sensitive or dry skin"
 		},
 		{
 			"brand": "NuTexture",
@@ -370,7 +505,12 @@
 			"category": "Skin Care",
 			"subcategory": "Lip Care",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Dryness, Anti-aging prevention, Early signs of aging, Advanced anti-aging"
+			"concerns": "Dryness, Anti-aging prevention, Early signs of aging, Advanced anti-aging",
+			"rating": 75,
+			"price": "€26.00",
+			"whyOliLovesIt": "We love NuTexture Bouncy Lip Treatment for its ability to deeply hydrate and repair dry lips. At Olis Lab, we value lip treatments that are both effective and comfortable to wear, and this product delivers both. It’s the perfect solution for anyone looking to restore softness and moisture to their lips.",
+			"description": "NuTexture Bouncy Lip Treatment is a nourishing lip balm that provides intense hydration and care for dry, cracked lips. Infused with nourishing oils, this treatment helps to repair and replenish the lips, leaving them soft, smooth, and plump. It creates a barrier that locks in moisture and keeps your lips feeling hydrated throughout the day.",
+			"howToUse": "Apply a thin layer to clean lips as needed. This nourishing treatment helps to hydrate and smooth dry lips, leaving them soft and plump"
 		},
 		{
 			"brand": "COSRX",
@@ -383,7 +523,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Normal, Oily, Sensitive",
-			"concerns": "Redness and Rosacea"
+			"concerns": "Redness and Rosacea",
+			"rating": 73,
+			"price": "€26.00",
+			"whyOliLovesIt": "At Olis Lab, we love products that offer multiple skincare benefits, and COSRX Advanced Snail 92 All in One Cream is the perfect example. The snail mucin extract works wonders to hydrate and repair the skin, leaving it soft and glowing. This all-in-one formula is an essential step in your routine, addressing hydration, texture, and signs of ageing all at once.",
+			"description": "COSRX Advanced Snail 92 All in One Cream is a nourishing cream that helps to hydrate, repair, and rejuvenate the skin. With 92% snail mucin extract, this cream delivers intense moisture, promotes skin healing, and reduces the appearance of scars and wrinkles. It provides a smooth, glowing complexion and is perfect for dry, damaged skin.",
+			"howToUse": "Use as the last step in your skincare routine. Apply evenly to your face and neck, patting gently for optimal absorption and deep hydration"
 		},
 		{
 			"brand": "COSRX",
@@ -396,7 +541,12 @@
 			"category": "Skin Care",
 			"subcategory": "Cleansers",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Dryness"
+			"concerns": "Dryness",
+			"rating": 64,
+			"price": "€14.00",
+			"whyOliLovesIt": "We love COSRX Low pH Good Morning Gel Cleanser for its gentle, hydrating formula that cleanses without causing dryness. At Olis Lab, we value cleansers that maintain the skin’s natural balance, and this gel cleanser does just that. It’s perfect for daily use and helps maintain a smooth, hydrated complexion.",
+			"description": "COSRX Low pH Good Morning Gel Cleanser is a gentle yet effective cleanser that balances the skin’s pH while thoroughly cleansing. With a low pH formula, it cleanses the skin without stripping it of its natural moisture, leaving it feeling soft, hydrated, and refreshed. Ideal for morning use, it preps the skin for the day ahead.",
+			"howToUse": "Use in the morning or evening. Apply a small amount to wet skin, lather, and gently massage in circular motions. Rinse with lukewarm water for a clean, refreshed feel"
 		},
 		{
 			"brand": "COSRX",
@@ -408,7 +558,12 @@
 			"category": "Skin Care",
 			"subcategory": "Toners",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Acne, spots, Dullness, Eyes Bags and/or dark circles, Shiny Areas, Dryness, Enlarged Pores, Texture, Anti-aging prevention"
+			"concerns": "Acne, spots, Dullness, Eyes Bags and/or dark circles, Shiny Areas, Dryness, Enlarged Pores, Texture, Anti-aging prevention",
+			"rating": 91,
+			"price": "€25.00",
+			"whyOliLovesIt": "COSRX BHA Blackhead Power Liquid is a must-have for anyone struggling with blackheads or enlarged pores. At Olis Lab, we value products that offer clear results, and this liquid delivers. Its exfoliating formula helps to remove impurities, leaving the skin clean, fresh, and clear.",
+			"description": "COSRX BHA Blackhead Power Liquid is a powerful liquid that targets blackheads and pores. Formulated with 4% BHA, it penetrates deep into the pores to dissolve impurities and excess oil. This liquid helps to reduce blackheads, prevent acne, and refine the skin’s texture for a smoother, clearer complexion.",
+			"howToUse": "After cleansing, soak a cotton pad with the liquid and gently swipe over areas prone to blackheads or clogged pores, avoiding the eye area. Use 2-3 times weekly and always follow with sunscreen during the day"
 		},
 		{
 			"brand": "COSRX",
@@ -421,7 +576,12 @@
 			"category": "Skin Care",
 			"subcategory": "Toners",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Dullness, Enlarged Pores, Texture, Acne, spots, Shiny Areas, Early signs of aging, Visible signs of aging"
+			"concerns": "Dullness, Enlarged Pores, Texture, Acne, spots, Shiny Areas, Early signs of aging, Visible signs of aging",
+			"rating": 64,
+			"price": "€18.00",
+			"whyOliLovesIt": "At Olis Lab, we love the dual-action formula of COSRX AHA/BHA Clarifying Treatment Toner. It effectively exfoliates and clarifies the skin while being gentle enough for daily use. This toner is perfect for anyone looking to smooth their skin, reduce blemishes, and brighten their complexion.",
+			"description": "COSRX AHA/BHA Clarifying Treatment Toner is a gentle exfoliating toner that removes dead skin cells and unclogs pores. This toner combines the benefits of AHA and BHA to improve skin texture, prevent breakouts, and brighten the complexion. It’s a perfect product for those with acne-prone or dull skin.",
+			"howToUse": "After cleansing, spray onto a cotton pad or directly onto your face, avoiding the eye area. Gently swipe to exfoliate and refine skin texture. Follow with serum and moisturiser"
 		},
 		{
 			"brand": "Mid/night 00.00",
@@ -434,7 +594,12 @@
 			"category": "Body Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Dryness, Wound healing/Scars, \nBarrier Protection"
+			"concerns": "Dryness, Wound healing/Scars, \nBarrier Protection",
+			"rating": 79,
+			"price": "€16.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Mid/night 00.00's Body Balm 00.12 stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Mid/night 00 Body Balm 00.12 is a rich and soothing body balm designed to hydrate and nourish dry skin. Formulated with a blend of nourishing oils and butters, it deeply moisturises and softens the skin, leaving it smooth and rejuvenated. Ideal for overnight use, this balm helps to repair and restore the skin’s moisture barrier.",
+			"howToUse": "Apply generously to dry areas, such as elbows and knees, or all over the body for deep hydration and nourishment."
 		},
 		{
 			"brand": "Mid/night 00.00",
@@ -447,7 +612,12 @@
 			"category": "Body Care",
 			"subcategory": "Body Mosituriser",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Wound healing/Scars, Dryness, Redness and Rosacea, Anti-aging prevention, Early signs of aging"
+			"concerns": "Wound healing/Scars, Dryness, Redness and Rosacea, Anti-aging prevention, Early signs of aging",
+			"rating": 80,
+			"price": "€19.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Mid/night 00.00's Body Oil 00.13 stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Mid/night 00 Body Oil 00.13 is a nourishing oil that provides deep hydration while leaving the skin with a soft, silky finish. Infused with natural oils, it helps to lock in moisture, leaving your body feeling smooth and replenished. This lightweight oil absorbs easily and is ideal for everyday use.",
+			"howToUse": "Massage onto damp skin after bathing to lock in moisture and enhance radiance."
 		},
 		{
 			"brand": "Mid/night 00.00",
@@ -460,7 +630,12 @@
 			"category": "Body Care",
 			"subcategory": "Cleansers",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Dullness, \nBarrier Protection"
+			"concerns": "Dullness, \nBarrier Protection",
+			"rating": 88,
+			"price": "€16.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Mid/night 00.00's Body Scrub 00.14 stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Mid/night 00 Body Scrub 00.14 is a gentle exfoliating scrub that helps to remove dead skin cells and smooth the skin’s texture. Formulated with natural exfoliants and soothing ingredients, it buffs away impurities, revealing soft, radiant skin. It’s perfect for use in the shower to refresh and rejuvenate.",
+			"howToUse": "Use 1-2 times a week. Massage onto damp skin in circular motions, then rinse thoroughly for smoother, polished skin."
 		},
 		{
 			"brand": "Mid/night 00.00",
@@ -473,7 +648,12 @@
 			"category": "Body Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Dryness, Wound healing/Scars"
+			"concerns": "Dryness, Wound healing/Scars",
+			"rating": 75,
+			"price": "€20.00",
+			"whyOliLovesIt": "At Olis Lab, we love Mid/night 00 Hand Cream 00.16 for its fast-absorbing, non-greasy formula. This hand cream provides deep hydration without leaving a residue, making it ideal for frequent use. It’s the perfect solution for anyone looking to keep their hands soft, smooth, and nourished.",
+			"description": "Mid/night 00 Hand Cream 00.16 is a rich, hydrating hand cream that nourishes and softens the hands. Formulated with natural oils, it deeply moisturises and protects the skin, leaving your hands feeling smooth and replenished. Perfect for use throughout the day or before bed.",
+			"howToUse": "Massage a small amount into hands throughout the day as needed for soft, moisturized skin"
 		},
 		{
 			"brand": "Mid/night 00.00",
@@ -486,7 +666,12 @@
 			"category": "Skin Care",
 			"subcategory": "Cleansers",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Redness and Rosacea, Dryness, Wound healing/Scars"
+			"concerns": "Redness and Rosacea, Dryness, Wound healing/Scars",
+			"rating": 79,
+			"price": "€18.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Mid/night 00.00's Face Cleanser 00.21 stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Mid/night 00 Face Cleanser 00.21 is a gentle yet effective cleanser that removes makeup, dirt, and impurities while maintaining the skin’s natural balance. With a mild formula, it cleanses without stripping moisture, leaving the skin fresh, clean, and hydrated. Ideal for daily use, this cleanser prepares the skin for the next steps in your routine.",
+			"howToUse": "Apply to damp skin, massage gently to remove makeup and impurities, then rinse with lukewarm water for a fresh start."
 		},
 		{
 			"brand": "Mid/night 00.00",
@@ -499,7 +684,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Dryness, Hyperpigmentation, Eyes Bags and/or dark circles, Dullness, Early signs of aging, Advanced anti-aging, Anti-aging prevention"
+			"concerns": "Dryness, Hyperpigmentation, Eyes Bags and/or dark circles, Dullness, Early signs of aging, Advanced anti-aging, Anti-aging prevention",
+			"rating": 75,
+			"price": "€43.00",
+			"whyOliLovesIt": "We love Mid/night 00 Face Serum 00.22 for its ability to deliver targeted hydration and skin benefits. At Olis Lab, we appreciate lightweight serums that absorb quickly and provide visible results. This serum is a great addition to any skincare routine for anyone looking to enhance skin texture and moisture levels.",
+			"description": "Mid/night 00 Face Serum 00.22 is a lightweight serum that provides deep hydration and helps to restore the skin’s natural balance. Packed with active ingredients, it targets hydration, texture, and elasticity, leaving your skin feeling plump, smooth, and refreshed.",
+			"howToUse": "After cleansing and toning, dispense 2-3 drops onto fingertips and gently press into skin to nourish and rejuvenate."
 		},
 		{
 			"brand": "Mid/night 00.00",
@@ -512,7 +702,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Dryness, Early signs of aging, Wound healing/Scars"
+			"concerns": "Dryness, Early signs of aging, Wound healing/Scars",
+			"rating": 77,
+			"price": "€29.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Mid/night 00.00's Face Night Cream 00.23 stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Mid/night 00 Face Night Cream 00.23 is a rich, restorative night cream designed to repair and hydrate the skin while you sleep. Packed with nourishing ingredients, this cream helps to lock in moisture and promote skin regeneration, leaving you with a soft, smooth, and glowing complexion by morning.",
+			"howToUse": "Apply as the final step of your evening skincare routine. Massage a small amount into the face and neck to lock in hydration overnight."
 		},
 		{
 			"brand": "Mid/night 00.00",
@@ -525,7 +720,12 @@
 			"category": "Skin Care",
 			"subcategory": "Cleansers",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Dryness, Redness and Rosacea, Dullness, Texture, Anti-aging prevention, Wound healing/Scars"
+			"concerns": "Dryness, Redness and Rosacea, Dullness, Texture, Anti-aging prevention, Wound healing/Scars",
+			"rating": 89,
+			"price": "€18.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Mid/night 00.00's Scrub 00.24 stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Mid/night 00 Scrub 00.24 is an exfoliating scrub designed to remove dead skin cells and reveal smoother, brighter skin. Its gentle formula helps to refine the skin’s texture and promotes a glowing complexion. Ideal for use before moisturising or applying makeup, it leaves the skin soft and refreshed.",
+			"howToUse": "Use 1-2 times a week. Gently massage onto damp skin in circular motions, then rinse thoroughly for smooth, refreshed skin."
 		},
 		{
 			"brand": "Mid/night 00.00",
@@ -539,7 +739,12 @@
 			"category": "Body Care",
 			"subcategory": "Lip Care",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Dryness, \nBarrier Protection"
+			"concerns": "Dryness, \nBarrier Protection",
+			"rating": 97,
+			"price": "€19.00",
+			"whyOliLovesIt": "We love Mid/night 00 Lip Balm 00.25 for its ability to deeply hydrate and repair dry lips. At Olis Lab, we value products that provide lasting moisture without feeling heavy, and this lip balm delivers just that. It’s perfect for anyone looking for a nourishing, smooth finish on their lips.",
+			"description": "Mid/night 00 Lip Balm 00.25 is a nourishing lip balm that keeps your lips soft, hydrated, and smooth. Packed with natural ingredients, it helps to repair dry, chapped lips and provides long-lasting moisture. This balm is perfect for everyday use, keeping your lips supple and protected.",
+			"howToUse": "Apply a small amount to lips as needed throughout the day for long-lasting hydration and softness."
 		},
 		{
 			"brand": "Ameon",
@@ -553,7 +758,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Hyperpigmentation, Eyes Bags and/or dark circles, Dullness, Shiny Areas, Enlarged Pores, Dryness, Acne, spots, Redness and Rosacea, Early signs of aging, Advanced anti-aging, Texture, Anti-aging prevention"
+			"concerns": "Hyperpigmentation, Eyes Bags and/or dark circles, Dullness, Shiny Areas, Enlarged Pores, Dryness, Acne, spots, Redness and Rosacea, Early signs of aging, Advanced anti-aging, Texture, Anti-aging prevention",
+			"rating": 73,
+			"price": "€75.00",
+			"whyOliLovesIt": "At Olis Lab, we seek products that deliver both immediate and long-term results, and Ameon Aurora Serum does just that. The combination of hydration and radiance-enhancing ingredients makes it the perfect addition to any skincare routine. Its lightweight, non-greasy formula absorbs effortlessly, offering visible improvements in skin tone and texture.",
+			"description": "Achieve glowing, youthful skin with Ameon Aurora Serum. This lightweight serum is packed with powerful antioxidants and hydrating ingredients that restore vitality and smooth the skin. It helps to brighten the complexion, reduce fine lines, and enhance skin texture, leaving you with a refreshed and radiant glow",
+			"howToUse": "After cleansing and toning, apply 2-3 drops onto your fingertips and gently massage into your face and neck. Use morning and evening for a radiant complexion."
 		},
 		{
 			"brand": "Ameon",
@@ -567,7 +777,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Dryness, Redness and Rosacea"
+			"concerns": "Dryness, Redness and Rosacea",
+			"rating": 82,
+			"price": "€75.00",
+			"whyOliLovesIt": "Ameon Baby Buddha stands out in Olis Lab’s offering for its ability to provide instant hydration while soothing and calming the skin. We love its versatility—it works beautifully for all skin types and delivers deep nourishment without heaviness. This nourishing cream fits seamlessly into any skincare routine, enhancing skin’s overall health and glow.",
+			"description": "Ameon Baby Buddha is a nourishing cream that hydrates and replenishes the skin’s natural moisture. Its rich, soothing formula is infused with natural botanicals to restore skin’s balance and give it a smooth, supple feel. Ideal for all skin types, this cream provides intense hydration while calming irritation and promoting a healthy, radiant complexion.",
+			"howToUse": "Warm a small amount between your fingers and gently press onto areas needing extra hydration or care. Ideal for calming and soothing dry skin patches."
 		},
 		{
 			"brand": "Ameon",
@@ -581,7 +796,12 @@
 			"category": "Skin Care",
 			"subcategory": "Essences",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Dullness, Redness and Rosacea, Shiny Areas, Enlarged Pores, Texture, Anti-aging prevention"
+			"concerns": "Dullness, Redness and Rosacea, Shiny Areas, Enlarged Pores, Texture, Anti-aging prevention",
+			"rating": 73,
+			"price": "€70.00",
+			"whyOliLovesIt": "Ameon Glow Manifesto Ice is a standout product at Olis Lab because it combines the refreshing power of ice with skin-brightening ingredients. This product helps to invigorate and energise tired skin, making it an essential part of any morning routine. We love how it provides an immediate burst of radiance and refreshment, making it perfect for those seeking a quick skin pick-me-up.",
+			"description": "Refresh and revitalise your skin with Ameon Glow Manifesto Ice. This cooling gel is packed with revitalising ingredients that brighten the skin, reduce puffiness, and promote a glowing complexion. Perfect for use during the morning routine, it leaves the skin feeling fresh and rejuvenated, with a healthy, radiant finish.",
+			"howToUse": "Glide an ice cube gently over cleansed skin for 1-2 minutes, focusing on areas needing radiance and firming. Follow with serum and moisturiser."
 		},
 		{
 			"brand": "Ameon",
@@ -595,7 +815,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal, Sensitive",
-			"concerns": "Dryness, Dullness, Early signs of aging"
+			"concerns": "Dryness, Dullness, Early signs of aging",
+			"rating": 82,
+			"price": "€90.00",
+			"whyOliLovesIt": "At Olis Lab, we appreciate products that offer real, long-lasting results, and Ameon Holy Cream does exactly that. Its rich, yet non-greasy formula hydrates and restores, making it an essential for anyone with dry or sensitive skin. The versatility of this cream—suitable for both day and night use—makes it a staple in any skincare regimen.",
+			"description": "Ameon Holy Cream is a multi-purpose cream designed to deeply hydrate, protect, and restore the skin. With its blend of natural oils and nourishing ingredients, it provides intense moisture and helps to reduce dryness, leaving skin feeling soft, smooth, and balanced. Ideal for all skin types, it works both as a day and night cream",
+			"howToUse": "Use as the final step of your skincare routine. Apply a small amount evenly to your face and neck, gently massaging to lock in hydration and brighten your skin."
 		},
 		{
 			"brand": "Ameon",
@@ -608,7 +833,12 @@
 			"category": "Skin Care",
 			"subcategory": "Essences",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Dullness, Redness and Rosacea, Shiny Areas, Enlarged Pores, Texture, Acne, spots, Hyperpigmentation, Anti-aging prevention"
+			"concerns": "Dullness, Redness and Rosacea, Shiny Areas, Enlarged Pores, Texture, Acne, spots, Hyperpigmentation, Anti-aging prevention",
+			"rating": 82,
+			"price": "€70.00",
+			"whyOliLovesIt": "Ameon Supreme Energy Ice Cubes offer a refreshing, unique way to energise the skin, and we love that it’s a fun addition to any skincare routine. The cooling sensation helps to rejuvenate and refresh the skin, while the energising ingredients work to give you a glowing complexion. At Olis Lab, we value skincare that not only delivers results but also feels indulgent and luxurious.",
+			"description": "Ameon Supreme Energy Ice Cubes are the ultimate way to invigorate and refresh the skin. These ice cubes are packed with energising ingredients that promote circulation, reduce puffiness, and give the skin a bright, healthy glow. Simply apply to the skin for an instant cooling effect that revitalises and energises your complexion",
+			"howToUse": "Rub an ice cube in circular motions over cleansed skin to energise and refresh. Pat dry, then follow with your skincare routine. Use as needed for a revitalised glow."
 		},
 		{
 			"brand": "Beauty of Joseon",
@@ -621,7 +851,12 @@
 			"category": "Skin Care",
 			"subcategory": "Sun Care",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Acne, spots, Texture, Anti-aging prevention, Early signs of aging, Advanced anti-aging"
+			"concerns": "Acne, spots, Texture, Anti-aging prevention, Early signs of aging, Advanced anti-aging",
+			"rating": 73,
+			"price": "€24.00",
+			"whyOliLovesIt": "Beauty of Joseon Relief Sun: Rice + Probiotics is a must-have for those seeking effective sun protection with added skincare benefits. At Olis Lab, we value multifunctional products, and this sunscreen provides just that—high-level protection combined with nourishing, skin-loving ingredients. It’s perfect for anyone who wants to protect their skin while enhancing its health and radiance.",
+			"description": "Protect your skin with Beauty of Joseon Relief Sun: Rice + Probiotics, a broad-spectrum sunscreen that provides SPF50+ protection while nourishing the skin. Infused with rice and probiotics, this sunscreen not only shields your skin from harmful UV rays but also promotes skin health, leaving your complexion smooth, hydrated, and glowing.",
+			"howToUse": "Apply as the final step in your morning skincare routine. Use an adequate amount and spread evenly over your face and neck 15 minutes before sun exposure"
 		},
 		{
 			"brand": "Beauty of Joseon",
@@ -634,7 +869,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Eyes Bags and/or dark circles, Enlarged Pores, Shiny Areas, Redness and Rosacea, Acne, spots, Texture, Anti-aging prevention"
+			"concerns": "Eyes Bags and/or dark circles, Enlarged Pores, Shiny Areas, Redness and Rosacea, Acne, spots, Texture, Anti-aging prevention",
+			"rating": 82,
+			"price": "€28.00",
+			"whyOliLovesIt": "At Olis Lab, we’re all about skincare that blends tradition with innovation, and Beauty of Joseon Dynasty Cream does exactly that. Its rich, yet non-greasy texture deeply nourishes the skin, making it an ideal choice for those seeking both hydration and anti-ageing benefits. We love how this cream works to restore vitality and deliver a youthful glow, making it a must-have for any skincare routine.",
+			"description": "Experience the nourishing power of Beauty of Joseon Dynasty Cream, a luxurious formula that combines traditional ingredients like ginseng and honey to deeply hydrate and rejuvenate the skin. This rich cream helps to improve skin elasticity, reduce the appearance of fine lines, and restore a radiant, youthful glow.",
+			"howToUse": "Use as the last step of your skincare routine. Apply a small amount evenly to your face and neck, gently patting to absorb for supple and nourished skin."
 		},
 		{
 			"brand": "Beauty of Joseon",
@@ -647,7 +887,12 @@
 			"category": "Skin Care",
 			"subcategory": "Toners",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Shiny Areas, Redness and Rosacea, Acne, spots, Texture, Wound healing/Scars, Anti-aging prevention"
+			"concerns": "Shiny Areas, Redness and Rosacea, Acne, spots, Texture, Wound healing/Scars, Anti-aging prevention",
+			"rating": 64,
+			"price": "€21.00",
+			"whyOliLovesIt": "We selected Beauty of Joseon Glow Replenishing Rice Milk for its soothing, replenishing qualities. Rice extract is known for its ability to brighten and hydrate, and we love how this product restores the skin’s natural radiance. It’s a gentle yet effective way to add moisture and glow, making it a perfect fit for Olis Lab’s curated selection.",
+			"description": "Beauty of Joseon Glow Replenishing Rice Milk is a gentle, nourishing formula that replenishes and hydrates the skin. Rich in rice extract and vitamins, it helps to brighten and smooth the complexion, leaving the skin feeling soft, plump, and glowing. Perfect for dry or dull skin, this milk helps restore a healthy, radiant look.",
+			"howToUse": "After cleansing and toning, apply an even layer to your face and neck. Gently massage into the skin for a radiant and hydrated glow"
 		},
 		{
 			"brand": "Beauty of Joseon",
@@ -660,7 +905,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Acne, spots, Shiny Areas, Dullness, Dryness, Redness and Rosacea, Texture, Wound healing/Scars, Anti-aging prevention"
+			"concerns": "Acne, spots, Shiny Areas, Dullness, Dryness, Redness and Rosacea, Texture, Wound healing/Scars, Anti-aging prevention",
+			"rating": 84,
+			"price": "€33.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Beauty of Joseon's Glow Serum Propolis + Niacinamide Facial Serum  stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "The Beauty of Joseon Glow Serum Propolis + Niacinamide Facial Serum is a brightening and hydrating serum that combines the power of propolis and niacinamide to improve skin texture and radiance. Propolis is known for its soothing, anti-inflammatory properties, while niacinamide brightens the skin and helps to reduce the appearance of pores. This lightweight serum helps to restore moisture, reduce redness, and promote an even, glowing complexion.",
+			"howToUse": "Cleanse your face, apply toner, then gently massage a few drops of the serum into your skin. Follow with moisturizer and sunscreen if using in the morning. Use daily for best results."
 		},
 		{
 			"brand": "Beauty of Joseon",
@@ -673,7 +923,12 @@
 			"category": "Skin Care",
 			"subcategory": "Essences",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Acne, spots, Dryness, Enlarged Pores, Shiny Areas, Dullness, Texture, Anti-aging prevention"
+			"concerns": "Acne, spots, Dryness, Enlarged Pores, Shiny Areas, Dullness, Texture, Anti-aging prevention",
+			"rating": 100,
+			"price": "€21.00",
+			"whyOliLovesIt": "We love Beauty of Joseon Ginseng Essence Water for its ability to instantly hydrate and energise the skin with one simple step. The ginseng extract provides essential antioxidants, promoting a youthful, glowing complexion. At Olis Lab, we value products that nourish and revitalise, and this essence is the perfect addition to your daily routine.",
+			"description": "Infused with ginseng extract, Beauty of Joseon Ginseng Essence Water is a revitalising toner that helps to balance, hydrate, and brighten the skin. This essence water smooths and softens, leaving your skin feeling refreshed and rejuvenated, ready to absorb the next steps in your skincare routine.",
+			"howToUse": "After cleansing, dispense a small amount onto your palms or a cotton pad. Gently pat into your skin to hydrate and boost your skin's elasticity."
 		},
 		{
 			"brand": "Beauty of Joseon",
@@ -686,7 +941,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Normal, Oily, Sensitive",
-			"concerns": "Dryness, Redness and Rosacea, Early signs of aging, Eyes Bags and/or dark circles, Anti-aging prevention, Advanced anti-aging"
+			"concerns": "Dryness, Redness and Rosacea, Early signs of aging, Eyes Bags and/or dark circles, Anti-aging prevention, Advanced anti-aging",
+			"rating": 100,
+			"price": "€21.00",
+			"whyOliLovesIt": "Beauty of Joseon Red Bean Water Gel is the perfect option for those looking for lightweight, refreshing hydration. We love how it balances and soothes the skin without being too heavy, making it an ideal product for everyday use. Its cooling effect and hydrating properties make it a standout in our curated collection.",
+			"description": "Beauty of Joseon Red Bean Water Gel is a lightweight, hydrating gel that soothes and nourishes the skin. Rich in red bean extract, this gel helps to balance and refresh the skin, leaving it feeling soft and hydrated without a greasy finish. Ideal for oily or combination skin types, it provides instant moisture and cooling relief",
+			"howToUse": "Apply a small amount evenly to your face and neck after cleansing and toning. Ideal for oily or combination skin, providing lightweight hydration."
 		},
 		{
 			"brand": "Beauty of Joseon",
@@ -700,7 +960,12 @@
 			"category": "Skin Care",
 			"subcategory": "Mask",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Dryness, Redness and Rosacea"
+			"concerns": "Dryness, Redness and Rosacea",
+			"rating": 91,
+			"price": "€23.00",
+			"whyOliLovesIt": "At Olis Lab, we appreciate products that offer both instant and long-lasting results, and Beauty of Joseon Red Bean Refreshing Pore Mask does just that. The red bean extract helps to cleanse and clarify, making it ideal for anyone looking to minimise pores and refresh their skin. We love how this mask provides immediate results, leaving the skin soft and clean.",
+			"description": "Detoxify and tighten your pores with Beauty of Joseon Red Bean Refreshing Pore Mask. This mask is infused with red bean extract, which helps to gently exfoliate and clarify the skin while reducing the appearance of pores. It leaves the skin feeling fresh, smooth, and rejuvenated, with a clearer, more refined complexion.",
+			"howToUse": "After cleansing, apply an even layer to dry skin, avoiding the eye area. Leave on for 10-15 minutes, then rinse with lukewarm water for clarified and refreshed skin. Use 1-2 times a week."
 		},
 		{
 			"brand": "Abib",
@@ -713,7 +978,12 @@
 			"category": "Skin Care",
 			"subcategory": "Toners",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Acne, spots, Redness and Rosacea, Texture, Anti-aging prevention"
+			"concerns": "Acne, spots, Redness and Rosacea, Texture, Anti-aging prevention",
+			"rating": 73,
+			"price": "€25.00",
+			"whyOliLovesIt": "At Olis Lab, we select only the most effective and gentle products, and Abib Heartleaf Spot Pad Calming Touch is the perfect example. The heartleaf extract works wonders to calm and restore skin, while the convenient pad format makes it easy to apply on the go. This product aligns with our values of clean, soothing skincare that delivers quick and visible results",
+			"description": "Soothe and calm irritated skin with the Abib Heartleaf Spot Pad Calming Touch. These pads are infused with heartleaf extract, known for its anti-inflammatory and calming properties. Perfect for targeting problem areas, they reduce redness and balance skin, providing instant relief. Ideal for sensitive skin, these pads are a must-have for those seeking a gentle yet effective solution to blemishes and irritation",
+			"howToUse": "After cleansing, gently swipe the pad across areas of concern, such as blemishes or redness. Use before serum for targeted treatment."
 		},
 		{
 			"brand": "Anua",
@@ -726,7 +996,12 @@
 			"category": "Skin Care",
 			"subcategory": "Toners",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Redness and Rosacea, Acne, spots, Dryness, Texture, Wound healing/Scars, Anti-aging prevention"
+			"concerns": "Redness and Rosacea, Acne, spots, Dryness, Texture, Wound healing/Scars, Anti-aging prevention",
+			"rating": 100,
+			"price": "€26.00",
+			"whyOliLovesIt": "We love Anua Heartleaf 77% Soothing Toner for its ability to calm and restore the skin with a blend of natural ingredients. Heartleaf extract provides immediate relief for irritated or sensitive skin, making it a go-to for anyone looking to soothe and balance their complexion. This toner fits seamlessly into any skincare routine, offering gentle hydration and soothing benefits.",
+			"description": "Anua Heartleaf 77% Soothing Toner is a calming and hydrating toner designed to balance and refresh the skin. Infused with heartleaf extract, it helps to soothe irritated skin and restore moisture, leaving your skin feeling soft and rejuvenated. This toner is ideal for those with sensitive skin, providing a gentle yet effective solution for maintaining skin health.",
+			"howToUse": "After cleansing, pour onto a cotton pad or your palms. Gently pat onto your skin to soothe and hydrate. Use morning and evening to prepare your skin for the next steps."
 		},
 		{
 			"brand": "Torriden",
@@ -739,7 +1014,12 @@
 			"category": "Skin Care",
 			"subcategory": "Cleansers",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Dryness"
+			"concerns": "Dryness",
+			"rating": 73,
+			"price": "€18.00",
+			"whyOliLovesIt": "Torriden DIVE-IN Cleansing Foam is a favourite at Olis Lab for its ability to cleanse without stripping. The hydrating formula leaves the skin feeling soft and comfortable, making it perfect for dry or sensitive skin. It’s a refreshing, gentle cleanser that works beautifully for everyday use.",
+			"description": "Torriden DIVE-IN Cleansing Foam is a gentle, hydrating foam cleanser that removes dirt, oil, and makeup while maintaining the skin’s moisture balance. This cleanser provides a deep yet soft cleanse, leaving the skin refreshed, clean, and hydrated without any tightness or dryness.",
+			"howToUse": "Squeeze a small amount into your palms, lather with water, and gently massage onto damp skin. Rinse thoroughly with lukewarm water for a refreshed and clean feel"
 		},
 		{
 			"brand": "Torriden",
@@ -752,7 +1032,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Dryness, Redness and Rosacea"
+			"concerns": "Dryness, Redness and Rosacea",
+			"rating": 90,
+			"price": "€34.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Torriden's DIVE-IN Serum stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Torriden DIVE-IN Serum is a deeply hydrating serum that helps to restore moisture and improve skin texture. Formulated with hyaluronic acid and other active ingredients, it hydrates, plumps, and smooths the skin, leaving it soft, radiant, and refreshed",
+			"howToUse": "Apply 2-3 drops onto clean, toned skin. Massage evenly over your face and neck to lock in hydration and boost skin’s moisture barrier."
 		},
 		{
 			"brand": "Torriden",
@@ -766,7 +1051,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Normal, Oily, Sensitive",
-			"concerns": "Redness and Rosacea, Anti-aging prevention"
+			"concerns": "Redness and Rosacea, Anti-aging prevention",
+			"rating": 64,
+			"price": "€25.00",
+			"whyOliLovesIt": "At Olis Lab, we love Torriden DIVE-IN Hyaluronic Acid Soothing Cream for its deep hydration and soothing benefits. The hyaluronic acid works to plump and moisturise the skin, while the calming ingredients help restore balance. This cream is perfect for anyone with dehydrated or sensitive skin, offering immediate relief and hydration.",
+			"description": "Torriden DIVE-IN Hyaluronic Acid Soothing Cream is a lightweight, hydrating cream that replenishes moisture and calms the skin. Infused with hyaluronic acid, this cream deeply hydrates, leaving the skin plump, smooth, and refreshed. It helps to restore moisture balance, ideal for sensitive and dehydrated skin.",
+			"howToUse": "Use as the final step in your routine. Apply an even layer to your face and neck to lock in hydration and calm sensitive skin."
 		},
 		{
 			"brand": "Torriden",
@@ -780,7 +1070,12 @@
 			"category": "Skin Care",
 			"subcategory": "Toners",
 			"skintypes": "Combination, Normal, Oily, Sensitive",
-			"concerns": "Redness and Rosacea"
+			"concerns": "Redness and Rosacea",
+			"rating": 64,
+			"price": "€23.00",
+			"whyOliLovesIt": "At Olis Lab, we appreciate Torriden DIVE-IN Toner for its hydrating and soothing qualities. This toner helps to replenish the skin, leaving it soft and balanced. It’s an essential product for those looking to enhance hydration and create a smooth canvas for their skincare routine.",
+			"description": "Torriden DIVE-IN Toner is a refreshing, hydrating toner that balances the skin’s moisture levels and preps it for the next steps in your skincare routine. Infused with hyaluronic acid and soothing ingredients, it provides hydration and calms the skin, leaving it feeling refreshed and revitalised",
+			"howToUse": "After cleansing, pour a few drops into your palms or onto a cotton pad. Gently pat onto your face and neck to hydrate and prepare skin for the next steps."
 		},
 		{
 			"brand": "Torriden",
@@ -793,7 +1088,12 @@
 			"category": "Skin Care",
 			"subcategory": "Cleansers",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Redness and Rosacea, Acne, spots, Dullness, Dryness, Shiny Areas, Enlarged Pores, Texture, Wound healing/Scars, Early signs of aging, Visible signs of aging"
+			"concerns": "Redness and Rosacea, Acne, spots, Dullness, Dryness, Shiny Areas, Enlarged Pores, Texture, Wound healing/Scars, Early signs of aging, Visible signs of aging",
+			"rating": 82,
+			"price": "€22.00",
+			"whyOliLovesIt": "We love Torriden Balanceful Cica Cleansing Gel for its calming and non-stripping formula. At Olis Lab, we appreciate cleansers that gently cleanse while maintaining the skin’s natural balance. This gel is perfect for those with sensitive or irritated skin, providing a thorough cleanse without dryness or discomfort.",
+			"description": "Torriden Balanceful Cica Cleansing Gel is a soothing, gentle gel cleanser that effectively removes dirt, oil, and impurities while calming the skin. Infused with centella asiatica (Cica) extract, this cleanser helps to restore balance, reduce redness, and provide hydration. It leaves the skin clean, fresh, and comfortabl",
+			"howToUse": "Apply a small amount to damp skin, massage gently to remove impurities, and rinse thoroughly with lukewarm water for a refreshed feel."
 		},
 		{
 			"brand": "Torriden",
@@ -806,7 +1106,12 @@
 			"category": "Skin Care",
 			"subcategory": "Toners",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Acne, spots, Dullness, Enlarged Pores, Redness and Rosacea, Shiny Areas, Dryness, Texture, Wound healing/Scars, Anti-aging prevention"
+			"concerns": "Acne, spots, Dullness, Enlarged Pores, Redness and Rosacea, Shiny Areas, Dryness, Texture, Wound healing/Scars, Anti-aging prevention",
+			"rating": 82,
+			"price": "€24.00",
+			"whyOliLovesIt": "We love Torriden Balanceful Cica Toner Pad for its convenience and effectiveness. These pads are perfect for anyone who wants to quickly soothe and hydrate their skin. At Olis Lab, we value products that deliver instant results, and these toner pads help calm and refresh the skin in just a few simple steps.",
+			"description": "Torriden Balanceful Cica Toner Pad is a gentle exfoliating pad that helps to balance and refresh the skin. Infused with Cica extract, it helps to reduce redness, calm irritation, and refine skin texture. These pads provide an easy, effective way to prep the skin for the next steps in your routine.",
+			"howToUse": "Use after cleansing. Gently swipe a toner pad across your face, avoiding the eye area, to soothe and prep skin for the next steps."
 		},
 		{
 			"brand": "Torriden",
@@ -819,7 +1124,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Redness and Rosacea, Dryness, Acne, spots, Enlarged Pores, Texture, Wound healing/Scars, Anti-aging prevention"
+			"concerns": "Redness and Rosacea, Dryness, Acne, spots, Enlarged Pores, Texture, Wound healing/Scars, Anti-aging prevention",
+			"rating": 82,
+			"price": "€23.00",
+			"whyOliLovesIt": "At Olis Lab, we love Torriden Balanceful Cica Serum for its ability to target irritation and redness while offering deep hydration. The lightweight formula makes it perfect for layering under other skincare products. It’s ideal for anyone looking to soothe sensitive or troubled skin while improving overall skin health.",
+			"description": "Torriden Balanceful Cica Serum is a lightweight serum that soothes and nourishes the skin with its Cica-rich formula. This serum helps to repair damaged skin, reduce redness, and enhance skin hydration, leaving the skin calm, smooth, and revitalised",
+			"howToUse": "After cleansing and toning, apply 2-3 drops to your face and neck. Gently pat until fully absorbed for calming and hydrating benefits."
 		},
 		{
 			"brand": "Torriden",
@@ -832,7 +1142,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Redness and Rosacea, Dryness, Acne, spots, Shiny Areas, Enlarged Pores, Texture, Wound healing/Scars, Anti-aging prevention"
+			"concerns": "Redness and Rosacea, Dryness, Acne, spots, Shiny Areas, Enlarged Pores, Texture, Wound healing/Scars, Anti-aging prevention",
+			"rating": 82,
+			"price": "€24.00",
+			"whyOliLovesIt": "Torriden Balanceful Cica Cream is an essential in our curated collection because of its ability to calm and nourish the skin. At Olis Lab, we value products that provide visible results without irritation, and this cream is a great solution for those seeking a balanced and hydrated complexion.",
+			"description": "Torriden Balanceful Cica Cream is a soothing cream formulated with centella asiatica (Cica) to calm and restore the skin. This cream deeply hydrates, improves skin elasticity, and helps to reduce redness and irritation, leaving the skin feeling soft, smooth, and rejuvenated.",
+			"howToUse": "As the final step of your routine, apply an even layer to your face and neck. Massage gently to lock in moisture and calm sensitive skin."
 		},
 		{
 			"brand": "Rowse",
@@ -845,7 +1160,12 @@
 			"category": "Skin Care",
 			"subcategory": "Toners",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Dullness"
+			"concerns": "Dullness",
+			"rating": 91,
+			"price": "€17.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Rowse's Organic Rose Water  stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "A beautifully simple yet powerful floral mist that hydrates, tones, and refreshes. Distilled from organic rose petals, it calms skin, refines texture, and provides a naturally uplifting sensory experience. Perfect as a daily toner, midday refresher, or even as a setting spray for a dewy finish.",
+			"howToUse": "Mist over clean skin before serums and moisturisers, or use throughout the day for an instant refresh. Can also be used as a setting spray for a dewy finish."
 		},
 		{
 			"brand": "Rowse",
@@ -858,7 +1178,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Enlarged Pores, Early signs of aging, Advanced anti-aging, Eyes Bags and/or dark circles"
+			"concerns": "Enlarged Pores, Early signs of aging, Advanced anti-aging, Eyes Bags and/or dark circles",
+			"rating": 79,
+			"price": "€37.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Rowse's Regenerate with Bakuchiol Night Serum  stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "A plant-based alternative to retinol, this rejuvenating night serum harnesses the power of bakuchiol to smooth, firm, and improve skin texture while you sleep. Unlike traditional retinoids, it delivers all the benefits without irritation, making it suitable for all skin types, including sensitive skin.",
+			"howToUse": "Apply a few drops to clean, dry skin in the evening before moisturiser. Use consistently for long-term skin-smoothing benefits."
 		},
 		{
 			"brand": "Rowse",
@@ -871,7 +1196,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Dryness, Eyes Bags and/or dark circles, Redness and Rosacea, Wound healing/Scars"
+			"concerns": "Dryness, Eyes Bags and/or dark circles, Redness and Rosacea, Wound healing/Scars",
+			"rating": 72,
+			"price": "€40.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Rowse's Eye Contour Serum  stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "A targeted treatment to brighten, hydrate, and smooth the delicate eye area. Packed with antioxidant-rich botanicals, it helps to reduce puffiness, fine lines, and signs of fatigue. Lightweight yet deeply effective, it instantly refreshes tired-looking eyes and restores a more youthful appearance.",
+			"howToUse": "Gently tap a small amount around the eye area using your ring finger. Use morning and night for best results."
 		},
 		{
 			"brand": "Rowse",
@@ -883,7 +1213,12 @@
 			"category": "Body Care",
 			"subcategory": "Body Oil",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Dullness"
+			"concerns": "Dullness",
+			"rating": 91,
+			"price": "€14.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Rowse's Summer Body Oil  stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Lightweight yet deeply nourishing, this fast-absorbing body oil replenishes moisture while enhancing skin’s natural glow. Enriched with plant-based oils, it hydrates and soothes without a greasy feel—perfect for warm weather or anytime skin craves a silky, sun-kissed radiance.",
+			"howToUse": "Massage onto damp skin after showering for optimal absorption. Use daily for silky, hydrated skin with a luminous glow."
 		},
 		{
 			"brand": "Rowse",
@@ -896,7 +1231,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Dryness, Hyperpigmentation, Enlarged Pores, Dullness, Acne, spots, Texture, Anti-aging prevention"
+			"concerns": "Dryness, Hyperpigmentation, Enlarged Pores, Dullness, Acne, spots, Texture, Anti-aging prevention",
+			"rating": 82,
+			"price": "€38.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Rowse's All-Day Hydration Serum with Niacinamide stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Designed to quench thirsty skin, this lightweight serum delivers all-day hydration while strengthening the skin barrier. Niacinamide works to brighten and refine texture, while humectants draw in moisture for long-lasting hydration. The result? Skin that looks plump, balanced, and radiant from morning to night.",
+			"howToUse": "Apply a few drops to clean skin before moisturiser. Use morning and night for optimal hydration and skin barrier support."
 		},
 		{
 			"brand": "Rowse",
@@ -910,7 +1250,12 @@
 			"category": "Skin Care",
 			"subcategory": "Cleansers",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Dryness"
+			"concerns": "Dryness",
+			"rating": 82,
+			"price": "€17.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Rowse's Tangerine Cleansing Balm stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Melt away makeup, sunscreen, and daily grime with this luxurious, oil-based cleansing balm. Infused with bright citrus extracts, it effortlessly lifts impurities while leaving skin feeling soft, refreshed, and nourished. The rich, velvety texture transforms into a silky oil on contact, making your cleansing ritual feel indulgent",
+			"howToUse": "Massage into dry skin to break down makeup and impurities. Add water to emulsify, then rinse thoroughly or remove with a warm cloth."
 		},
 		{
 			"brand": "Rowse",
@@ -922,7 +1267,12 @@
 			"category": "Skin Care",
 			"subcategory": "Cleansers, Moisturisers, Treatments",
 			"skintypes": "Combination, Normal",
-			"concerns": "Dryness, Anti-aging prevention"
+			"concerns": "Dryness, Anti-aging prevention",
+			"rating": 75,
+			"price": "€27.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Rowse's Starter Kit  stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Everything you need to kickstart a minimalist, high-performance skincare routine. \nIncludes, ROWSE TANGERINGE CLEANSING BALM, ROWSE ALL DAY MOISTURISER & ROWSE REGENERATE NIGHT SERUM. \nThis curated set features essentials designed to cleanse, hydrate, and nourish, making it the perfect introduction to ROWSE’s plant-powered formulations, whether you're new to the brand or looking for a streamlined, travel-friendly routine.",
+			"howToUse": "Follow the routine step by step—cleanse, hydrate, and nourish. Perfect for travel or as an entry point into ROWSE’s botanical skincare philosophy."
 		},
 		{
 			"brand": "Rowse",
@@ -934,7 +1284,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Dryness"
+			"concerns": "Dryness",
+			"rating": 89,
+			"price": "€34.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Rowse's Melatonin Sleeping Mask  stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Overnight recovery takes on a whole new meaning with this melatonin-infused sleeping mask. Designed to support the skin’s natural repair cycle, it restores hydration, smooths texture, and enhances radiance while you sleep.",
+			"howToUse": "Apply a generous layer as the final step in your evening routine. Let it absorb overnight and rinse off in the morning for visibly refreshed skin."
 		},
 		{
 			"brand": "Rowse",
@@ -946,7 +1301,12 @@
 			"category": "Skin Care",
 			"subcategory": "Toners",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Dryness"
+			"concerns": "Dryness",
+			"rating": 70,
+			"price": "€26.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Rowse's Summer Hydrating Mist  stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Dehydrated skin is no match for this refreshing facial mist. Lightweight and packed with botanical extracts, it instantly quenches, cools, and revitalises—perfect for keeping skin fresh and glowing all summer long.",
+			"howToUse": "Hold at arm’s length and mist over the face whenever skin needs a boost. Use before makeup, post-sun exposure, or throughout the day for a refreshing reset."
 		},
 		{
 			"brand": "Rowse",
@@ -959,7 +1319,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Dryness, \nBarrier Protection"
+			"concerns": "Dryness, \nBarrier Protection",
+			"rating": 85,
+			"price": "€36.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Rowse's Winter Body Oil stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Cold weather can leave skin feeling tight, dry, and depleted. This ultra-nourishing body oil replenishes moisture, creating a protective barrier that keeps skin soft, smooth, and radiant even in the harshest winter months.",
+			"howToUse": "Massage onto damp skin straight out of the shower to lock in moisture. Layer with body cream for an extra dose of nourishment."
 		},
 		{
 			"brand": "Rowse",
@@ -972,7 +1337,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Acne, spots, Texture, Anti-aging prevention"
+			"concerns": "Acne, spots, Texture, Anti-aging prevention",
+			"rating": 88,
+			"price": "€34.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Rowse's Mushroom Booster stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Adaptogenic mushrooms, long revered for their skin-strengthening benefits, take centre stage in this deeply hydrating and calming booster. Designed to soothe irritation, replenish moisture, and improve skin resilience.",
+			"howToUse": "Gently press a few drops into the skin after cleansing, or mix with your favourite serum for an added hydration boost."
 		},
 		{
 			"brand": "Rowse",
@@ -985,7 +1355,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Acne, spots, Hyperpigmentation, Redness and Rosacea, Anti-aging prevention, Early signs of aging, Texture, Eyes Bags and/or dark circles"
+			"concerns": "Acne, spots, Hyperpigmentation, Redness and Rosacea, Anti-aging prevention, Early signs of aging, Texture, Eyes Bags and/or dark circles",
+			"rating": 79,
+			"price": "€32.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Rowse's Vitamin C Booster  stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Tired, dull skin gets an instant refresh with this powerful Vitamin C treatment. Designed to brighten, even out skin tone, and combat free radical damage, it helps reveal a radiant, more youthful complexion.",
+			"howToUse": "Smooth a few drops onto clean skin in the morning before moisturiser. Always follow with SPF for optimal protection."
 		},
 		{
 			"brand": "Rowse",
@@ -998,7 +1373,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Dryness, Texture, Anti-aging prevention"
+			"concerns": "Dryness, Texture, Anti-aging prevention",
+			"rating": 81,
+			"price": "€38.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Rowse's Pre&Probiotics Booster stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Healthy skin starts with a strong microbiome. This innovative booster blends prebiotics and probiotics to balance, protect, and reinforce the skin barrier, reducing sensitivity and redness while promoting long-term resilience.",
+			"howToUse": "Mix a few drops into your serum or apply directly to clean skin before moisturiser. Best used in the evening to support overnight skin renewal."
 		},
 		{
 			"brand": "Rowse",
@@ -1011,7 +1391,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Dullness, Inflammation"
+			"concerns": "Dullness, Inflammation",
+			"rating": 82,
+			"price": "€64.00",
+			"whyOliLovesIt": "The ultimate skin-firming companion. This lightweight yet potent booster works behind the scenes to keep your skin strong, supple, and smooth. It absorbs effortlessly, leaving no greasy residue—just firmer, healthier skin with every use. Perfect for anyone looking to future-proof their complexion and maintain that natural bounce.",
+			"description": "Skin loses collagen over time, leading to fine lines and loss of firmness. This botanical-powered booster supports natural collagen production, helping to restore elasticity, plumpness, and hydration for a youthful glow.",
+			"howToUse": "Apply a few drops to clean, dry skin before your moisturiser. Gently press into the skin, morning and night, for best results."
 		},
 		{
 			"brand": "",
@@ -1026,7 +1411,12 @@
 			"category": "Tools  & Accessories",
 			"subcategory": "",
 			"skintypes": "",
-			"concerns": ""
+			"concerns": "",
+			"rating": 95,
+			"price": "€29.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. 's Travel Bag stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Description pour Travel Bag",
+			"howToUse": "Instructions d'utilisation à définir"
 		},
 		{
 			"brand": "Beauty of Joseon",
@@ -1040,7 +1430,12 @@
 			"category": "Skin Care",
 			"subcategory": "Mask",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Dryness, Wound healing/Scars"
+			"concerns": "Dryness, Wound healing/Scars",
+			"rating": 82,
+			"price": "€6.00",
+			"whyOliLovesIt": "When your skin is acting up—tight, flushed, or just plain cranky—this is the mask we trust. It’s like skincare first aid, soothing and grounding your complexion while giving it a soft, hydrated finish. Keep it in the fridge for extra zen.",
+			"description": "A feather-light sheet mask infused with centella asiatica and green tea to calm redness, reduce inflammation, and deliver gentle hydration. Ideal for reactive skin, it provides an instant moment of relief and recovery.",
+			"howToUse": "Smooth over clean skin after toner. Leave for 15–20 minutes, then press in the remaining serum. Follow with moisturiser if needed."
 		},
 		{
 			"brand": "Torriden",
@@ -1054,7 +1449,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Early signs of aging, Dryness, Hyperpigmentation, Shiny Areas, Enlarged Pores, Anti-aging prevention"
+			"concerns": "Early signs of aging, Dryness, Hyperpigmentation, Shiny Areas, Enlarged Pores, Anti-aging prevention",
+			"rating": 64,
+			"price": "€30.00",
+			"whyOliLovesIt": "Because it brings structure back to skin that’s lost its spring. It firms without feeling heavy, and there’s a subtle smoothing effect that makes us reach for it morning and night. Think of it as a lightweight hug for ageing or fatigued skin.",
+			"description": "A rich yet breathable cream formulated with plant stem cells and skin-firming peptides to help restore elasticity and bounce. This formula nourishes deeply, offering long-lasting hydration while targeting fine lines and sagging skin.",
+			"howToUse": "Smooth onto your face and neck as the final step in your morning or evening routine. Massage in upward motions—your future self will thank you."
 		},
 		{
 			"brand": "Torriden",
@@ -1068,7 +1468,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Early signs of aging, Dryness, Enlarged Pores, Shiny Areas, Hyperpigmentation, Anti-aging prevention"
+			"concerns": "Early signs of aging, Dryness, Enlarged Pores, Shiny Areas, Hyperpigmentation, Anti-aging prevention",
+			"rating": 73,
+			"price": "€26.00",
+			"whyOliLovesIt": "Because those fine lines deserve more than just hope. This cream delivers a real difference in firmness over time—and the cooling tip is pure heaven in the morning. Perfect for tired eyes, long nights, or anyone wanting a polished, well-rested look.",
+			"description": "A precision-crafted eye cream enriched with peptides, caffeine, and botanical extracts to lift, de-puff, and brighten the eye area. Its cooling metal tip applicator soothes as it glides, enhancing product absorption and calming morning puffiness.",
+			"howToUse": "Glide gently under the eyes using the metal applicator, from inner to outer corners. Use morning and evening for best results."
 		},
 		{
 			"brand": "Torriden",
@@ -1081,7 +1486,12 @@
 			"category": "Skin Care",
 			"subcategory": "Mask",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Early signs of aging, Dryness, Enlarged Pores, Shiny Areas, Hyperpigmentation, Anti-aging prevention"
+			"concerns": "Early signs of aging, Dryness, Enlarged Pores, Shiny Areas, Hyperpigmentation, Anti-aging prevention",
+			"rating": 91,
+			"price": "€28.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Torriden's Cellmazing Firming Gel Mask stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "A cooling two-piece hydrogel mask that locks in potent ingredients like collagen-supporting peptides while offering a lifting, skin-tightening feel. It hugs every contour of your face and delivers a hit of hydration, especially when chilled.",
+			"howToUse": "Apply to clean, dry skin and leave on for 15–20 minutes. Remove and pat in the remaining serum—no need to rinse."
 		},
 		{
 			"brand": "Torriden",
@@ -1095,7 +1505,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Dryness, Hyperpigmentation, Shiny Areas, Enlarged Pores, Dullness, Anti-aging prevention, Eyes Bags and/or dark circles, Early signs of aging"
+			"concerns": "Dryness, Hyperpigmentation, Shiny Areas, Enlarged Pores, Dullness, Anti-aging prevention, Eyes Bags and/or dark circles, Early signs of aging",
+			"rating": 64,
+			"price": "€26.00",
+			"whyOliLovesIt": "The glow is real. It’s a daily brightener that actually respects your barrier and works beautifully under SPF or moisturiser. No harsh tingles, no flaking—just luminous, even-toned skin that feels like it’s had a full eight hours.",
+			"description": "A concentrated serum designed to illuminate and even out skin tone using stable vitamin C, niacinamide, and soothing hydrators. It sinks in quickly, making it ideal for both morning and evening routines—even for sensitive skin types.",
+			"howToUse": "Drop 2–3 drops into palms and press into skin after toner. Follow with moisturiser. SPF is a must if used in the morning."
 		},
 		{
 			"brand": "Torriden",
@@ -1108,7 +1523,12 @@
 			"category": "Skin Care",
 			"subcategory": "Mask",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Dryness"
+			"concerns": "Dryness",
+			"rating": 64,
+			"price": "€6.00",
+			"whyOliLovesIt": "There’s nothing like it after a long-haul flight, a night out, or a week of too many screens. It’s the kind of quick-fix mask that actually works—leaves skin dewy, calm, and visibly healthier. Ideal for when your barrier’s feeling delicate or your glow’s gone missing.",
+			"description": "An ultra-fine, skin-clinging mask infused with low molecular weight hyaluronic acid that delivers deep hydration to thirsty, depleted skin. The essence soaks in quickly, targeting layers beneath the surface to soften, plump, and restore balance—without any heaviness or residue.",
+			"howToUse": "Pop it on after toner, relax for 10–15 minutes, then pat in the leftover essence. No rinse needed—just glow."
 		},
 		{
 			"brand": "Colekt",
@@ -1121,7 +1541,12 @@
 			"category": "Skin Care",
 			"subcategory": "Cleansers",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "\nBarrier Protection, Dryness"
+			"concerns": "\nBarrier Protection, Dryness",
+			"rating": 94,
+			"price": "€24.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Colekt's RETAKE Witch Hazel Water Face Cleanser stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Description pour RETAKE Witch Hazel Water Face Cleanser",
+			"howToUse": "Instructions d'utilisation à définir"
 		},
 		{
 			"brand": "Colekt",
@@ -1133,7 +1558,12 @@
 			"category": "Skin Care",
 			"subcategory": "Cleansers",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Acne, spots, Inflammation, Texture, Enlarged Pores, Shiny Areas"
+			"concerns": "Acne, spots, Inflammation, Texture, Enlarged Pores, Shiny Areas",
+			"rating": 92,
+			"price": "€16.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Colekt's RESET Bilberry Lactic Dual Face Exfoliator stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Description pour RESET Bilberry Lactic Dual Face Exfoliator",
+			"howToUse": "Instructions d'utilisation à définir"
 		},
 		{
 			"brand": "Colekt",
@@ -1146,7 +1576,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "\nBarrier Protection, Dryness"
+			"concerns": "\nBarrier Protection, Dryness",
+			"rating": 94,
+			"price": "€34.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Colekt's RECLAIM Mulberry Leaf Face Mist stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Description pour RECLAIM Mulberry Leaf Face Mist",
+			"howToUse": "Instructions d'utilisation à définir"
 		},
 		{
 			"brand": "Colekt",
@@ -1159,7 +1594,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry",
-			"concerns": "Early signs of aging, Texture, Acne, spots, Inflammation, Dryness"
+			"concerns": "Early signs of aging, Texture, Acne, spots, Inflammation, Dryness",
+			"rating": 90,
+			"price": "€39.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Colekt's RELOAD Bakuchiol Face Balm stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Description pour RELOAD Bakuchiol Face Balm",
+			"howToUse": "Instructions d'utilisation à définir"
 		},
 		{
 			"brand": "Colekt",
@@ -1172,7 +1612,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers, Serums",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Inflammation, \nBarrier Protection, Redness and Rosacea"
+			"concerns": "Inflammation, \nBarrier Protection, Redness and Rosacea",
+			"rating": 82,
+			"price": "€27.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Colekt's REJECT Oak Root Face Oil stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Description pour REJECT Oak Root Face Oil",
+			"howToUse": "Instructions d'utilisation à définir"
 		},
 		{
 			"brand": "Colekt",
@@ -1185,7 +1630,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal, Sensitive",
-			"concerns": "Early signs of aging, Acne, spots, Inflammation, Texture, Advanced anti-aging, Eyes Bags and/or dark circles"
+			"concerns": "Early signs of aging, Acne, spots, Inflammation, Texture, Advanced anti-aging, Eyes Bags and/or dark circles",
+			"rating": 76,
+			"price": "€35.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Colekt's REFLECT Cress Sprout Eye Balm stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Description pour REFLECT Cress Sprout Eye Balm",
+			"howToUse": "Instructions d'utilisation à définir"
 		},
 		{
 			"brand": "Colekt",
@@ -1198,7 +1648,12 @@
 			"category": "Body Care",
 			"subcategory": "Body Oil",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "\nBarrier Protection, Dryness"
+			"concerns": "\nBarrier Protection, Dryness",
+			"rating": 74,
+			"price": "€20.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Colekt's REBOOT Rosehip Seed Body Oil stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Description pour REBOOT Rosehip Seed Body Oil",
+			"howToUse": "Instructions d'utilisation à définir"
 		},
 		{
 			"brand": "Colekt",
@@ -1210,7 +1665,12 @@
 			"category": "Body Care",
 			"subcategory": "Hand care",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Dryness"
+			"concerns": "Dryness",
+			"rating": 79,
+			"price": "€16.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Colekt's REPEAT Red Algae Hand Soap stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Description pour REPEAT Red Algae Hand Soap",
+			"howToUse": "Instructions d'utilisation à définir"
 		},
 		{
 			"brand": "Colekt",
@@ -1222,7 +1682,12 @@
 			"category": "Body Care",
 			"subcategory": "Hand care",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Dryness"
+			"concerns": "Dryness",
+			"rating": 81,
+			"price": "€21.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Colekt's REDUX Mallow Leaf Hand Balm tube stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Description pour REDUX Mallow Leaf Hand Balm tube",
+			"howToUse": "Instructions d'utilisation à définir"
 		},
 		{
 			"brand": "Colekt",
@@ -1235,7 +1700,12 @@
 			"category": "Body Care",
 			"subcategory": "Shower & Bath",
 			"skintypes": "Combination, Normal, Oily",
-			"concerns": "Texture, Acne, spots, Inflammation, Hormonal Skin, \nBarrier Protection"
+			"concerns": "Texture, Acne, spots, Inflammation, Hormonal Skin, \nBarrier Protection",
+			"rating": 80,
+			"price": "€20.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Colekt's REGRET White Willow Body Soap stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Description pour REGRET White Willow Body Soap",
+			"howToUse": "Instructions d'utilisation à définir"
 		},
 		{
 			"brand": "Colekt",
@@ -1247,7 +1717,12 @@
 			"category": "Skin Care",
 			"subcategory": "Lip Care",
 			"skintypes": "Combination, Dry, Normal, Sensitive",
-			"concerns": "Dryness"
+			"concerns": "Dryness",
+			"rating": 88,
+			"price": "€29.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Colekt's REDO Beauty Balm stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Description pour REDO Beauty Balm",
+			"howToUse": "Instructions d'utilisation à définir"
 		},
 		{
 			"brand": "Verso",
@@ -1260,7 +1735,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Advanced anti-aging, Acne, spots, Texture"
+			"concerns": "Advanced anti-aging, Acne, spots, Texture",
+			"rating": 82,
+			"price": "€95.00",
+			"whyOliLovesIt": "A great night cream is about more than just hydration—it is about waking up to better skin. This one delivers. It glides on without heaviness, supports skin through the night and leaves you with a rested, refreshed glow by morning. A quiet achiever that earns its place beside your bed, night after night.",
+			"description": "Powered by Retinol 8, oat lipids and antioxidants, this replenishing night cream works to visibly soften fine lines, firm the skin and support overnight repair. It nourishes while helping the skin to retain moisture and improve elasticity. Best for dry, mature or tired skin in need of visible renewal and overnight recovery.",
+			"howToUse": "Apply to clean, dry skin as the final step in your evening routine. Massage into face and neck using upward strokes. Avoid the eye area."
 		},
 		{
 			"brand": "Verso",
@@ -1274,7 +1754,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Hyperpigmentation, Enlarged Pores, Shiny Areas, Acne, spots, Hormonal Skin, Advanced anti-aging, Texture, Anti-aging prevention"
+			"concerns": "Hyperpigmentation, Enlarged Pores, Shiny Areas, Acne, spots, Hormonal Skin, Advanced anti-aging, Texture, Anti-aging prevention",
+			"rating": 73,
+			"price": "€95.00",
+			"whyOliLovesIt": "This moisturiser gives you everything you need in one neat step. It hydrates, calms and boosts glow without ever feeling heavy or sticky. Skin stays comfortable, refined and ready for whatever your day holds. A dependable go to for everyday skin support.",
+			"description": "Formulated with Retinol 8, niacinamide and oat extract, this cream provides moisture while helping to calm, brighten and refine the complexion. It strengthens the barrier and leaves skin with a smooth, balanced finish. Best for combination, normal or sensitive skin looking for light hydration and daily care.",
+			"howToUse": "Smooth onto clean skin in the morning after serum. Massage gently and follow with SPF for added protection."
 		},
 		{
 			"brand": "Verso",
@@ -1288,7 +1773,12 @@
 			"category": "Skin Care",
 			"subcategory": "Sun Care",
 			"skintypes": "Combination, Dry, Normal, Sensitive",
-			"concerns": "\nBarrier Protection, Wound healing/Scars, Inflammation, Dryness"
+			"concerns": "\nBarrier Protection, Wound healing/Scars, Inflammation, Dryness",
+			"rating": 73,
+			"price": "€70.00",
+			"whyOliLovesIt": "A sunscreen that feels like skincare is always a win. This one blends effortlessly, never pills or chalks, and makes your skin look naturally bright and smooth. It is the kind of SPF you will actually want to reapply—and that is saying something.",
+			"description": "Combines high protection SPF filters with antioxidants to defend against UV damage and environmental stress. Leaves skin hydrated, protected and smooth without white cast or residue. Ideal for all skin types, especially sensitive or dull skin that needs daily defence.",
+			"howToUse": "Apply a generous amount to face and neck each morning as the final step in your routine. Reapply every two hours if exposed to sunlight for extended periods."
 		},
 		{
 			"brand": "Verso",
@@ -1302,7 +1792,12 @@
 			"category": "Skin Care",
 			"subcategory": "Treatments",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Texture, Hormonal Skin, Acne, spots, Advanced anti-aging, Shiny Areas, Enlarged Pores, Hyperpigmentation, Dullness, Early signs of aging, Anti-aging prevention, Visible signs of aging"
+			"concerns": "Texture, Hormonal Skin, Acne, spots, Advanced anti-aging, Shiny Areas, Enlarged Pores, Hyperpigmentation, Dullness, Early signs of aging, Anti-aging prevention, Visible signs of aging",
+			"rating": 64,
+			"price": "€75.00",
+			"whyOliLovesIt": "You feel the difference from the first application. Skin looks brighter, feels smoother and has that healthy lit from within finish that makes every routine feel worthwhile. Ideal for mornings when your face needs a little help catching up to your mood.",
+			"description": "Infused with Retinol 8, vitamin C and plant based brighteners, this formula delivers instant luminosity while working over time to improve skin tone and texture. It nourishes and supports radiance from the first use onward. Great for dull, uneven or ageing skin in need of both immediate glow and long term benefits.",
+			"howToUse": "Apply to clean skin before moisturiser. Can be used morning or evening depending on routine needs. Follow with SPF if used during the day."
 		},
 		{
 			"brand": "Verso",
@@ -1316,7 +1811,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Sensitive",
-			"concerns": "Dryness"
+			"concerns": "Dryness",
+			"rating": 73,
+			"price": "€45.00",
+			"whyOliLovesIt": "A tiny amount goes a long way, delivering comfort, hydration and visible brightness to the eye area. This is one of those creams that makes a difference quickly, softening creases and restoring smoothness without overwhelming delicate skin.",
+			"description": "Combines Retinol 8 with oat lipids and hyaluronic acid to smooth, hydrate and firm the delicate eye area. Targets fine lines, dryness and puffiness while protecting and strengthening the skin barrier. Recommended for dry, mature or fatigued skin showing signs of tiredness or ageing around the eyes.",
+			"howToUse": "Tap a small amount gently around the eye area using your ring finger. Use morning and evening after cleansing and serum."
 		},
 		{
 			"brand": "Verso",
@@ -1330,7 +1830,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Sensitive",
-			"concerns": "\nBarrier Protection, Dryness"
+			"concerns": "\nBarrier Protection, Dryness",
+			"rating": 82,
+			"price": "€60.00",
+			"whyOliLovesIt": "This is the kind of moisturiser that brings instant comfort to unhappy skin. It is dense but never cloying, and it leaves your face feeling stronger, smoother and protected. Perfect for reactive moments or everyday support when your skin needs to feel safe and soothed.",
+			"description": "A rich, replenishing cream featuring  oat lipids and ceramides to fortify the skin’s natural defences. It provides deep moisture and reduces signs of irritation while promoting long term resilience. Especially suited for sensitive, dry or barrier compromised skin in need of gentle repair.",
+			"howToUse": "Apply generously to clean, dry skin after serum. Use morning or evening, or both, depending on how much support your skin needs."
 		},
 		{
 			"brand": "Verso",
@@ -1344,7 +1849,12 @@
 			"category": "Skin Care",
 			"subcategory": "Cleansers",
 			"skintypes": "Combination, Oily, Sensitive",
-			"concerns": "Shiny Areas, Enlarged Pores, Acne, spots, Hyperpigmentation, Anti-aging prevention"
+			"concerns": "Shiny Areas, Enlarged Pores, Acne, spots, Hyperpigmentation, Anti-aging prevention",
+			"rating": 82,
+			"price": "€40.00",
+			"whyOliLovesIt": "This cleanser makes you feel like you are getting a fresh start every time. It lathers lightly, rinses clean and leaves your skin smooth, clear and never tight. Ideal for resetting after a long day or keeping oil at bay without going too far.",
+			"description": "A clarifying gel cleanser enriched with salicylic acid and fruit enzymes to purify pores and balance oil production. It refines texture and removes impurities without disrupting the skin’s natural barrier. Best for combination, oily or congested skin looking for a gentle but effective cleanse.",
+			"howToUse": "Apply to damp face and massage gently. Rinse thoroughly with lukewarm water. Use once or twice daily depending on your skin’s needs."
 		},
 		{
 			"brand": "Verso",
@@ -1358,7 +1868,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Advanced anti-aging, Texture, Acne, spots, Hormonal Skin"
+			"concerns": "Advanced anti-aging, Texture, Acne, spots, Hormonal Skin",
+			"rating": 73,
+			"price": "€125.00",
+			"whyOliLovesIt": "This serum feels like a reset button for your face. It smooths, lifts and strengthens while layering beautifully under moisturiser or oil. If you are ready to invest in visible change, this is the one that brings the glow back.",
+			"description": "A high strength serum packed with Retinol 8, peptides and antioxidants to promote collagen, firm the skin and improve tone and texture. This formula encourages visible renewal and long term resilience without overwhelming the skin. Suitable for ageing, dull or tired skin that is ready for a results driven boost.",
+			"howToUse": "Use a few drops on clean skin after toner. Follow with moisturiser and always apply SPF in the morning when using retinol based products."
 		},
 		{
 			"brand": "Woods Copenhagen",
@@ -1368,7 +1883,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal, Sensitive",
-			"concerns": "\nBarrier Protection, Dryness"
+			"concerns": "\nBarrier Protection, Dryness",
+			"rating": 100,
+			"price": "€50.00",
+			"whyOliLovesIt": "Brightening without the weight, this eye cream is a skin reset in a pot. It sinks in like a dream and instantly cools and calms tired eyes. Even on three hours of sleep, you’ll look like you’ve had a full eight.",
+			"description": "Silk textured and deeply nourishing, the eye cream blends Arctic spring water, hyaluronic acid and antioxidant rich sea buckthorn. It hydrates and plumps while reducing puffiness and brightening dark circles. Ideal for dry, tired or mature skin in need of daily care.",
+			"howToUse": "o Forehead → Move center to sides."
 		},
 		{
 			"brand": "Woods Copenhagen",
@@ -1378,7 +1898,12 @@
 			"category": "Skin Care",
 			"subcategory": "Cleansers",
 			"skintypes": "Combination, Normal, Oily",
-			"concerns": "Early signs of aging"
+			"concerns": "Early signs of aging",
+			"rating": 100,
+			"price": "€40.00",
+			"whyOliLovesIt": "There’s something about the soft lather that makes this cleanser feel so luxurious. It removes the day without leaving skin tight or stripped, making it an everyday essential that never disappoints.",
+			"description": "Gentle yet thorough, the foaming cleanser uses Arctic spring water, cucumber extract and shea butter to remove dirt and oil without drying. Balances the complexion and refreshes the skin, especially helpful for oily, combination or post workout skin types.",
+			"howToUse": "o Neck → Lift upward from collarbone to jawline (avoid Adam’s apple)."
 		},
 		{
 			"brand": "Woods Copenhagen",
@@ -1388,7 +1913,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Normal, Oily, Sensitive",
-			"concerns": "Dryness"
+			"concerns": "Dryness",
+			"rating": 91,
+			"price": "€50.00",
+			"whyOliLovesIt": "When skin is feeling fragile, this is the one to reach for. Its calming, cocooning formula never overwhelms, and the glow it leaves is quietly confident—subtle, but beautiful.",
+			"description": "Soft and comforting, the sensitive cream combines chamomile, shea butter and vitamin E to soothe irritation and restore hydration. Perfect for skin prone to redness, dryness or reactivity, especially in colder months or times of stress.",
+			"howToUse": "5. To pause, double press the power button."
 		},
 		{
 			"brand": "Woods Copenhagen",
@@ -1398,7 +1928,12 @@
 			"category": "Skin Care",
 			"subcategory": "Cleansers",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Enlarged Pores, Shiny Areas, Texture, Acne, spots, Inflammation, Hormonal Skin"
+			"concerns": "Enlarged Pores, Shiny Areas, Texture, Acne, spots, Inflammation, Hormonal Skin",
+			"rating": 100,
+			"price": "€45.00",
+			"whyOliLovesIt": "A scrub that walks the line perfectly—it exfoliates without aggression and leaves skin feeling baby soft. There’s an immediate clarity after use, like you’ve polished off a dull layer to reveal fresh, healthy skin.",
+			"description": "Volcanic ash and apricot seed powder come together in a creamy base to gently exfoliate without harming the skin barrier. Polishes away dead skin and texture, leaving your complexion looking fresh and smooth. Great for dull or uneven skin types.",
+			"howToUse": "6. To turn off, press for 2 sec or wait for auto shut-off."
 		},
 		{
 			"brand": "Woods Copenhagen",
@@ -1408,7 +1943,12 @@
 			"category": "Skin Care",
 			"subcategory": "Treatments",
 			"skintypes": "Combination, Dry, Normal, Sensitive",
-			"concerns": "Dryness, \nBarrier Protection"
+			"concerns": "Dryness, \nBarrier Protection",
+			"rating": 100,
+			"price": "€26.00",
+			"whyOliLovesIt": "Think of it as the one product you’ll always want in your bag. It’s a multipurpose hero that brings comfort and calm to anything from chapped lips and flaky patches to post-windburn cheeks or overwashed hands. It melts into skin like a treatment, never sticky or heavy, and brings instant relief no matter the weather or season.",
+			"description": "Rich in cloudberry and blueberry seed oil, the balm cushions dry, irritated skin with a nourishing, waxy texture that seals in moisture. A saviour for chapped lips, cracked cuticles, and windburned cheeks. Suitable for all skin types in need of barrier repair and comfort.",
+			"howToUse": "7. Wipe the device head clean after use."
 		},
 		{
 			"brand": "Woods Copenhagen",
@@ -1418,7 +1958,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Normal, Oily",
-			"concerns": "Dryness, \nBarrier Protection"
+			"concerns": "Dryness, \nBarrier Protection",
+			"rating": 100,
+			"price": "€45.00",
+			"whyOliLovesIt": "One of those masks that always earns its spot, no matter your routine. It quenches skin in seconds, leaving it bouncy, soft, and fresh—like you’ve just come back from a spa facial. The light gel texture makes it perfect as a weekly treatment or an overnight reset, especially when your complexion needs a little extra life and light.",
+			"description": "Multiple molecular weights of hyaluronic acid combine with aloe vera and algae extract to flood the skin with hydration and support long-lasting moisture retention. Especially beneficial for dehydrated, dull or tired complexions needing a plumping refresh.",
+			"howToUse": "Apply an even layer over clean skin. Leave on for 15 minutes or overnight for intense hydration. Rinse or gently tissue off any excess."
 		},
 		{
 			"brand": "Woods Copenhagen",
@@ -1428,7 +1973,12 @@
 			"category": "Skin Care",
 			"subcategory": "Treatments",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Inflammation, Acne, spots, Texture, Enlarged Pores, Shiny Areas, Hormonal Skin"
+			"concerns": "Inflammation, Acne, spots, Texture, Enlarged Pores, Shiny Areas, Hormonal Skin",
+			"rating": 100,
+			"price": "€45.00",
+			"whyOliLovesIt": "Gives that post-facial feeling in under ten minutes. With just the right tingle, it smooths texture, clears out pores, and revives dull, tired skin with visible brightness. A gentle powerhouse that makes skin feel refreshed, refined, and ready to face the week—or the weekend.",
+			"description": "Fruit acids and lactic acid work alongside moisturising glycerin to exfoliate and resurface while keeping the skin barrier calm and hydrated. A brilliant pick for anyone with uneven texture, dullness or congestion who wants a smoother, brighter complexion without the harshness of physical scrubs.",
+			"howToUse": "Apply a thin, even layer to clean, dry skin. Leave on for 5 to 10 minutes, then rinse thoroughly. Use once or twice a week."
 		},
 		{
 			"brand": "Woods Copenhagen",
@@ -1438,7 +1988,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Texture, Shiny Areas, Enlarged Pores, Hyperpigmentation, Anti-aging prevention"
+			"concerns": "Texture, Shiny Areas, Enlarged Pores, Hyperpigmentation, Anti-aging prevention",
+			"rating": 100,
+			"price": "€30.00",
+			"whyOliLovesIt": "The quickest route to a mid-afternoon refresh. It revives tired skin, sets makeup, and restores glow in a few effortless spritzes. There’s a calming softness to it too, thanks to the rose water base—making it just as good on bare skin as it is over foundation. A true handbag staple that feels as good as it looks.",
+			"description": "A featherlight mist infused with niacinamide, rose water and sodium PCA to refresh, tone and hydrate throughout the day. Balances oil, refines texture, and helps skin retain moisture—ideal for combination or oily skin types that need lightweight hydration on the go.",
+			"howToUse": "Hold 20 centimetres from your face and mist evenly over skin. Use after cleansing, to set makeup or whenever skin feels dry or unbalanced."
 		},
 		{
 			"brand": "Woods Copenhagen",
@@ -1448,7 +2003,12 @@
 			"category": "Body Care",
 			"subcategory": "Body Mosituriser",
 			"skintypes": "Combination, Dry",
-			"concerns": "Hyperpigmentation, Enlarged Pores, Shiny Areas, Texture, Anti-aging prevention"
+			"concerns": "Hyperpigmentation, Enlarged Pores, Shiny Areas, Texture, Anti-aging prevention",
+			"rating": 100,
+			"price": "€45.00",
+			"whyOliLovesIt": "The kind of body lotion that genuinely feels like skincare. It leaves your limbs gleaming, smooth and hydrated from morning to evening, with a finish that’s soft rather than shiny. Perfect for post-shower rituals, seasonal skin shifts, or anyone who wants their skin to look as good below the neck as it does above. Reliable, comforting, and delicious to use.",
+			"description": "Niacinamide meets squalane, shea butter and natural Nordic oils in this deeply nourishing yet lightweight body lotion. It hydrates, restores and strengthens the skin’s barrier while evening out texture and tone. The formula absorbs beautifully with no stickiness, making it perfect for daily use after showers or long days. Ideal for dry, rough or flaky skin in need of long-lasting softness and visible glow.",
+			"howToUse": "Smooth a generous amount onto clean, dry skin after showering or bathing. Pay extra attention to dry patches like elbows, knees and ankles. Massage in until fully absorbed. Use daily to maintain moisture and restore softness."
 		},
 		{
 			"brand": "Woods Copenhagen",
@@ -1458,7 +2018,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Hormonal Skin, Enlarged Pores, Inflammation, Acne, spots, Texture, Anti-aging prevention, Early signs of aging"
+			"concerns": "Hormonal Skin, Enlarged Pores, Inflammation, Acne, spots, Texture, Anti-aging prevention, Early signs of aging",
+			"rating": 100,
+			"price": "€48.00",
+			"whyOliLovesIt": "Reliable, effective, and quietly transformative. This BHA toner takes the guesswork out of congestion control—refining skin without irritation and keeping breakouts at bay over time. There’s no drama, just consistent clarity. A week without it and you’ll notice the difference.",
+			"description": "Powered by 2 percent salicylic acid and willow bark extract, this liquid exfoliant penetrates deep into pores to help unclog, clear and smooth skin. Glycerin keeps the formula gentle and hydrating, making it suitable for regular use without drying. Especially helpful for oily, blemish-prone or textured skin that needs refining and rebalancing—whether used as a reset treatment or part of a long-term glow strategy.",
+			"howToUse": "Use in the evening on clean, dry skin. Apply with fingers or a reusable pad, sweeping across face and avoiding the eye area. Start with two nights per week and increase gradually. Follow with hydrating serum and moisturiser."
 		},
 		{
 			"brand": "Woods Copenhagen",
@@ -1468,7 +2033,12 @@
 			"category": "Skin Care",
 			"subcategory": "Sun Care",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "\nBarrier Protection, Anti-aging prevention, Early signs of aging"
+			"concerns": "\nBarrier Protection, Anti-aging prevention, Early signs of aging",
+			"rating": 82,
+			"price": "€24.00",
+			"whyOliLovesIt": "A sunscreen you’ll actually look forward to using. It feels more like skincare than sun care—hydrating, smoothing, and subtly brightening the complexion. Perfect for mornings when you want protection without adding extra layers. The finish is luminous but never greasy.",
+			"description": "A mineral SPF enriched with Nordic oils, sea buckthorn and antioxidants to protect skin against UVA and UVB rays while boosting hydration. Lightweight, non-comedogenic and free from white cast, it’s designed for everyday wear—indoors or out. Ideal for normal to dry skin types, especially those seeking breathable protection that doubles as a skin-caring base under makeup.",
+			"howToUse": "Apply as the final step in your morning routine. Use a generous amount on face and neck, allowing it to absorb fully before applying makeup. Reapply every two hours during prolonged sun exposure, or after swimming or sweating."
 		},
 		{
 			"brand": "Woods Copenhagen",
@@ -1478,7 +2048,12 @@
 			"category": "Skin Care",
 			"subcategory": "Sun Care",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "\nBarrier Protection, Early signs of aging, Anti-aging prevention"
+			"concerns": "\nBarrier Protection, Early signs of aging, Anti-aging prevention",
+			"rating": 82,
+			"price": "€26.00",
+			"whyOliLovesIt": "High protection that doesn’t feel like high maintenance. This is the SPF you want when you’re out all day—beach walks, park picnics, or city wandering. The texture is smooth, it never pills or leaves a cast, and it wears beautifully on its own or under other skincare. Comforting, clean and protective in all the right ways.",
+			"description": "High protection mineral SPF formulated with antioxidant-rich Nordic oils, calming botanical extracts, and skin-friendly minerals to create a shield against both UVA and UVB damage. Offers long-wear protection without irritation or clogging. Perfect for sensitive, fair or reactive skin that needs full-spectrum coverage without compromise.",
+			"howToUse": "Smooth a generous layer over face, neck and décolleté every morning as the final step in your skincare. Reapply throughout the day, especially after sweating, swimming or extended sun exposure."
 		},
 		{
 			"brand": "Woods Copenhagen",
@@ -1488,7 +2063,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal, Sensitive",
-			"concerns": "Early signs of aging, Dullness, Hyperpigmentation, Enlarged Pores, Shiny Areas, \nBarrier Protection, Anti-aging prevention"
+			"concerns": "Early signs of aging, Dullness, Hyperpigmentation, Enlarged Pores, Shiny Areas, \nBarrier Protection, Anti-aging prevention",
+			"rating": 91,
+			"price": "€55.00",
+			"whyOliLovesIt": "When your skin is crying out for comfort, this cream answers with softness, hydration and resilience. It feels like wrapping your face in the finest cashmere—rich enough to rescue even the driest patches, yet never cloying. An absolute must for winter, travel, or any time your skin needs a nurturing reset.",
+			"description": "An intensely nourishing cream designed to shield, repair and revitalise dry and depleted skin. Arctic spring water, antioxidant vitamin E, and a curated blend of Nordic plant oils come together to deeply hydrate, reinforce the skin barrier and defend against environmental stress. Perfect for dry, dehydrated, mature or seasonally stressed skin that craves lasting comfort and protection.",
+			"howToUse": "After serum, warm a small amount between your fingertips and gently press into clean, dry skin. Focus on areas that feel especially dry or vulnerable. Use morning and evening for best results, or layer generously for an overnight recovery mask."
 		},
 		{
 			"brand": "Woods Copenhagen",
@@ -1498,7 +2078,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Normal, Oily, Sensitive",
-			"concerns": "Advanced anti-aging, Early signs of aging, Hormonal Skin"
+			"concerns": "Advanced anti-aging, Early signs of aging, Hormonal Skin",
+			"rating": 100,
+			"price": "€64.00",
+			"whyOliLovesIt": "All the power of retinol, none of the drama. It strengthens the skin barrier while smoothing texture and softening early signs of ageing—without the dryness or flaking often associated with stronger formulas. The slow and steady results are worth the patience, leaving skin stronger, clearer, and visibly more radiant.",
+			"description": "Encapsulated vitamin A (retinol) is paired with hydrating Arctic spring water and antioxidant rich natural oils to refine, smooth and support healthy skin renewal overnight. This advanced formula delivers the benefits of retinol—improved texture, minimised fine lines, and brightened skin tone—while reducing the risk of irritation. Ideal for beginners, sensitive skin types, or anyone seeking a gentler way to incorporate vitamin A into their routine.",
+			"howToUse": "Apply a pea sized amount onto clean, dry skin in the evening. Start by using two to three times a week and gradually build up as your skin adjusts. Always follow with a broad-spectrum SPF during the day to protect the new, sensitive skin revealed by retinol use."
 		},
 		{
 			"brand": "Woods Copenhagen",
@@ -1508,7 +2093,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Normal, Oily, Sensitive",
-			"concerns": "Early signs of aging, Dryness, \nBarrier Protection"
+			"concerns": "Early signs of aging, Dryness, \nBarrier Protection",
+			"rating": 92,
+			"price": "€35.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Woods Copenhagen's Vitamin Lifting\n  Serum  stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "A lightweight yet powerful serum that visibly firms and lifts, using Argireline peptide, sodium PCA, ferment extract, and soothing cucumber water. Skin feels smoother, fresher, and deeply hydrated. Ideal for all skin types, especially those concerned with early signs of ageing.",
+			"howToUse": "Apply two to three drops to clean skin in the morning and evening. Press gently into the face, neck, and chest, allowing it to absorb before layering your moisturiser or SPF. For extra focus, take a moment around the eye area and smile lines. It works beautifully as your first serum step, setting the tone for hydration and lift throughout the day."
 		},
 		{
 			"brand": "Oio Lab",
@@ -1522,7 +2112,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Dullness, \nBarrier Protection"
+			"concerns": "Dullness, \nBarrier Protection",
+			"rating": 86,
+			"price": "€36.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Oio Lab's 7 MOMENTS. Botanical Smoothing Facial Oil stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "A silky botanical oil composed of seven carefully selected plant extracts rich in sterols, essential fatty acids, and natural antioxidants. Designed to replenish, smooth and visibly improve skin elasticity while providing a healthy, radiant glow. Perfect for dry, dehydrated, mature or stressed skin craving restoration, suppleness and luminosity without heaviness.",
+			"howToUse": "Warm two to three drops between your palms to activate the oils, then press gently into damp, clean skin. Use alone for a dewy finish, or layer over serums and moisturiser to seal in hydration. Perfect as a final step in your evening ritual or any time your skin feels parched."
 		},
 		{
 			"brand": "Oio Lab",
@@ -1536,7 +2131,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Sensitive",
-			"concerns": "\nBarrier Protection, Hyperpigmentation, Dullness, Eyes Bags and/or dark circles, Anti-aging prevention, Early signs of aging"
+			"concerns": "\nBarrier Protection, Hyperpigmentation, Dullness, Eyes Bags and/or dark circles, Anti-aging prevention, Early signs of aging",
+			"rating": 70,
+			"price": "€31.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Oio Lab's THE FUTURE IS BRIGHT. Brightening Facial Oil With Vitamin C stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "An ultra-light brightening oil serum enriched with a stabilised form of vitamin C, antioxidant marula oil, and a medley of botanical extracts. Formulated to revitalise, even out skin tone and fight daily environmental stress while delivering a luminous, healthy glow. Ideal for lacklustre, uneven or tired skin that needs a boost of vitality and protection.",
+			"howToUse": "Apply a few drops onto clean, dry skin in the morning and evening. Massage gently until absorbed, then follow with moisturiser or SPF. Consistent use will maximise the brightening, tone evening and antioxidant benefits."
 		},
 		{
 			"brand": "Oio Lab",
@@ -1550,7 +2150,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Normal, Oily",
-			"concerns": "\nBarrier Protection, Acne, spots, Dryness"
+			"concerns": "\nBarrier Protection, Acne, spots, Dryness",
+			"rating": 76,
+			"price": "€31.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Oio Lab's AQUASPHERE. Multi-Dimensional Hydrating Facial Serum stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "A powerful hydrating serum featuring five molecular weights of hyaluronic acid for multi-depth moisture, combined with botanical extracts to support hydration retention. It visibly plumps fine lines, enhances skin’s elasticity, and reinforces the skin barrier to maintain long-term moisture levels. Ideal for dehydrated, dry or fatigued skin that feels tight, dull or rough.",
+			"howToUse": "After cleansing, apply two or three pumps to slightly damp skin to lock in moisture. Press into face, neck and décolleté. Follow immediately with moisturiser or facial oil to maintain hydration."
 		},
 		{
 			"brand": "Oio Lab",
@@ -1564,7 +2169,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Redness and Rosacea, Dryness, \nBarrier Protection"
+			"concerns": "Redness and Rosacea, Dryness, \nBarrier Protection",
+			"rating": 95,
+			"price": "€30.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Oio Lab's THE FOREST RETREAT. Calming Facial Emulsion stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "A comforting emulsion infused with reishi mushroom extract, plant oils and natural antioxidants to calm irritation, strengthen the skin barrier and soothe redness. It hydrates while balancing sensitive, reactive or overworked skin. Especially suited for sensitive, rosacea-prone, or post-treatment skin seeking relief, balance and soft hydration.",
+			"howToUse": "Smooth one or two pumps over clean, dry skin after applying your serum. Use alone for lightweight hydration or layer under a richer moisturiser for extra protection. Ideal for both morning and evening routines, especially during sensitive moments."
 		},
 		{
 			"brand": "Oio Lab",
@@ -1577,7 +2187,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Normal, Oily, Sensitive",
-			"concerns": "Dryness, Anti-aging prevention, Early signs of aging"
+			"concerns": "Dryness, Anti-aging prevention, Early signs of aging",
+			"rating": 91,
+			"price": "€50.00",
+			"whyOliLovesIt": "Not just another eye cream. This complete serum feels like a full night’s sleep bottled up, instantly smoothing and brightening tired eyes. The lightweight texture layers perfectly under makeup while providing real nourishment to one of the most fragile areas of the face.",
+			"description": "Designed to target the delicate eye area with precision, this serum blends peptides, botanical extracts and soothing ingredients to visibly firm, brighten and hydrate. Reduces signs of fatigue, softens fine lines and refreshes tired looking eyes. Perfect for all skin types seeking to energise and protect the eye contour and eyelids.",
+			"howToUse": "Dispense a tiny amount onto your ring finger and gently tap around the orbital bone and eyelid area morning and evening. Use consistently for maximum smoothing and brightening benefits."
 		},
 		{
 			"brand": "Oio Lab",
@@ -1591,7 +2206,12 @@
 			"category": "Skin Care",
 			"subcategory": "Toners",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Dryness, Anti-aging prevention"
+			"concerns": "Dryness, Anti-aging prevention",
+			"rating": 91,
+			"price": "€50.00",
+			"whyOliLovesIt": "A true multi-tasker that bridges skincare and haircare. It refreshes, balances and energises wherever you mist it, bringing a healthy glow to skin and lightness to the scalp. Perfect for post workout skin, long flights, or days when you just need an instant boost.",
+			"description": "Harnessing the power of fulvic acid, this mineral rich toner balances, revitalises and refreshes both the skin and scalp. Loaded with ionic minerals and electrolytes, it helps to purify, tone and support the natural microbiome. Suitable for all skin types, including sensitive or easily congested complexions.",
+			"howToUse": "Spritz generously onto clean face, scalp or hair whenever needed. Use after cleansing as a toner, or throughout the day to rehydrate and refresh."
 		},
 		{
 			"brand": "Oio Lab",
@@ -1605,7 +2225,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Dry, Normal",
-			"concerns": "Early signs of aging, Dryness, Hyperpigmentation, Anti-aging prevention, Dullness, Eyes Bags and/or dark circles, \nBarrier Protection"
+			"concerns": "Early signs of aging, Dryness, Hyperpigmentation, Anti-aging prevention, Dullness, Eyes Bags and/or dark circles, \nBarrier Protection",
+			"rating": 82,
+			"price": "€70.00",
+			"whyOliLovesIt": "The skincare equivalent of a warm hug. It restores calm to overworked, reactive skin, helping to rebuild strength and comfort after periods of stress. Skin feels instantly softer, better supported and visibly more resilient with each use.",
+			"description": "Formulated as a cocoon for skin under stress, this cream blends peptides, ceramides, reishi mushroom extract and barrier supporting actives. It restores moisture, soothes sensitivity and strengthens the skin’s natural defences. Ideal for dry, sensitive or hormonal skin needing serious support and resilience.",
+			"howToUse": "Apply a generous amount to clean, dry skin morning and night. Layer over serum or facial oil for an extra boost of nourishment."
 		},
 		{
 			"brand": "Oio Lab",
@@ -1619,7 +2244,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Dry, Normal, Sensitive",
-			"concerns": "Dryness"
+			"concerns": "Dryness",
+			"rating": 82,
+			"price": "€60.00",
+			"whyOliLovesIt": "A multitasker that truly earns its place. Whether used as a cleanser or a quick mask, it leaves skin feeling clean, comfortable and deeply nurtured. No tightness, no residue, just the kind of freshness and hydration that makes you want to skip makeup altogether.",
+			"description": "Crafted with omega rich oils, probiotics and natural botanicals, this creamy cleanser and mask hybrid dissolves impurities while feeding skin with essential nutrients. Doubles as a comforting moisture treatment when left on for longer. Perfect for dry, sensitive or barrier compromised skin craving a gentle cleanse without compromise.",
+			"howToUse": "Massage into dry or damp skin and rinse away as a nourishing daily cleanser. For deeper hydration, apply a thicker layer, leave on for five to ten minutes, then gently rinse."
 		},
 		{
 			"brand": "Om-Se",
@@ -1632,7 +2262,12 @@
 			"category": "Skin Care",
 			"subcategory": "Cleansers",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Dryness, \nBarrier Protection"
+			"concerns": "Dryness, \nBarrier Protection",
+			"rating": 85,
+			"price": "€16.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Om-Se's Face Cleansing Oil stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "A daily ritual that feels like a reset. The OM-SE Face Cleansing Oil is your go-to for removing makeup, sunscreen and daily residue, all while respecting the skin’s natural balance. It is waterless by design. No lather, no emulsifying, just a smooth, nutrient-rich oil that binds to impurities and gently lifts them away. Designed to be removed with a warm, damp face cloth, this oil transforms cleansing into a calm, tactile moment. Particularly effective for oily skin, it helps bring sebum production back into balance without stripping or over-cleansing.",
+			"howToUse": "Apply three to four pumps directly onto dry skin and massage in with gentle, circular strokes. Soak a clean face cloth in warm water, wring it out and gently press or wipe to remove the oil. No need to rinse. For heavier makeup or longwear SPF, repeat once more. No follow-up cleanser required"
 		},
 		{
 			"brand": "Om-Se",
@@ -1645,7 +2280,12 @@
 			"category": "Skin Care",
 			"subcategory": "Toners",
 			"skintypes": "Combination, Normal, Oily, Sensitive",
-			"concerns": "Texture, Dullness, Acne, spots, Early signs of aging"
+			"concerns": "Texture, Dullness, Acne, spots, Early signs of aging",
+			"rating": 75,
+			"price": "€21.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Om-Se's Hydrating Face Mist stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "This mist goes beyond a moment of refreshment. The OM-SE Hydrating Face Mist delivers daily hydration while actively supporting the skin’s microbiome. Formulated with probiotics and prebiotics, it helps strengthen the skin barrier, reduce inflammation and promote natural renewal. The texture is light as air, but the impact is lasting. It is an ideal layer for sensitive, stressed or oily skin types in need of balance",
+			"howToUse": "Mist directly onto clean skin after cleansing. Let it absorb or press in gently with your hands. To enhance absorption and boost nourishment, mix a few sprays with your chosen OM-SE face oil in the palm of your hand, blend and apply together. Use morning and evening or throughout the day whenever skin needs calm or hydration"
 		},
 		{
 			"brand": "Om-Se",
@@ -1658,7 +2298,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Dry, Normal",
-			"concerns": "Dryness, \nBarrier Protection"
+			"concerns": "Dryness, \nBarrier Protection",
+			"rating": 86,
+			"price": "€29.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Om-Se's Renewing Face Oil stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "This is where glow begins. The OM-SE Renewing Face Oil is a potent blend of nutrient-rich oils that replenish, soften and support natural skin regeneration. The texture is silky yet breathable, absorbing effortlessly to leave skin visibly smoother, more radiant and full of vitality. It delivers lasting nourishment without heaviness, making it a standout for those who want rich results from a simplified routine",
+			"howToUse": "Apply two to three drops of Renewing Face Oil directly onto clean skin and press in using both palms. It can be used alone as your final step, morning and evening. For enhanced hydration and absorption, layer with the OM-SE Hydrating Face Mist either before or after applying the oil. The mist is the perfect complement, helping the formula absorb more deeply while boosting radiance and calm"
 		},
 		{
 			"brand": "Om-Se",
@@ -1671,7 +2316,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Normal, Oily",
-			"concerns": "Dryness, \nBarrier Protection"
+			"concerns": "Dryness, \nBarrier Protection",
+			"rating": 75,
+			"price": "€26.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Om-Se's Balancing Face Oil stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Created for skin that leans towards oily, reactive or out of sync, the OM-SE Balancing Face Oil is a lightweight botanical blend that helps calm inflammation, regulate sebum and restore clarity. The texture is fluid and fast absorbing, leaving skin feeling smooth, fresh and grounded. It supports the skin’s natural barrier without overloading, making it a perfect match for combination or blemish-prone complexions.",
+			"howToUse": "Warm two to three drops between your palms and press into clean skin, morning and evening. Use alone as your final step or layer over your usual treatments. For an added boost of hydration and absorption, the OM-SE Hydrating Face Mist complements this oil perfectly"
 		},
 		{
 			"brand": "Gun Ana",
@@ -1684,7 +2334,12 @@
 			"category": "Skin Care",
 			"subcategory": "Sun Care",
 			"skintypes": "Combination, Dry, Normal, Sensitive",
-			"concerns": "Anti-aging prevention, Early signs of aging"
+			"concerns": "Anti-aging prevention, Early signs of aging",
+			"rating": 82,
+			"price": "€36.00",
+			"whyOliLovesIt": "Not every sunscreen feels like skincare, but this one truly does. It blends in effortlessly without leaving a cast, hydrates like a rich moisturiser, and gives skin that subtle healthy sheen. Perfect for mornings when you want to protect and prep your skin in one step, it makes wearing SPF feel like a treat rather than a task.",
+			"description": "Protects and nourishes skin with broad-spectrum SPF 50, natural oils, and antioxidant rich botanicals. This lightweight cream shields against UVA and UVB damage while hydrating and soothing the complexion. Perfect for all skin types, especially those seeking a daily SPF that layers seamlessly under makeup.",
+			"howToUse": "Apply generously as the final step in your morning skincare routine. Smooth over face, neck and décolleté, and reapply throughout the day as needed."
 		},
 		{
 			"brand": "Gun Ana",
@@ -1697,7 +2352,12 @@
 			"category": "Skin Care",
 			"subcategory": "Sun Care",
 			"skintypes": "Dry, Normal",
-			"concerns": "Early signs of aging, Anti-aging prevention"
+			"concerns": "Early signs of aging, Anti-aging prevention",
+			"rating": 91,
+			"price": "€18.00",
+			"whyOliLovesIt": "Few things are as satisfying as a sun stick that glides on without dragging, crumbling or feeling sticky. This UV stick makes top ups feel seamless, keeping your glow intact while protecting key areas like the nose, cheeks, and shoulders. The texture is lightweight and wearable even on top of makeup, meaning no excuses for skipping reapplication.",
+			"description": "Delivers high factor SPF 50 protection in a smooth, glide on stick format enriched with nourishing oils and protective antioxidants. Perfect for touch ups on the go, especially for targeted areas like cheekbones, nose, or shoulders. Suitable for all skin types needing convenient, mess free sun defence.",
+			"howToUse": "Swipe directly onto skin and blend with fingertips if needed. Apply generously to targeted areas before sun exposure and reapply every two hours."
 		},
 		{
 			"brand": "Gun Ana",
@@ -1710,7 +2370,12 @@
 			"category": "Body Care, Skin Care",
 			"subcategory": "Sun Care",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Anti-aging prevention, Early signs of aging"
+			"concerns": "Anti-aging prevention, Early signs of aging",
+			"rating": 91,
+			"price": "€32.00",
+			"whyOliLovesIt": "Multitasking made effortless. This clever stick covers face, lips and body in seconds, giving full protection while feeling completely weightless. It is the kind of product you will want in every handbag, gym bag, and glove compartment, ensuring you are always covered no matter where the day takes you.",
+			"description": "Combines high SPF protection with nourishing care in a multiuse stick ideal for face, lips and body. Blends natural oils, antioxidants and soothing agents to shield and soften skin while defending against UV damage. Perfect for all skin types looking for compact, easy to use daily sun protection.",
+			"howToUse": "Apply liberally to clean skin wherever protection is needed. Reapply regularly throughout the day, especially after swimming, sweating, or towel drying."
 		},
 		{
 			"brand": "Gun Ana",
@@ -1723,7 +2388,12 @@
 			"category": "Skin Care",
 			"subcategory": "Cleansers",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Dryness"
+			"concerns": "Dryness",
+			"rating": 91,
+			"price": "€35.00",
+			"whyOliLovesIt": "There is something deeply therapeutic about massaging away the day with a truly luxurious cleansing balm. This one melts makeup, sunscreen and city grime effortlessly while nurturing the skin barrier with beautiful natural oils. A dreamy first cleanse that transforms skincare from a chore into a sensorial ritual.",
+			"description": "Melts away makeup, sunscreen and daily impurities with a blend of nourishing oils, soothing botanicals and gentle emulsifiers. Transforms from rich balm to silky milk on contact with water, leaving skin clean, soft and perfectly balanced. Ideal for all skin types, particularly dry, sensitive or dehydrated skin in need of a comforting cleanse.",
+			"howToUse": "Massage a small amount onto dry skin, focusing on areas with makeup or sunscreen. Add warm water to emulsify into a milk, then rinse thoroughly. Follow with a second cleanse if desired."
 		},
 		{
 			"brand": "Gun Ana",
@@ -1736,7 +2406,12 @@
 			"category": "Skin Care",
 			"subcategory": "Sun Care",
 			"skintypes": "Dry, Normal, Sensitive",
-			"concerns": "Early signs of aging, Anti-aging prevention"
+			"concerns": "Early signs of aging, Anti-aging prevention",
+			"rating": 82,
+			"price": "€32.00",
+			"whyOliLovesIt": "Some mornings call for a softer touch, and this SPF 30 face cream is exactly that. It delivers protection without the weight, hydrates beautifully and never interferes with how your makeup sits. Perfect for day to day city wear or gentle weekend exposure.",
+			"description": "Blends daily sun protection with skin nourishing ingredients to hydrate, soothe and defend against UVA and UVB rays. Lightweight and non greasy, the formula layers easily under makeup while supporting long term skin health. Ideal for normal to dry skin types seeking a gentle but effective everyday SPF with added skincare benefits.",
+			"howToUse": "Apply generously as the final step in your morning routine. Smooth over face and neck, and reapply as needed throughout the day, especially during extended time outside."
 		},
 		{
 			"brand": "Gun Ana",
@@ -1748,7 +2423,12 @@
 			"category": "Body Care",
 			"subcategory": "Sun Care",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Anti-aging prevention, Early signs of aging"
+			"concerns": "Anti-aging prevention, Early signs of aging",
+			"rating": 100,
+			"price": "€46.00",
+			"whyOliLovesIt": "Few body SPFs apply this easily. The mist is light, even and refreshingly fast absorbing—no rubbing in, no sticky finish, no white marks. It is the kind of sunscreen that makes reapplying in public feel effortless and even a little chic.",
+			"description": "A fine body mist that delivers broad spectrum SPF 50 protection with a barely there feel. Enriched with nourishing oils and antioxidants to support skin health while defending against sun damage. Ideal for warm weather, active days or quick top ups, it suits all skin types needing high protection without the heavy texture.",
+			"howToUse": "Spray liberally and evenly over body skin before sun exposure. Reapply every two hours or after swimming, sweating or towel drying."
 		},
 		{
 			"brand": "Gun Ana",
@@ -1760,7 +2440,12 @@
 			"category": "Body Care",
 			"subcategory": "Sun Care",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Anti-aging prevention, Early signs of aging"
+			"concerns": "Anti-aging prevention, Early signs of aging",
+			"rating": 82,
+			"price": "€39.00",
+			"whyOliLovesIt": "This body mist makes applying SPF feel like part of your fragrance ritual. It gives an airy, non sticky layer of protection that feels cooling and clean, while also caring for your skin with every spray. One of the easiest ways to stay consistent with sun safety.",
+			"description": "Offers lightweight SPF 30 protection in a quick drying mist that nourishes while shielding from UV rays. Combines sun care and skincare in one refreshing spray, making it perfect for everyday use, top ups and all over coverage. Suitable for all skin types, particularly those who prefer a softer feel with reliable sun protection.",
+			"howToUse": "Mist evenly over exposed body skin, holding the bottle at a distance. Reapply regularly, especially during outdoor activity or after towel drying."
 		},
 		{
 			"brand": "Foile",
@@ -1774,7 +2459,12 @@
 			"category": "Skin Care",
 			"subcategory": "Cleansers",
 			"skintypes": "Dry, Normal, Sensitive",
-			"concerns": "Dryness, Redness and Rosacea, \nBarrier Protection"
+			"concerns": "Dryness, Redness and Rosacea, \nBarrier Protection",
+			"rating": 100,
+			"price": "€46.00",
+			"whyOliLovesIt": "It’s the kind of cleanser that turns a basic step into a pleasure. Creamy, calming, and beautifully balanced, it melts away the day without leaving your skin feeling stripped. Whether used with hands or cloth, it’s our everyday essential for fresh, happy skin.",
+			"description": "A silky, lotion-textured cleanser that removes makeup and impurities while comforting skin with aloe vera and antioxidant-rich green tea. This gentle, non-foaming formula melts into the skin to dissolve build-up and excess oil, rinsing clean without disrupting the skin’s natural barrier. Ideal for dry, sensitive, or combination skin, especially those prone to redness, dehydration, or irritation.",
+			"howToUse": "Massage onto dry skin using circular motions, then rinse with warm water or wipe away with a damp cloth. Use morning and night as your first step to cleanse and prep the skin."
 		},
 		{
 			"brand": "Foile",
@@ -1789,7 +2479,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Normal, Oily, Sensitive",
-			"concerns": "Dryness"
+			"concerns": "Dryness",
+			"rating": 100,
+			"price": "€72.00",
+			"whyOliLovesIt": "A refreshing, featherlight serum that quenches instantly. It sinks in fast, layers like a dream, and never pills. We love how it brings skin back to life after long days, late nights, or just when you need to fake eight hours of sleep.",
+			"description": "This replenishing, lightweight serum drenches the skin in hydration with hyaluronic acid, sea minerals, and calming botanicals. It visibly plumps and smooths while reducing signs of fatigue and dullness, leaving the complexion fresh, bouncy, and luminous. A go-to for dehydrated, mature, or stressed skin needing consistent hydration and recovery support.",
+			"howToUse": "After cleansing, apply 1 pump onto face and neck. Gently press into the skin and allow it to absorb. Follow with your favourite moisturiser or oil. Use morning and evening."
 		},
 		{
 			"brand": "Foile",
@@ -1804,7 +2499,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
-			"concerns": "Dryness, \nBarrier Protection, Anti-aging prevention, Early signs of aging"
+			"concerns": "Dryness, \nBarrier Protection, Anti-aging prevention, Early signs of aging",
+			"rating": 100,
+			"price": "€66.00",
+			"whyOliLovesIt": "Perfectly balanced and beautifully textured, this moisturiser keeps skin hydrated without any heaviness. It‚Äôs ideal for layering or wearing alone and gives the skin that smooth, refined glow we’re always chasing‚ without any extra shine.",
+			"description": "A water-based gel-cream infused with squalane, jojoba, and aloe to hydrate without clogging pores. It glides on effortlessly, delivering instant comfort and a refreshing finish. The formula helps balance excess oil while locking in moisture, making it a daily essential for combination, oily, or breakout-prone skin. Leaves skin soft, clear, and naturally radiant.",
+			"howToUse": "Smooth a small amount over clean skin after applying serum. Let it absorb fully before layering SPF or makeup. Use daily in the morning and evening for soft, refreshed, and balanced skin."
 		},
 		{
 			"brand": "Foile",
@@ -1819,7 +2519,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Sensitive",
-			"concerns": "Early signs of aging, Anti-aging prevention, Dullness, Hyperpigmentation"
+			"concerns": "Early signs of aging, Anti-aging prevention, Dullness, Hyperpigmentation",
+			"rating": 82,
+			"price": "€99.00",
+			"whyOliLovesIt": "For those moments when your skin needs comfort, this cream delivers. It feels instantly calming and leaves your complexion visibly softer and more even by morning. We reach for it when skin is stressed, sun-touched, or just needs a little love.",
+			"description": "This nourishing cream blends azulene with sea botanicals to calm, replenish, and restore fragile or reactive skin. Its cushiony, cloud-like texture helps soothe irritation, lock in moisture, and reduce redness over time. Ideal for dry, sensitive, or inflamed skin, it works beautifully as an evening treatment or any time the skin needs deeper care and calm.",
+			"howToUse": "Apply a generous amount after serum or as your final step in the evening. Massage gently into face and neck. Let it absorb fully overnight or whenever your skin needs deeper comfort."
 		},
 		{
 			"brand": "Foile",
@@ -1831,7 +2536,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Dullness, Eyes Bags and/or dark circles, Anti-aging prevention, Early signs of aging, Dryness"
+			"concerns": "Dullness, Eyes Bags and/or dark circles, Anti-aging prevention, Early signs of aging, Dryness",
+			"price": "€25.00",
+			"whyOliLovesIt": "Refreshing, brightening, and satisfying to apply, these jellies make you look more awake in minutes. The citrus scent and cooling feel are instant mood-lifters. They’re a team favourite before shoots, meetings, or nights out.",
+			"rating": 75,
+			"description": "Cooling under-eye patches infused with lime extract and brightening vitamin C to refresh, hydrate, and reduce puffiness. These soft gel jellies work to revive tired-looking eyes while helping to diminish dark circles and smooth texture. Perfect for all skin types, particularly effective after travel, before events, or on early mornings.",
+			"howToUse": "Place jellies under clean, dry eyes. Leave on for 10 minutes, then remove and gently pat in any remaining serum. Store in the fridge for a refreshing wake-up effect."
 		},
 		{
 			"brand": "Oio Lab",
@@ -1844,7 +2554,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Sensitive",
-			"concerns": "\nBarrier Protection, Dryness, Inflammation, Early signs of aging, Anti-aging prevention"
+			"concerns": "\nBarrier Protection, Dryness, Inflammation, Early signs of aging, Anti-aging prevention",
+			"rating": 82,
+			"price": "€70.00",
+			"whyOliLovesIt": "Because it’s quietly effective. No drama, just results. This formula supports longevity with skin-identical ingredients that restore and protect, making it a mainstay in any intelligent routine. It’s the kind of product you come back to—not for a quick fix, but for lasting skin health and a calm, plumped finish.",
+			"description": "A future-facing serum that works with your skin, not against it. Powered by ectoin, ceramides, and marine antioxidants, Oio Lab’s INTERCELLULAR helps strengthen the skin barrier, soften signs of ageing, and lock in hydration. Think of it as daily skin resilience in a silky, nourishing texture. Ideal for dry, sensitive, or mature skin—especially for those in their late 20s and beyond.",
+			"howToUse": "Smooth one to two pumps over clean skin morning or night. Press in gently, follow with your moisturiser or facial oil. Best used daily as your serum step for barrier support and long-term glow."
 		},
 		{
 			"brand": "RAAIE",
@@ -1859,7 +2574,12 @@
 			"category": "Skin Care",
 			"subcategory": "Serums",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Hyperpigmentation, Dryness, Early signs of aging, Advanced anti-aging"
+			"concerns": "Hyperpigmentation, Dryness, Early signs of aging, Advanced anti-aging",
+			"rating": 70,
+			"price": "€35.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. RAAIE's Morning Dew Vitamin C Serum  stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Description pour Morning Dew Vitamin C Serum",
+			"howToUse": "Instructions d'utilisation à définir"
 		},
 		{
 			"brand": "RAAIE",
@@ -1874,7 +2594,12 @@
 			"category": "Skin Care",
 			"subcategory": "Sun Care",
 			"skintypes": "Combination, Dry, Normal, Sensitive",
-			"concerns": "Shiny Areas, Enlarged Pores, Anti-aging prevention"
+			"concerns": "Shiny Areas, Enlarged Pores, Anti-aging prevention",
+			"rating": 83,
+			"price": "€20.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. RAAIE's Sun Milk Drops Tinted SPF50 stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Description pour Sun Milk Drops Tinted SPF50",
+			"howToUse": "Instructions d'utilisation à définir"
 		},
 		{
 			"brand": "RAAIE",
@@ -1889,7 +2614,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Dry, Normal",
-			"concerns": "Enlarged Pores, Acne, spots, Shiny Areas, Dryness"
+			"concerns": "Enlarged Pores, Acne, spots, Shiny Areas, Dryness",
+			"rating": 75,
+			"price": "€25.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. RAAIE's Cocoon Ceramide Cream stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Description pour Cocoon Ceramide Cream",
+			"howToUse": "Instructions d'utilisation à définir"
 		},
 		{
 			"brand": "RAAIE",
@@ -1904,7 +2634,12 @@
 			"category": "Skin Care",
 			"subcategory": "Cleansers",
 			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Acne, spots"
+			"concerns": "Acne, spots",
+			"rating": 75,
+			"price": "€24.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. RAAIE's Golden Nectar Mānuka Honey Enzyme Cleanser stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Description pour Golden Nectar Mānuka Honey Enzyme Cleanser",
+			"howToUse": "Instructions d'utilisation à définir"
 		},
 		{
 			"brand": "RAAIE",
@@ -1919,7 +2654,12 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Dry, Normal",
-			"concerns": "Enlarged Pores, Acne, spots, Shiny Areas, Dryness"
+			"concerns": "Enlarged Pores, Acne, spots, Shiny Areas, Dryness",
+			"rating": 85,
+			"price": "€32.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. RAAIE's Cocoon Ceramide Cream Refill stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Description pour Cocoon Ceramide Cream Refill",
+			"howToUse": "Instructions d'utilisation à définir"
 		}
 	]
 }

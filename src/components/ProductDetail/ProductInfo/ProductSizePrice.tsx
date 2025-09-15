@@ -1,9 +1,13 @@
-export default function ProductSizePrice() {
+interface ProductSizePriceProps {
+	productPrice: string;
+}
+
+export default function ProductSizePrice({ productPrice }: ProductSizePriceProps) {
 	return (
 		<div className="flex items-center gap-2">
 			<div className="flex items-center gap-2">
 				<p className="font-space-grotesk text-sm font-bold">
-					$29.99
+					{productPrice}
 				</p>
 				<div className="w-1 h-1 bg-point rounded-full" />
 			</div>

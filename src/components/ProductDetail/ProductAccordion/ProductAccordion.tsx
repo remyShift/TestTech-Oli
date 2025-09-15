@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import AccordionItem from './AccordionItem';
-import type { Product } from '@/types/product';
 
 interface AccordionData {
 	id: string;
@@ -10,7 +9,6 @@ interface AccordionData {
 
 interface ProductAccordionProps {
 	items: AccordionData[];
-	product: Product;
 }
 
 export default function ProductAccordion({ items }: ProductAccordionProps) {

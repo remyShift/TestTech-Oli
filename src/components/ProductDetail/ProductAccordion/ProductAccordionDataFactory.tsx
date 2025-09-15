@@ -1,12 +1,17 @@
-import type { Product } from '@/types/product';
+interface ProductAccordionData {
+	whyOliLovesIt: string;
+	howToUse: string;
+	ingredients: string;
+	concerns: string;
+}
 
-export const createProductAccordionData = (product: Product) => [
+export const createProductAccordionData = (productInfo : ProductAccordionData) => [
 	{
 		id: 'why-oli-loves-it',
 		title: 'WHY OLI LOVES IT',
 		content: (
 			<div className="font-space-grotesk text-sm text-ceramics leading-relaxed">
-				<p>{"Thoughtfully formulated and editor-approved. We love its texture and finish."}</p>
+				<p>{productInfo.whyOliLovesIt}</p>
 			</div>
 		),
 	},
@@ -15,7 +20,7 @@ export const createProductAccordionData = (product: Product) => [
 		title: 'HOW TO USE',
 		content: (
 			<div className="font-space-grotesk text-sm text-ceramics leading-relaxed">
-				<p>{"Apply on clean skin. Use AM/PM as needed."}</p>
+				<p>{productInfo.howToUse}</p>
 			</div>
 		),
 	},
@@ -25,10 +30,10 @@ export const createProductAccordionData = (product: Product) => [
 		content: (
 			<div className="font-space-grotesk text-sm text-ceramics leading-relaxed">
 				<ul className="list-disc list-inside space-y-1">
-					{(product.ingredients ? product.ingredients.split(',') : [])
+					{productInfo.ingredients.split(',')
 						.map((s) => s.trim())
 						.filter(Boolean)
-						.map((ingredient, index) => (
+						.map((ingredient, index: number) => (
 							<li key={index}>{ingredient}</li>
 						))}
 				</ul>
@@ -40,7 +45,7 @@ export const createProductAccordionData = (product: Product) => [
 		title: 'SKIN RECOMMENDATION',
 		content: (
 			<div className="font-space-grotesk text-sm text-ceramics leading-relaxed">
-				<p>{product.concerns}</p>
+				<p>{productInfo.concerns}</p>
 			</div>
 		),
 	},

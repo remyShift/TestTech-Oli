@@ -11,7 +11,7 @@ export default function ProductDetail({ product }: ProductDetailProps) {
 	return (
 		<div className="flex flex-col gap-4">
 			<ProductInteractions />
-			<ProductImage product={product} />
+			<ProductImage productImages={product.images} />
 			<ProductInfo product={product} />
 		</div>
 	);

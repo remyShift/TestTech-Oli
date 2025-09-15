@@ -8,6 +8,10 @@ export interface Product {
 	skintypes: string;
 	concerns: string;
 	description: string;
+	rating: number;
+	price: string;
+	howToUse: string;
+	whyOliLovesIt: string;
 }
 
 export interface ProductList {

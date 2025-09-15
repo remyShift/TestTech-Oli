@@ -1,6 +1,9 @@
+interface ProductRatingProps {
+	productRating: number;
+}
 
-export default function ProductRating() {
-	const formattedRating = String(90).padStart(3, '0');
+export default function ProductRating({ productRating }: ProductRatingProps) {
+	const formattedRating = String(productRating).padStart(3, '0');
 
 	return (
 		<div className="flex items-center justify-between">

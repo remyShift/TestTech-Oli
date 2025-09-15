@@ -27,14 +27,18 @@ export default function ProductInfo({ product }: ProductInfoProps) {
 				{product.brand}
 			</h3>
 			<h1 className="font-space-grotesk text-2xl">{product.name}</h1>
-			<ProductSizePrice />
-			<ProductDescription product={product} />
+			<ProductSizePrice productPrice={product.price} />
+			<ProductDescription productDescription={product.description} />
 			<Spacer />
-			<ProductRating />
+			<ProductRating productRating={product.rating} />
 			<Spacer />
 			<ProductAccordion
-				items={createProductAccordionData(product)}
-				product={product}
+				items={createProductAccordionData({
+					whyOliLovesIt: product.whyOliLovesIt,
+					howToUse: product.howToUse,
+					ingredients: product.ingredients,
+					concerns: product.concerns,
+				})}
 			/>
 			<AddToBagButton product={product} />
 		</div>

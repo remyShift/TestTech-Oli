@@ -1,15 +1,13 @@
-import type { Product } from '@/types/product';
-
 interface ProductDescriptionProps {
-	product: Product;
+	productDescription: string;
 }
 
 export default function ProductDescription({
-	product,
+	productDescription,
 }: ProductDescriptionProps) {
 	return (
 		<p className="font-abc-diatype text-ceramics leading-5">
-			{product.description}
+			{productDescription}
 		</p>
 	);
 }

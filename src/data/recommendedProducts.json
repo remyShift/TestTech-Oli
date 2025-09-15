@@ -11,61 +11,86 @@
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
 			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Dryness, Redness and Rosacea, Dullness, Enlarged Pores, Shiny Areas, Acne, spots, Texture, Wound healing/Scars, Anti-aging prevention"
+			"concerns": "Dryness, Redness and Rosacea, Dullness, Enlarged Pores, Shiny Areas, Acne, spots, Texture, Wound healing/Scars, Anti-aging prevention",
+			"rating": 97,
+			"price": "€24.00",
+			"whyOliLovesIt": "We love Celimax The Real Noni Energy Repair Cream for its rejuvenating benefits and deeply hydrating formula. At Olis Lab, we value products that work to restore the skin’s natural energy and improve its overall health. This cream delivers both immediate hydration and long-term radiance, making it a perfect fit for anyone looking to restore vitality to their skin.",
+			"description": "Celimax The Real Noni Energy Repair Cream is a nourishing cream that restores vitality to tired, dull skin. Enriched with noni extract, this cream helps to brighten and repair the skin, providing deep hydration while improving elasticity and texture for a smooth, radiant complexion.",
+			"howToUse": "Use as the final step in your skincare routine. Apply an even layer to your face and neck, gently massaging to lock in moisture and revitalise the skin."
 		},
 		{
-			"brand": "Verso",
-			"name": "Night Cream",
-			"ingredients": "Aqua (Water), Glycerin, Simmondsia Chinensis (Jojoba) Seed Oil, Caprylic/Capric Triglyceride, Decyl Cocoate, Pentylene Glycol, Squalane, Glyceryl Stearate, PEG-100 Stearate, Cetearyl Alcohol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Butylene Glycol, Retinyl Retinoate, Tetrahydrodiferuloylmethane, Curcuma Longa (Turmeric) Root Extract, Sodium Hyaluronate, Avena Sativa Kernel (Oat) Extract, Lactobacillus Ferment, Helianthus Annuus (Sunflower) Seed Oil, Soy Isoflavones, Jojoba Esters, Caprylyl Glycol, Canola (Rapseed) Oil, Tocopheryl Acetate, Hydroxyphenyl Propamidobenzoic Acid, Lecithin, Polysorbate 60, Sorbitan Isostearate, Citric Acid, Tetrahydropiperine, Sodium Hydroxide, Tocopherol, Ascorbyl Palmitate, Alcohol, Propanediol, Caprylhydroxamic Acid, Biosaccharide Gum-1, Sodium Benzoate, Potassium Sorbate, Glyceryl Caprylate, Sodium Anisate, Sodium Levulinate, Parfum (Fragrance)",
+			"brand": "Torriden",
+			"name": "Balanceful Cica Cream",
+			"ingredients": "Water, Butylene Glycol, Glycerin, Heptyl Undecylenate, 1,2-Hexanediol, Centella Asiatica Extract, Madecassic Acid, Asiaticoside, Asiatic Acid, Madecassoside, Panthenol, Allantoin, Hydrolyzed Hyaluronic Acid, Swertia Japonica Extract, Nymphaea Caerulea Flower Extract, Lactobacillus Ferment, Althaea Rosea Flower Extract, Carthamus Tinctorius (Safflower) Flower Extract, Betaine, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Propanediol, C14-22 Alcohols, Dipeptide-2, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sodium Polyacrylate, Glyceryl Acrylate/Acrylic Acid Copolymer, PVM/MA Copolymer, Sorbitan Isostearate, Polyglyceryl-3 Polyricinoleate, Isopentyldiol, Capryloyl Salicylic Acid, C12-20 Alkyl Glucoside, Polyglyceryl-4 Oleate, Sodium Stearoyl Glutamate, Sodium Surfactin, Caproic Acid, Xanthan Gum, Tromethamine, Sodium Acetate, Disodium EDTA, Ethylhexylglycerin, Gardenia Florida Fruit Extract",
 			"images": [
-				"products.olislab.com/products/VERSO_7350067641788_01.avif",
-				"products.olislab.com/products/VERSO_7350067641788_02.avif"
+				"products.olislab.com/products/TORRIDEN_8809784600985_01.avif",
+				"products.olislab.com/products/TORRIDEN_8809784600985_02.avif"
 			],
 			"category": "Skin Care",
 			"subcategory": "Moisturisers",
-			"skintypes": "Combination, Dry, Normal",
-			"concerns": "Advanced anti-aging, Acne, spots, Texture"
+			"skintypes": "Combination, Dry, Normal, Oily",
+			"concerns": "Redness and Rosacea, Dryness, Acne, spots, Shiny Areas, Enlarged Pores, Texture, Wound healing/Scars, Anti-aging prevention",
+			"rating": 82,
+			"price": "€24.00",
+			"whyOliLovesIt": "Torriden Balanceful Cica Cream is an essential in our curated collection because of its ability to calm and nourish the skin. At Olis Lab, we value products that provide visible results without irritation, and this cream is a great solution for those seeking a balanced and hydrated complexion.",
+			"description": "Torriden Balanceful Cica Cream is a soothing cream formulated with centella asiatica (Cica) to calm and restore the skin. This cream deeply hydrates, improves skin elasticity, and helps to reduce redness and irritation, leaving the skin feeling soft, smooth, and rejuvenated.",
+			"howToUse": "As the final step of your routine, apply an even layer to your face and neck. Massage gently to lock in moisture and calm sensitive skin."
 		},
 		{
 			"brand": "RAAIE",
-			"name": "Golden Nectar Mānuka Honey Enzyme Cleanser",
-			"ingredients": "Aqua, Mel, Glycerin, Lauryl Glucoside, Sclerotium Gum, Pomaderris Kumerahou Flower/Leaf Extract, Benzyl Alcohol, Xanthan Gum, Sodium Lauroyl Methyl Isethionate, Parfum, Cocamidopropyl Betaine, Sodium Methyl Oleoyl Taurate, Coco-Glucoside, Sarcothalia Circumcincta, Sodium Citrate, Dehydroacetic Acid, Carica Papaya (Papaya) Fruit Extract, Ananas Sativus (Pineapple) Fruit Extract, Mangifera Indica (Mango) Fruit Extract, Citric Acid, Cyathea Medullaris Leaf Extract, Macropiper Excelsum Leaf Powder, Gluconolactone, Sodium Benzoate, Potassium Sorbate, Calcium Gluconate, Limonene, Linalyl Acetate.",
+			"name": "Cocoon Ceramide Cream Refill",
+			"ingredients": "Aqua, Butyrospermum Parkii Butter, Caprylic/Capric Triglyceride, Decyl Oleate, Glycerin, Glyceryl Stearate SE, Aloe Barbadensis Leaf Juice, Cocos Nucifera Oil, Sodium Stearoyl Glutamate, Palmitic Acid, Cetearyl Alcohol, Persea Gratissima Oil, Propanediol, Squalane, Theobroma Cacao Seed Butter, Phenoxyethanol, Carthamus Tinctorius Seed Oil, Stearic Acid, Tocopheryl Acetate, Parfum, Saccharide Isomerate, Mel, Rosa Canina Fruit Oil, Vitis Vinifera Seed Oil, Simmondsia Chinensis Seed Oil, Niacinamide, Butylene Glycol, Sodium Polyacrylate, Avena Sativa Kernel Extract, Sodium Hyaluronate, Ethylhexylglycerin, Polyglyceryl-10 Stearate, Terminalia Chebula Fruit Extract, Spilanthes Acmella Flower/Leaf/Stem Extract, Astragalus Membranaceus Root Extract, Algae Extract, Triethyl Citrate, Limonene, Polyglyceryl-6 Behenate, Saccharomyces/Copper Ferment, Saccharomyces/ Manganese Ferment, Saccharomyces/ Zinc Ferment, Behenic Acid, Glyceryl Stearate, Lactic Acid, Cyathea Medullaris Leaf Extract, Linalool, Ceramide Np, Cholesterol, Centella Asiatica Leaf Extract, Glycyrrhiza Glabra Root Extract, Citric Acid, Ceramide Ns, Citronellol, Geraniol, Blakeslea Trispora Mycelium Extract, Sodium Benzoate, Sodium Citrate, Ubiquinone, Chlorphenesin, Potassium Sorbate, Gluconolactone, Ceramide Eop, Benzyl Salicylate, Ceramide Ap, Tocopherol, Sodium Cetearyl Sulfate, Calcium Gluconate, Nicotiana Benthamiana Hexapeptide-40 sh-Polypeptide-76",
 			"images": [
-				"products.olislab.com/products/RAAIE_781005653056_01.avif",
-				"products.olislab.com/products/RAAIE_781005653056_02.avif",
-				"products.olislab.com/products/RAAIE_781005653056_03.avif",
-				"products.olislab.com/products/RAAIE_781005653056_04.avif"
+				"products.olislab.com/products/RAAIE_781005653049_01.avif",
+				"products.olislab.com/products/RAAIE_781005653049_02.avif",
+				"products.olislab.com/products/RAAIE_781005653049_03.avif",
+				"products.olislab.com/products/RAAIE_781005653049_04.avif"
 			],
 			"category": "Skin Care",
-			"subcategory": "Cleansers",
-			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Acne, spots"
+			"subcategory": "Moisturisers",
+			"skintypes": "Dry, Normal",
+			"concerns": "Enlarged Pores, Acne, spots, Shiny Areas, Dryness",
+			"rating": 85,
+			"price": "€32.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. RAAIE's Cocoon Ceramide Cream Refill stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Description pour Cocoon Ceramide Cream Refill",
+			"howToUse": "Instructions d'utilisation à définir"
 		},
 		{
 			"brand": "Rowse",
-			"name": "Tangerine Cleansing Balm",
-			"ingredients": "Prunus Amygdalus Dulcis Oil*, Glycerin, Caprylic/Capric Triglyceride, Cocos Nucifera Oil*, Heliantus Annuus Seed Oil, Aqua, Sucrose Laurate, Sucrose Stearate, Citrus nobilis peel oil*, Citrus Limon Peel Oil*, Glycine Soja Oil, Daucus Carota Sativa Root Extract*, Tocopherol, Parfum, Dehydroacetic Acid, Benzyl Alcohol**, Citral** , Limonene**, Linalool**",
+			"name": "All-Day Hydration Serum with Niacinamide",
+			"ingredients": "Citrus Aurantium Amara Flower Water*, Aloe Barbadensis Leaf Juice*, Simmondsia\n Chinensis Seed Oil*, Glycerin*, Gossypium Herbaceum Seed Oil, Caprylic/Capric Triglyceride, Butyrospermum Parkii Butter*, Niacinamide, Opuntia ficus indica Seed Oil*, Aqua, Cellulose Gum, Sodium Hyaluronate, Citrus Bergamia Peel Oil Expressed, Sucrose Laurate, Sucrose Stearate, Parfum**, Microcrystalline Cellulose, Xanthan\n Gum, Citric Acid, Potassium Sorbate, Sodium Benzoate, Dehydroacetic Acid, Benzyl Alcohol**, Limonene**, Linalool**, Citral**, Citronellol**, Geraniol**, Farnesol**, *Ingredients from organic farming **Components of natural essential oils.\"",
 			"images": [
-				"products.olislab.com/products/ROWSE_8436604950298_03.avif",
-				"products.olislab.com/products/ROWSE_8436604950298_02.avif",
-				"products.olislab.com/products/ROWSE_8436604950298_01.avif"
+				"products.olislab.com/products/ROWSE_8436604950526_01.avif",
+				"products.olislab.com/products/ROWSE_8436604950526_02.avif"
 			],
 			"category": "Skin Care",
-			"subcategory": "Cleansers",
-			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Dryness"
+			"subcategory": "Serums",
+			"skintypes": "Combination, Dry, Normal",
+			"concerns": "Dryness, Hyperpigmentation, Enlarged Pores, Dullness, Acne, spots, Texture, Anti-aging prevention",
+			"rating": 82,
+			"price": "€38.00",
+			"whyOliLovesIt": "At Olis Lab, we carefully select products that deliver exceptional results. Rowse's All-Day Hydration Serum with Niacinamide stands out for its quality ingredients and proven effectiveness. We love how it addresses key skincare concerns while maintaining the highest standards of formulation and performance.",
+			"description": "Designed to quench thirsty skin, this lightweight serum delivers all-day hydration while strengthening the skin barrier. Niacinamide works to brighten and refine texture, while humectants draw in moisture for long-lasting hydration. The result? Skin that looks plump, balanced, and radiant from morning to night.",
+			"howToUse": "Apply a few drops to clean skin before moisturiser. Use morning and night for optimal hydration and skin barrier support."
 		},
 		{
 			"brand": "COSRX",
-			"name": "BHA Blackhead Power Liquid",
-			"ingredients": "Salix Alba (Willow) Bark Water, Butylene Glycol, Betaine Salicylate, Niacinamide, 1,2-Hexanediol, Arginine, Panthenol, Sodium Hyaluronate, Xanthan Gum, Ethyl Hexanediol",
+			"name": "Low pH Good Morning Gel Cleanser",
+			"ingredients": "Water, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Sodium Chloride, Polysorbate 20, Styrax Japonicus Branch/Fruit/Leaf Extract, Butylene Glycol, Saccharomyces Ferment, Cryptomeria Japonica Leaf Extract, Nelumbo Nucifera Leaf Extract, Pinus Palustris Leaf Extract, Ulmus Davidiana Root Extract, Oenothera Biennis (Evening Primrose) Flower Extract, Pueraria Lobata Root Extract, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Allantoin, Caprylyl Glycol, Ethylhexylglycerin, Betaine Salicylate, Citric Acid, Ethyl Hexanediol, 1,2-Hexanediol, Trisodium Ethylenediamine Disuccinate, Sodium Benzoate, Disodium EDTA",
 			"images": [
-				"products.olislab.com/products/COSRX_8809416470054_01.avif"
+				"products.olislab.com/products/COSRX_8809416470511_01.avif",
+				"products.olislab.com/products/COSRX_8809416470511_02.avif"
 			],
 			"category": "Skin Care",
-			"subcategory": "Toners",
-			"skintypes": "Combination, Dry, Normal, Oily",
-			"concerns": "Acne, spots, Dullness, Eyes Bags and/or dark circles, Shiny Areas, Dryness, Enlarged Pores, Texture, Anti-aging prevention"
+			"subcategory": "Cleansers",
+			"skintypes": "Combination, Dry, Normal, Oily, Sensitive",
+			"concerns": "Dryness",
+			"rating": 64,
+			"price": "€14.00",
+			"whyOliLovesIt": "We love COSRX Low pH Good Morning Gel Cleanser for its gentle, hydrating formula that cleanses without causing dryness. At Olis Lab, we value cleansers that maintain the skin’s natural balance, and this gel cleanser does just that. It’s perfect for daily use and helps maintain a smooth, hydrated complexion.",
+			"description": "COSRX Low pH Good Morning Gel Cleanser is a gentle yet effective cleanser that balances the skin’s pH while thoroughly cleansing. With a low pH formula, it cleanses the skin without stripping it of its natural moisture, leaving it feeling soft, hydrated, and refreshed. Ideal for morning use, it preps the skin for the day ahead.",
+			"howToUse": "Use in the morning or evening. Apply a small amount to wet skin, lather, and gently massage in circular motions. Rinse with lukewarm water for a clean, refreshed feel"
 		}
 	]
 }
