@@ -1,5 +1,5 @@
 import ProductInteractions from './ProductInteractions';
-import ProductImage from './ProductImage';
+import ProductImage from './ProductImages/ProductImage';
 import ProductInfo from './ProductInfo/ProductInfo';
 import type { Product } from '@/types/product';
 
