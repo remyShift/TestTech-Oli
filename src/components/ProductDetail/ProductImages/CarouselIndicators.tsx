@@ -1,5 +1,3 @@
-import React from 'react';
-
 interface CarouselIndicatorsProps {
 	images: string[];
 	currentIndex: number;
