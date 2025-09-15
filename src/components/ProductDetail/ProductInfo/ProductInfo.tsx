@@ -27,10 +27,10 @@ export default function ProductInfo({ product }: ProductInfoProps) {
 				{product.brand}
 			</h3>
 			<h1 className="font-space-grotesk text-2xl">{product.name}</h1>
-			<ProductSizePrice product={product} />
+			<ProductSizePrice />
 			<ProductDescription product={product} />
 			<Spacer />
-			<ProductRating product={product} />
+			<ProductRating />
 			<Spacer />
 			<ProductAccordion
 				items={createProductAccordionData(product)}

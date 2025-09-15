@@ -16,11 +16,11 @@ export default function ProductCard({ product }: ProductCardProps) {
 				</span>
 			</div>
 
-			<div className="flex-1 px-3">
+			<div className="flex-1 px-3 overflow-hidden">
 				<img
 					src={`https://${product.images[0]}`}
 					alt={product.name}
-					className="object-contain w-full h-full"
+					className="object-contain w-full h-full transform -translate-y-1"
 				/>
 			</div>
 
@@ -29,7 +29,7 @@ export default function ProductCard({ product }: ProductCardProps) {
 					{product.brand}
 				</p>
 				<p className="font-space-grotesk text-sm">{product.name}</p>
-				<ProductSizePrice product={product} />
+				<ProductSizePrice />
 			</div>
 
 			<button
