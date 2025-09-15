@@ -6,6 +6,8 @@ interface ProductCardProps {
 }
 
 export default function ProductCard({ product }: ProductCardProps) {
+	console.log(product.images[0]);
+
 	return (
 		<div className="flex flex-col bg-card rounded-xl overflow-hidden product-card-responsive relative">
 			<div className="flex justify-end p-3 pb-0">
@@ -16,7 +18,7 @@ export default function ProductCard({ product }: ProductCardProps) {
 
 			<div className="flex-1 px-3">
 				<img
-					src={product.images?.[0] ?? ''}
+					src={`https://${product.images[0]}`}
 					alt={product.name}
 					className="object-contain w-full h-full"
 				/>
