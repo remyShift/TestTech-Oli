@@ -1,22 +1,22 @@
 import { useState } from 'react';
-import type { Product } from "@/types/product"
+import type { Product } from '@/types/product';
 
 interface AddToBagButtonProps {
-    product: Product;
+	product: Product;
 }
 
 export default function AddToBagButton({ product }: AddToBagButtonProps) {
-    const [isLoading, setIsLoading] = useState(false);
+	const [isLoading, setIsLoading] = useState(false);
 
-    const handleAddToBag = () => {
-        setIsLoading(true);
-        setTimeout(() => {
-            setIsLoading(false);
-            console.log('Produit ajouté au panier:', product.name);
-        }, 1000);
-    };
+	const handleAddToBag = () => {
+		setIsLoading(true);
+		setTimeout(() => {
+			setIsLoading(false);
+			console.log('Produit ajouté au panier:', product.name);
+		}, 1000);
+	};
 
-    const baseClasses = `
+	const baseClasses = `
         bg-black text-white font-abc-diatype font-bold 
         py-3 rounded-full transition-all duration-200 
         hover:bg-gray-800 active:scale-95
@@ -24,22 +24,27 @@ export default function AddToBagButton({ product }: AddToBagButtonProps) {
         flex items-center justify-center gap-2
     `;
 
-    const fixedClasses = "sticky bottom-6 mb-3 md:static md:block md:w-auto md:translate-x-0 md:bottom-auto md:mt-0 w-full md:w-auto md:hidden";
+	const fixedClasses =
+		'sticky bottom-6 mb-3 md:static md:block md:w-auto md:translate-x-0 md:bottom-auto md:mt-0 w-full md:w-auto md:hidden';
 
-    return (
-        <button
-            onClick={handleAddToBag}
-            disabled={isLoading}
-            className={`${baseClasses} ${fixedClasses}`}
-        >
-        {isLoading ? (
-            <>
-                <div className="w-4 h-4 border-2 border-white border-t-transparent rounded-full animate-spin" />
-                <span className="font-abc-diatype font-bold text-xs">ADDING...</span>
-            </>
-        ) : (
-            <span className="font-abc-diatype font-bold text-xs">ADD TO BAG</span>
-        )}
-        </button>
-    );
+	return (
+		<button
+			onClick={handleAddToBag}
+			disabled={isLoading}
+			className={`${baseClasses} ${fixedClasses}`}
+		>
+			{isLoading ? (
+				<>
+					<div className="w-4 h-4 border-2 border-white border-t-transparent rounded-full animate-spin" />
+					<span className="font-abc-diatype font-bold text-xs">
+						ADDING...
+					</span>
+				</>
+			) : (
+				<span className="font-abc-diatype font-bold text-xs">
+					ADD TO BAG
+				</span>
+			)}
+		</button>
+	);
 }

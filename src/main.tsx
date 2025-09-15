@@ -1,10 +1,10 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import './styles/index.css'
-import ProductPage from './ProductPage.tsx'
+import { StrictMode } from 'react';
+import { createRoot } from 'react-dom/client';
+import './styles/index.css';
+import ProductPage from './ProductPage.tsx';
 
 createRoot(document.getElementById('root')!).render(
-  <StrictMode>
-    <ProductPage />
-  </StrictMode>,
-)
+	<StrictMode>
+		<ProductPage />
+	</StrictMode>
+);

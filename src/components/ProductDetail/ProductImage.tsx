@@ -1,13 +1,17 @@
-import type { Product } from '@/types/product'
+import type { Product } from '@/types/product';
 
 interface ProductImageProps {
-    product: Product;
+	product: Product;
 }
 
 export default function ProductImage({ product }: ProductImageProps) {
-    return (
-        <div className="w-full h-full flex justify-center items-center">
-            <img src={product.imageUrl} alt={product.name} className="object-contain" />
-        </div>
-    )
+	return (
+		<div className="w-full h-full flex justify-center items-center">
+			<img
+				src={product.images[0]}
+				alt={product.name}
+				className="object-contain"
+			/>
+		</div>
+	);
 }
