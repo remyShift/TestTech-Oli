@@ -1,10 +1,10 @@
 import ProductSizePrice from './ProductSizePrice';
 import ProductDescription from './ProductDescription';
-import Spacer from '@/components/ProductDetail/Spacer';
+import Spacer from '@/components/CurrentProductDetail/Spacer';
 import ProductRating from './ProductRating';
-import ProductAccordion from '@/components/ProductDetail/ProductAccordion/ProductAccordion';
-import { createProductAccordionData } from '@/components/ProductDetail/ProductAccordion/ProductAccordionDataFactory';
-import AddToBagButton from '@/components/ProductDetail/AddToBagButton';
+import ProductAccordion from '@/components/CurrentProductDetail/ProductAccordion/ProductAccordion';
+import { createProductAccordionData } from '@/components/CurrentProductDetail/ProductAccordion/ProductAccordionDataFactory';
+import AddToBagButton from '@/components/CurrentProductDetail/AddToBagButton';
 import type { Product } from '@/types/product';
 import { useBreakpoint } from '@/hooks/useBreakpoint';
 

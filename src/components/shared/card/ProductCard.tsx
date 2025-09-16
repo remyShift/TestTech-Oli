@@ -1,4 +1,4 @@
-import ProductSizePrice from '@/components/ProductDetail/ProductInfo/ProductSizePrice';
+import ProductSizePrice from '@/components/CurrentProductDetail/ProductInfo/ProductSizePrice';
 import type { Product } from '@/types/product';
 import { useImageHover } from '@/hooks/useImageHover';
 import { useSafeProductImage } from '@/hooks/useSafeProductImage';

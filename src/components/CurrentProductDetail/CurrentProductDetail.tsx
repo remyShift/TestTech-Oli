@@ -11,7 +11,7 @@ interface ProductDetailProps {
 	product: Product;
 }
 
-export default function ProductDetail({ product }: ProductDetailProps) {
+export default function CurrentProductDetail({ product }: ProductDetailProps) {
 	const isLg = useBreakpoint('lg');
 
 	return (
