@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import type { SortOption } from '@/types/product';
 
 interface SortSectionProps {
@@ -15,6 +15,22 @@ const sortOptions = [
 
 export default function SortSection({ selectedSort, onSortChange }: SortSectionProps) {
 	const [isExpanded, setIsExpanded] = useState(false);
+	const contentRef = useRef<HTMLDivElement | null>(null);
+	const [maxHeight, setMaxHeight] = useState<number>(0);
+
+	useEffect(() => {
+		const element = contentRef.current;
+		if (!element) {
+			setMaxHeight(0);
+			return;
+		}
+
+		if (isExpanded) {
+			setMaxHeight(element.scrollHeight);
+		} else {
+			setMaxHeight(0);
+		}
+	}, [isExpanded]);
 
 	return (
 		<>
@@ -41,25 +57,27 @@ export default function SortSection({ selectedSort, onSortChange }: SortSectionP
 					</svg>
 				</div>
 			</button>
-			{isExpanded && (
-				<div className="space-y-2">
-					{sortOptions.map((option) => (
-						<label key={option.value} className="flex items-center space-x-2 cursor-pointer p-1">
-							<input
-								type="checkbox"
-								name="sort"
-								value={option.value}
-								checked={selectedSort === option.value}
-								onChange={() => onSortChange(option.value)}
-								className="checkbox-square"
-							/>
-							<span className="text-sm font-space-grotesk">
-								{option.label}
-							</span>
-						</label>
-					))}
-				</div>
-			)}
+			<div
+				ref={contentRef}
+				className="space-y-2 overflow-hidden transition-[max-height] duration-300 ease-in-out"
+				style={{ maxHeight: `${maxHeight}px` }}
+			>
+				{sortOptions.map((option) => (
+					<label key={option.value} className="flex items-center space-x-2 cursor-pointer p-1">
+						<input
+							type="checkbox"
+							name="sort"
+							value={option.value}
+							checked={selectedSort === option.value}
+							onChange={() => onSortChange(option.value)}
+							className="checkbox-square"
+						/>
+						<span className="text-sm font-space-grotesk">
+							{option.label}
+						</span>
+					</label>
+				))}
+			</div>
 		</>
 	);
 }

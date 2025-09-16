@@ -27,18 +27,20 @@ export default function ProductFilters({
 	return (
 		<div>
 			<div className="flex flex-col mb-6">
-				<span className="font-abc-diatype font-bold">ALL PRODUCTS</span>
+				<div className='flex justify-between'>
+					<span className="font-abc-diatype font-bold">ALL PRODUCTS</span>
+					{hasActiveFilters && (
+						<button
+						onClick={onClearFilters}
+						className="font-space-grotesk underline"
+						>
+							clear all filters
+						</button>
+					)}
+				</div>
 				<span className="font-abc-diatype text-xs">{filteredProductsCount} PRODUCTS</span>
 			</div>
 
-			{hasActiveFilters && (
-				<button
-					onClick={onClearFilters}
-					className="hover:underline mb-6 font-abc-diatype font-bold text-sm cursor-pointer"
-				>
-					CLEAR ALL FILTERS
-				</button>
-			)}
 
 			<div className='flex flex-col gap-2'>
 				<SortSection

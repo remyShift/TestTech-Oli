@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 
 interface FilterSectionProps {
 	title: string;
@@ -14,6 +14,23 @@ export default function FilterSection({
 	onToggle 
 }: FilterSectionProps) {
 	const [isOpen, setIsOpen] = useState(isExpanded);
+	const contentRef = useRef<HTMLDivElement | null>(null);
+	const [maxHeight, setMaxHeight] = useState<number>(0);
+
+	useEffect(() => {
+		const element = contentRef.current;
+		if (!element) {
+			setMaxHeight(0);
+			return;
+		}
+
+		if (isOpen) {
+			const nextHeight = element.scrollHeight;
+			setMaxHeight(nextHeight);
+		} else {
+			setMaxHeight(0);
+		}
+	}, [isOpen, children]);
 
 	const handleToggle = () => {
 		setIsOpen(!isOpen);
@@ -45,11 +62,13 @@ export default function FilterSection({
 					/>
 				</svg>
 			</button>
-			{isOpen && (
-				<div className="space-y-2">
-					{children}
-				</div>
-			)}
+			<div
+				ref={contentRef}
+				className="space-y-2 overflow-hidden transition-[max-height] duration-300 ease-in-out"
+				style={{ maxHeight: `${maxHeight}px` }}
+			>
+				{children}
+			</div>
 		</>
 	);
 }
