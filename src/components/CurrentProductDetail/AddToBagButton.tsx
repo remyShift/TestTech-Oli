@@ -1,4 +1,6 @@
 import { useState } from 'react';
+import { useCartContext } from '@/hooks/useCartContext';
+import QuantitySelector from './QuantitySelector';
 import type { Product } from '@/types/product';
 
 interface AddToBagButtonProps {
@@ -7,12 +9,16 @@ interface AddToBagButtonProps {
 
 export default function AddToBagButton({ product }: AddToBagButtonProps) {
 	const [isLoading, setIsLoading] = useState(false);
+	const { addToCart, isInCart } = useCartContext();
+	
+	const productId = `${product.brand}-${product.name}`;
+	const isInCartValue = isInCart(productId);
 
 	const handleAddToBag = () => {
 		setIsLoading(true);
 		setTimeout(() => {
+			addToCart(product);
 			setIsLoading(false);
-			console.log('Produit ajouté au panier:', product.name);
 		}, 1000);
 	};
 
@@ -26,6 +32,14 @@ export default function AddToBagButton({ product }: AddToBagButtonProps) {
 
 	const fixedClasses =
 		'sticky bottom-6 mb-3 w-full md:static md:w-auto md:translate-x-0 md:bottom-auto md:mt-0 lg:w-full';
+
+	if (isInCartValue) {
+		return (
+			<div className={`${fixedClasses}`}>
+				<QuantitySelector product={product} />
+			</div>
+		);
+	}
 
 	return (
 		<button
@@ -41,7 +55,7 @@ export default function AddToBagButton({ product }: AddToBagButtonProps) {
 					</span>
 				</>
 			) : (
-				<span className="font-abc-diatype font-bold text-xs">
+				<span className="font-abc-diatype font-bold text-xs cursor-pointer">
 					ADD TO BAG
 				</span>
 			)}
