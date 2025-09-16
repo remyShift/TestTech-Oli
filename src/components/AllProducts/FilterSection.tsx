@@ -41,7 +41,7 @@ export default function FilterSection({
 		<>
 			<button
 				onClick={handleToggle}
-				className="flex items-center justify-between w-full py-2 text-left"
+				className="flex items-center justify-between w-full py-2 text-left cursor-pointer"
 			>
 				<span className="font-abc-diatype font-bold text-sm uppercase tracking-wide">
 					{title}

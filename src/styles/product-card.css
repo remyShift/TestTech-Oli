@@ -1,0 +1,30 @@
+.product-card-responsive {
+	width: 195px;
+	height: 300px;
+}
+
+@media (min-width: 641px) {
+	.product-card-responsive {
+		width: 283px;
+		height: 420px;
+	}
+}
+
+.recommended-product-card-responsive {
+	width: 195px;
+	height: 300px;
+}
+
+@media (min-width: 641px) and (max-width: 1024px) {
+	.recommended-product-card-responsive {
+		width: 283px;
+		height: 420px;
+	}
+}
+
+@media (min-width: 1025px) {
+	.recommended-product-card-responsive {
+		width: 378px;
+		height: 544px;
+	}
+}

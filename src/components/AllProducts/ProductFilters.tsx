@@ -28,7 +28,7 @@ export default function ProductFilters({
 		<div>
 			<div className="flex flex-col mb-6">
 				<div className='flex justify-between'>
-					<span className="font-abc-diatype font-bold">ALL PRODUCTS</span>
+					<span className="font-abc-diatype font-bold lg:text-lg">ALL PRODUCTS</span>
 					{hasActiveFilters && (
 						<button
 						onClick={onClearFilters}

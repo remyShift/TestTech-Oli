@@ -10,6 +10,7 @@ export function createCarouselContent(items: Product[]): React.ReactElement[] {
 		items.forEach((product, index) => {
 			content.push(
 				<ProductCard
+					className="recommended-product-card-responsive"
 					product={product}
 					key={`${product.brand}-${product.name}-${i}-${index}`}
 				/>

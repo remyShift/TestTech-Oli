@@ -5,9 +5,10 @@ import { useSafeProductImage } from '@/hooks/useSafeProductImage';
 
 interface ProductCardProps {
 	product: Product;
+	className?: string;
 }
 
-export default function ProductCard({ product }: ProductCardProps) {
+export default function ProductCard({ product, className }: ProductCardProps) {
 	const { currentImageIndex, imageOpacity, setIsHovered } = useImageHover({
 		imageCount: product.images.length
 	});
@@ -15,7 +16,7 @@ export default function ProductCard({ product }: ProductCardProps) {
 	const { imageUrlToRender, canHoverCycle } = useSafeProductImage(product.images, currentImageIndex);
 
 	return (
-		<div className="flex flex-col bg-card rounded-xl overflow-hidden product-card-responsive relative">
+		<div className={`flex flex-col bg-card rounded-xl overflow-hidden relative ${className}`}>
 			<div className="flex justify-end p-3 pb-0">
 				<span className="font-abc-diatype font-bold text-xs">
 					{String(product.rating).padStart(3, '0')}/100

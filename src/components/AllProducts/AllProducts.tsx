@@ -4,11 +4,15 @@ import productsData from '@/data/products.json';
 import ProductCard from '@/components/shared/card/ProductCard';
 import ProductFilters from './ProductFilters';
 import { useProductFilters } from '@/hooks/useProductFilters';
+import { useBreakpoint } from '@/hooks/useBreakpoint';
 
 export default function AllProducts() {
 	const [products] = useState<Product[]>((productsData as ProductList).products);
 	const [currentPage, setCurrentPage] = useState(1);
-	const productsPerPage = 5;
+	const isLg = useBreakpoint('lg');
+
+	const productsPerChunk = isLg ? 20 : 5;
+
 
 	const {
 		filterState,
@@ -22,20 +26,20 @@ export default function AllProducts() {
 	} = useProductFilters(products);
 
 	const [displayedProducts, setDisplayedProducts] = useState<Product[]>(
-		filteredAndSortedProducts.slice(0, productsPerPage)
+		filteredAndSortedProducts.slice(0, productsPerChunk)
 	);
 
 	useEffect(() => {
-		setDisplayedProducts(filteredAndSortedProducts.slice(0, productsPerPage));
+		setDisplayedProducts(filteredAndSortedProducts.slice(0, productsPerChunk));
 		setCurrentPage(1);
-	}, [filteredAndSortedProducts, productsPerPage]);
+	}, [filteredAndSortedProducts, productsPerChunk]);
 
-	const totalPages = Math.ceil(filteredAndSortedProducts.length / productsPerPage);
+	const totalPages = Math.ceil(filteredAndSortedProducts.length / productsPerChunk);
 
 	const loadMoreProducts = () => {
 		const nextPage = currentPage + 1;
 		const startIndex = displayedProducts.length;
-		const endIndex = startIndex + productsPerPage;
+		const endIndex = startIndex + productsPerChunk;
 		const newProducts = filteredAndSortedProducts.slice(startIndex, endIndex);
 
 		console.log('Loading more products:', {
@@ -54,7 +58,7 @@ export default function AllProducts() {
 	const hasMoreProducts = currentPage < totalPages;
 
 	return (
-		<div className="flex flex-col md:flex-row gap-12">
+		<div className="flex flex-col md:flex-row gap-12 pb-32">
 			<ProductFilters
 				filterState={filterState}
 				filterOptions={filterOptions}
@@ -66,13 +70,16 @@ export default function AllProducts() {
 				filteredProductsCount={filteredAndSortedProducts.length}
 			/>
 
-			<div className="flex flex-col gap-3 items-center">
-				{displayedProducts.map((product, index) => (
-					<div key={`${product.name}-${index}`} className="w-full max-w-[195px]">
-						<ProductCard product={product} />
-					</div>
-				))}
-
+			<div className="flex flex-col gap-12">
+				<div className="flex flex-col gap-3 items-center md:flex-row md:flex-wrap md:justify-start">
+					{displayedProducts.map((product, index) => (
+						<ProductCard 
+							key={`${product.name}-${index}`}
+							product={product} 
+							className="product-card-responsive" 
+						/>
+					))}
+				</div>
 				{hasMoreProducts && (
 					<button
 						onClick={loadMoreProducts}
