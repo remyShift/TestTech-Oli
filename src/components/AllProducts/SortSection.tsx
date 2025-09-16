@@ -42,7 +42,7 @@ export default function SortSection({ selectedSort, onSortChange }: SortSectionP
 				</div>
 			</button>
 			{isExpanded && (
-				<div className="mt-3 space-y-2">
+				<div className="space-y-2">
 					{sortOptions.map((option) => (
 						<label key={option.value} className="flex items-center space-x-2 cursor-pointer p-1">
 							<input

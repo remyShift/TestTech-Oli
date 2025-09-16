@@ -15,7 +15,7 @@ export default function ProductCard({ product }: ProductCardProps) {
 		<div className="flex flex-col bg-card rounded-xl overflow-hidden product-card-responsive relative">
 			<div className="flex justify-end p-3 pb-0">
 				<span className="font-abc-diatype font-bold text-xs">
-					{String(90).padStart(3, '0')}/100
+					{String(product.rating).padStart(3, '0')}/100
 				</span>
 			</div>
 
