@@ -41,7 +41,7 @@ export default function ImageCarousel({
 			onTouchEnd={onTouchEnd}
 		>
 			<img
-				src={`https://${currentImage}`}
+				src={currentImage}
 				alt={alt}
 				className="object-contain max-h-full max-w-full select-none"
 				draggable={false}

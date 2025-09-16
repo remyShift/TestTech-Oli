@@ -1,6 +1,7 @@
 import ProductSizePrice from '@/components/ProductDetail/ProductInfo/ProductSizePrice';
 import type { Product } from '@/types/product';
 import { useImageHover } from '@/hooks/useImageHover';
+import { useSafeProductImage } from '@/hooks/useSafeProductImage';
 
 interface ProductCardProps {
 	product: Product;
@@ -10,6 +11,8 @@ export default function ProductCard({ product }: ProductCardProps) {
 	const { currentImageIndex, imageOpacity, setIsHovered } = useImageHover({
 		imageCount: product.images.length
 	});
+
+	const { imageUrlToRender, canHoverCycle } = useSafeProductImage(product.images, currentImageIndex);
 
 	return (
 		<div className="flex flex-col bg-card rounded-xl overflow-hidden product-card-responsive relative">
@@ -21,18 +24,22 @@ export default function ProductCard({ product }: ProductCardProps) {
 
 			<div
 				className="flex-1 px-3 overflow-hidden"
-				onMouseEnter={() => setIsHovered(true)}
+				onMouseEnter={() => {
+					if (canHoverCycle) setIsHovered(true);
+				}}
 				onMouseLeave={() => setIsHovered(false)}
 			>
-				<img
-					src={`https://${product.images[currentImageIndex]}`}
-					alt={product.name}
-					className="object-contain w-full h-full transform -translate-y-1"
-					style={{
-						opacity: imageOpacity,
-						transition: 'opacity 200ms ease-in-out'
-					}}
-				/>
+				{imageUrlToRender ? (
+					<img
+						src={imageUrlToRender}
+						alt={product.name}
+						className="object-contain w-full h-full transform -translate-y-1"
+						style={{
+							opacity: imageOpacity,
+							transition: 'opacity 200ms ease-in-out'
+						}}
+					/>
+				) : null}
 			</div>
 
 			<div className="px-2 py-2">

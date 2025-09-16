@@ -1,4 +1,6 @@
 import { useCarousel } from '@/hooks/useCarousel';
+import { preloadValidUrls, toHttpUrl } from '@/hooks/useSafeProductImage';
+import { useEffect, useMemo, useState } from 'react';
 import ImageCarousel from './ImageCarousel';
 import CarouselNavigation from './CarouselNavigation';
 import CarouselIndicators from './CarouselIndicators';
@@ -8,7 +10,15 @@ interface ProductImageProps {
 }
 
 export default function ProductImage({ productImages }: ProductImageProps) {
-	const images = productImages || [];
+	const normalized = useMemo(
+		() => (productImages ?? []).map((u) => toHttpUrl(u)),
+		[productImages]
+	);
+	const [images, setImages] = useState<string[]>([]);
+
+	useEffect(() => {
+		preloadValidUrls(normalized).then((valids) => setImages(valids));
+	}, [normalized]);
 
 	const {
 		currentIndex,
