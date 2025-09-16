@@ -9,8 +9,6 @@ interface ProductFiltersProps {
 	filterCounts: FilterCounts;
 	onFilterChange: (filterType: keyof Omit<FilterState, 'sortBy'>, value: string) => void;
 	onSortChange: (sort: FilterState['sortBy']) => void;
-	onClearFilters: () => void;
-	hasActiveFilters: boolean;
 	filteredProductsCount: number;
 }
 
@@ -20,24 +18,12 @@ export default function ProductFilters({
 	filterCounts,
 	onFilterChange,
 	onSortChange,
-	onClearFilters,
-	hasActiveFilters,
 	filteredProductsCount
 }: ProductFiltersProps) {
 	return (
 		<div>
 			<div className="flex flex-col mb-6">
-				<div className='flex justify-between'>
-					<span className="font-abc-diatype font-bold lg:text-lg">ALL PRODUCTS</span>
-					{hasActiveFilters && (
-						<button
-						onClick={onClearFilters}
-						className="font-space-grotesk underline"
-						>
-							clear all filters
-						</button>
-					)}
-				</div>
+				<span className="font-abc-diatype font-bold lg:text-lg">ALL PRODUCTS</span>
 				<span className="font-abc-diatype text-xs">{filteredProductsCount} PRODUCTS</span>
 			</div>
 

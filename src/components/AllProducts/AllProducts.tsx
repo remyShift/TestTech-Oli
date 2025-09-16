@@ -21,8 +21,6 @@ export default function AllProducts() {
 		filteredAndSortedProducts,
 		updateFilter,
 		updateSort,
-		clearAllFilters,
-		hasActiveFilters
 	} = useProductFilters(products);
 
 	const [displayedProducts, setDisplayedProducts] = useState<Product[]>(
@@ -65,8 +63,6 @@ export default function AllProducts() {
 				filterCounts={filterCounts}
 				onFilterChange={updateFilter}
 				onSortChange={updateSort}
-				onClearFilters={clearAllFilters}
-				hasActiveFilters={hasActiveFilters}
 				filteredProductsCount={filteredAndSortedProducts.length}
 			/>
 

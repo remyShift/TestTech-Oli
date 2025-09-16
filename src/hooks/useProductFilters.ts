@@ -194,27 +194,6 @@ export function useProductFilters(products: Product[]) {
 		setFilterState((prev) => ({ ...prev, sortBy }));
 	};
 
-	const clearAllFilters = () => {
-		setFilterState({
-			selectedBrands: [],
-			selectedCategories: [],
-			selectedSubcategories: [],
-			selectedSkintypes: [],
-			selectedConcerns: [],
-			sortBy: 'rating-high-to-low',
-		});
-	};
-
-	const hasActiveFilters = useMemo(() => {
-		return (
-			filterState.selectedBrands.length > 0 ||
-			filterState.selectedCategories.length > 0 ||
-			filterState.selectedSubcategories.length > 0 ||
-			filterState.selectedSkintypes.length > 0 ||
-			filterState.selectedConcerns.length > 0
-		);
-	}, [filterState]);
-
 	return {
 		filterState,
 		filterOptions,
@@ -222,7 +201,5 @@ export function useProductFilters(products: Product[]) {
 		filteredAndSortedProducts,
 		updateFilter,
 		updateSort,
-		clearAllFilters,
-		hasActiveFilters,
 	};
 }
