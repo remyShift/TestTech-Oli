@@ -43,7 +43,7 @@ export default function ImageCarousel({
 			<img
 				src={currentImage}
 				alt={alt}
-				className="object-contain max-h-full max-w-full select-none"
+				className="object-cover max-h-full max-w-full select-none"
 				draggable={false}
 			/>
 		</div>

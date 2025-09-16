@@ -13,9 +13,9 @@ export default function ProductPage() {
 		<>
 			<div className="bg-primary px-3 flex flex-col gap-6">
 				<Header />
-				<ProductDetail product={firstProduct} />
 				<div className="flex flex-col gap-24">
-					<RecommendedProducts />
+						<ProductDetail product={firstProduct} />
+						<RecommendedProducts />
 					<AllProducts />
 				</div>
 			</div>

@@ -48,7 +48,7 @@ export default function ProductImage({ productImages }: ProductImageProps) {
 
 	return (
 		<div
-			className="relative w-full h-96 group lg:w-2/3"
+			className="relative w-full h-96 group lg:w-2/3 lg:h-[60vh]"
 			onMouseEnter={() => setIsHovered(true)}
 			onMouseLeave={() => setIsHovered(false)}
 		>

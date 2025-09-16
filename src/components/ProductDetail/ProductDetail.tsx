@@ -17,7 +17,7 @@ export default function ProductDetail({ product }: ProductDetailProps) {
 	return (
 		<div className="flex flex-col gap-4">
 			<ProductInteractions />
-			<div className="flex flex-col gap-4 lg:flex-row">
+			<div className="flex flex-col gap-4 lg:flex-row lg:items-center">
 				{isLg && (
 					<div className="lg:w-1/3">
 						<ProductRating productRating={product.rating} />
