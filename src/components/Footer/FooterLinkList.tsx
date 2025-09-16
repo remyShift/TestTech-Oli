@@ -3,11 +3,11 @@ import type { FooterSection } from './FooterCard';
 export default function FooterLinkList(props: FooterSection) {
 	const { title, links } = props;
 	return (
-		<div className="flex flex-col gap-4">
+		<div className="flex flex-col gap-4 lg:gap-6">
 			<h4 className="font-abc-diatype text-ceramics text-2xs font-bold">
 				{title}
 			</h4>
-			<div className="flex flex-col gap-2">
+			<div className="flex flex-col gap-2 lg:gap-4">
 				{links.map((link) => (
 					<a
 						key={link.label}

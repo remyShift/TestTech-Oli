@@ -54,40 +54,44 @@ export default function FooterCard() {
 	}, []);
 
 	return (
-		<div className="bg-primary w-full rounded-xl p-7 h-footer flex flex-col justify-between">
-			<FooterCTA
-				heading="Take better care of yourself with Oli news & updates"
-				ctaLabel="REGISTER NEWSLETTER"
-				ctaHref="#"
-			/>
+		<div className="bg-primary w-full rounded-xl p-7 h-footer flex flex-col justify-between lg:rounded-3xl lg:pt-14 px-12">
+			<div className="flex flex-col lg:flex-row lg:justify-between">
+				<FooterCTA
+					heading="Take better care of yourself with Oli news & updates"
+					ctaLabel="REGISTER NEWSLETTER"
+					ctaHref="#"
+				/>
 
-			<div className="flex justify-between">
-				{sections.map((section) => (
-					<FooterLinkList
-						key={section.title}
-						title={section.title}
-						links={section.links}
-					/>
-				))}
+				<div className="flex justify-between lg:gap-32">
+					{sections.map((section) => (
+						<FooterLinkList
+							key={section.title}
+							title={section.title}
+							links={section.links}
+						/>
+					))}
+				</div>
 			</div>
 
-			<div className="flex flex-col gap-2">
-				<a
-					href="#"
-					className="font-abc-diatype text-2xs font-bold hover:underline"
-				>
-					PRIVACY POLICY
-				</a>
-				<a
-					href="#"
-					className="font-abc-diatype text-2xs font-bold hover:underline"
-				>
-					TERMS OF SERVICE
-				</a>
-				<LanguageSelector value={language} onChange={setLanguage} />
+			<div className="flex flex-col gap-2 lg:flex-row lg:justify-between">
 				<p className="font-abc-diatype text-ceramics text-2xs font-bold">
 					©ALL RIGHTS RESERVED OLI'S LAB
 				</p>
+				<LanguageSelector value={language} onChange={setLanguage} />
+				<div className="flex flex-col gap-2 lg:flex-row lg:justify-between lg:gap-6">
+					<a
+						href="#"
+						className="font-abc-diatype text-2xs font-bold hover:underline"
+					>
+						TERMS OF SERVICE
+					</a>
+					<a
+						href="#"
+						className="font-abc-diatype text-2xs font-bold hover:underline"
+					>
+						PRIVACY POLICY
+					</a>
+				</div>
 			</div>
 		</div>
 	);
