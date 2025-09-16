@@ -14,7 +14,7 @@ export default function ProductPage() {
 	return (
 		<CartProvider>
 			<ProductProvider initialProduct={firstProduct}>
-				<div className="bg-primary px-6 flex flex-col gap-6">
+				<div className="bg-primary px-5 flex flex-col gap-6">
 					<Header />
 					<div className="flex flex-col gap-24">
 						<CurrentProductDetail />
