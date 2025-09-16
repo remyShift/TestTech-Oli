@@ -11,7 +11,7 @@ export function createCarouselContent(items: Product[]): React.ReactElement[] {
 			content.push(
 				<ProductCard
 					product={product}
-					key={`${product.id}-${i}-${index}`}
+					key={`${product.brand}-${product.name}-${i}-${index}`}
 				/>
 			);
 		});
