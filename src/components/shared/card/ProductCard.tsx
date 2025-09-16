@@ -2,6 +2,7 @@ import ProductSizePrice from '@/components/CurrentProductDetail/ProductInfo/Prod
 import type { Product } from '@/types/product';
 import { useImageHover } from '@/hooks/useImageHover';
 import { useSafeProductImage } from '@/hooks/useSafeProductImage';
+import { useProductContext } from '@/hooks/useProductContext';
 
 interface ProductCardProps {
 	product: Product;
@@ -14,9 +15,17 @@ export default function ProductCard({ product, className }: ProductCardProps) {
 	});
 
 	const { imageUrlToRender, canHoverCycle } = useSafeProductImage(product.images, currentImageIndex);
+	const { selectProduct } = useProductContext();
+
+	const handleProductClick = () => {
+		selectProduct(product);
+	};
 
 	return (
-		<div className={`flex flex-col bg-card rounded-xl overflow-hidden relative ${className}`}>
+		<div 
+			className={`flex flex-col bg-card rounded-xl overflow-hidden relative cursor-pointer ${className}`}
+			onClick={handleProductClick}
+		>
 			<div className="flex justify-end p-3 pb-0">
 				<span className="font-abc-diatype font-bold text-xs">
 					{String(product.rating).padStart(3, '0')}/100
@@ -52,7 +61,9 @@ export default function ProductCard({ product, className }: ProductCardProps) {
 			</div>
 
 			<button
-				onClick={() => {}}
+				onClick={(e) => {
+					e.stopPropagation();
+				}}
 				className="w-full bg-black text-white text-xs font-abc-diatype font-bold rounded-b-xl hover:bg-gray-800 transition-colors py-2"
 			>
 				ADD TO BAG
