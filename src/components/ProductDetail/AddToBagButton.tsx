@@ -25,7 +25,7 @@ export default function AddToBagButton({ product }: AddToBagButtonProps) {
     `;
 
 	const fixedClasses =
-		'sticky bottom-6 mb-3 md:static md:block md:w-auto md:translate-x-0 md:bottom-auto md:mt-0 w-full md:w-auto md:hidden';
+		'sticky bottom-6 mb-3 w-full md:static md:w-auto md:translate-x-0 md:bottom-auto md:mt-0 lg:w-full';
 
 	return (
 		<button

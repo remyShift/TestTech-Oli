@@ -6,12 +6,14 @@ import ProductAccordion from '@/components/ProductDetail/ProductAccordion/Produc
 import { createProductAccordionData } from '@/components/ProductDetail/ProductAccordion/ProductAccordionDataFactory';
 import AddToBagButton from '@/components/ProductDetail/AddToBagButton';
 import type { Product } from '@/types/product';
+import { useBreakpoint } from '@/hooks/useBreakpoint';
 
 interface ProductInfoProps {
 	product: Product;
 }
 
 export default function ProductInfo({ product }: ProductInfoProps) {
+	const isLg = useBreakpoint('lg');
 	return (
 		<div className="flex flex-col gap-3">
 			<div className="flex items-center gap-2">
@@ -30,16 +32,18 @@ export default function ProductInfo({ product }: ProductInfoProps) {
 			<ProductSizePrice productPrice={product.price} />
 			<ProductDescription productDescription={product.description} />
 			<Spacer />
-			<ProductRating productRating={product.rating} />
+			{!isLg && <ProductRating productRating={product.rating} />}
 			<Spacer />
-			<ProductAccordion
-				items={createProductAccordionData({
-					whyOliLovesIt: product.whyOliLovesIt,
-					howToUse: product.howToUse,
-					ingredients: product.ingredients,
-					concerns: product.concerns,
-				})}
-			/>
+			{!isLg && (
+				<ProductAccordion
+					items={createProductAccordionData({
+						whyOliLovesIt: product.whyOliLovesIt,
+						howToUse: product.howToUse,
+						ingredients: product.ingredients,
+						concerns: product.concerns,
+					})}
+				/>
+			)}
 			<AddToBagButton product={product} />
 		</div>
 	);
