@@ -79,7 +79,7 @@ export default function AllProducts() {
 				{hasMoreProducts && (
 					<button
 						onClick={loadMoreProducts}
-						className="w-full font-space-grotesk underline"
+						className="w-full font-space-grotesk underline cursor-pointer"
 					>
 						load more
 					</button>
